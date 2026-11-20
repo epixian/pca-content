@@ -1,5 +1,5 @@
 ---
-title: North American Presbyterian and Reformed Council completes the suspension of the Christian Reformed Church in North America
+title: NAPARC completes the suspension of the CRC
 date: 1998-11
 place: Sioux Falls, SD
 actors: [naparc]

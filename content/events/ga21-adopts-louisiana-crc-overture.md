@@ -1,5 +1,5 @@
 ---
-title: 21st General Assembly adopts Louisiana Presbytery's overture that calls the Christian Reformed Church in North America to repentance
+title: 21st General Assembly adopts Louisiana Presbytery's overture that calls the CRC to repentance
 date: 1993-06-08
 place: Columbia, SC
 actors: [pca-ga, louisiana-presbytery]

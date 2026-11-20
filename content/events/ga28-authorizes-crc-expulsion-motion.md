@@ -1,5 +1,5 @@
 ---
-title: 28th General Assembly authorizes the Interchurch Relations Committee to move the Christian Reformed Church in North America's expulsion from the North American Presbyterian and Reformed Council
+title: 28th General Assembly authorizes the Interchurch Relations Committee to move the CRC's expulsion from NAPARC
 date: 2000-06-21
 place: Tampa, FL
 actors: [pca-ga]

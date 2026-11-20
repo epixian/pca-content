@@ -1,5 +1,5 @@
 ---
-title: 21st General Assembly thanks God that the Christian Reformed Church in North America Synod of 1992 did not open church offices to women
+title: 21st General Assembly thanks God that the CRC Synod of 1992 did not open church offices to women
 date: 1993-06-08
 place: Columbia, SC
 actors: [pca-ga]

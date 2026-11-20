@@ -1,5 +1,5 @@
 ---
-title: North American Presbyterian and Reformed Council defers a PCA motion to expel the Christian Reformed Church in North America
+title: NAPARC defers a PCA motion to expel the CRC
 date: 2000-11-14/2000-11-15
 place: Los Angeles, CA
 actors: [naparc, irc]

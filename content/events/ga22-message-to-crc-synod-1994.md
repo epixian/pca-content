@@ -1,5 +1,5 @@
 ---
-title: 22nd General Assembly calls on the Christian Reformed Church in North America to reverse its steps to open offices to women
+title: 22nd General Assembly calls on the CRC to reverse its steps to open offices to women
 date: 1994-06-08
 place: Atlanta, GA
 actors: [pca-ga]

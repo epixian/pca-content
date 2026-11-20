@@ -1,5 +1,5 @@
 ---
-title: Providence session asks Pittsburgh Presbytery to examine Teaching Elder Rick Appleton
+title: Providence session asks Pittsburgh Presbytery to examine TE Rick Appleton
 date: 2026-02-05/2026-02-27
 place: Robinson Township, PA
 actors: [providence-robinson]

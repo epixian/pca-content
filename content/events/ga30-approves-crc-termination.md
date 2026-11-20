@@ -1,5 +1,5 @@
 ---
-title: 30th General Assembly approves the end of the Christian Reformed Church in North America's membership in the North American Presbyterian and Reformed Council
+title: 30th General Assembly approves the end of the CRC's membership in NAPARC
 date: 2002-06-19
 place: Birmingham, AL
 actors: [pca-ga]
