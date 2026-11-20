@@ -2,7 +2,7 @@
 title: "Louisiana Presbytery examines TE Steve Wilkins and finds no strong presumption of guilt"
 date: 2007-01-20
 actors: [louisiana-presbytery]
-subjects: [steve-wilkins]
+subjects: [steve-wilkins, james-jones]
 issues: [federal-vision, judicial-process]
 responds_to: [sjc-directs-louisiana-reexamine-wilkins]
 status: draft

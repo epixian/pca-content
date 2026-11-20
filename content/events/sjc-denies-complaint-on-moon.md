@@ -2,7 +2,7 @@
 title: "Standing Judicial Commission denies a complaint about Siouxlands Presbytery's handling of TE Joshua Moon"
 date: 2010-06-29/2011-03
 actors: [sjc]
-subjects: [siouxlands-presbytery, joshua-moon]
+subjects: [siouxlands-presbytery, joshua-moon, art-sartorius, greg-lawrence]
 issues: [federal-vision, judicial-process]
 responds_to: [siouxlands-finds-no-presumption-lawrence]
 status: draft

@@ -2,7 +2,7 @@
 title: Missouri Presbytery amends its theological judgments on Revoice
 date: 2019-12-07
 actors: [missouri-presbytery]
-subjects: [revoice, memorial-presbyterian-church]
+subjects: [revoice, memorial-presbyterian-church, ryan-speck]
 issues: [sexuality-and-ordination, revoice-and-johnson-case]
 responds_to: [missouri-begins-johnson-investigation]
 status: draft

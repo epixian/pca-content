@@ -2,7 +2,7 @@
 title: "Standing Judicial Commission orders a new trial of TE Greg Lawrence"
 date: 2014-06-17
 actors: [sjc]
-subjects: [siouxlands-presbytery, greg-lawrence]
+subjects: [siouxlands-presbytery, greg-lawrence, art-sartorius]
 issues: [federal-vision, judicial-process]
 responds_to: [siouxlands-acquits-lawrence]
 status: draft

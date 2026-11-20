@@ -2,7 +2,7 @@
 title: Missouri Presbytery adopts its committee's report on Memorial and Revoice
 date: 2019-05-18
 actors: [missouri-presbytery]
-subjects: [memorial-presbyterian-church, greg-johnson, revoice]
+subjects: [memorial-presbyterian-church, greg-johnson, revoice, ryan-speck]
 issues: [sexuality-and-ordination, revoice-and-johnson-case]
 responds_to: [missouri-forms-committee-on-memorial]
 status: draft

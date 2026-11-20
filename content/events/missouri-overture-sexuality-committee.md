@@ -2,6 +2,7 @@
 title: Missouri Presbytery asks for a committee to seek consensus on sexuality
 date: 2019-05-18
 actors: [missouri-presbytery]
+subjects: [revoice]
 issues: [sexuality-and-ordination, revoice-and-johnson-case]
 responds_to: [missouri-adopts-revoice-report]
 status: draft

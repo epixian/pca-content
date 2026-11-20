@@ -3,6 +3,7 @@ title: 48th General Assembly commends the human sexuality report
 date: 2021-07-01
 place: St. Louis, MO
 actors: [pca-ga, oc, calvary-presbytery]
+subjects: [cdm, sexuality-committee]
 issues: [sexuality-and-ordination]
 responds_to: [sexuality-committee-report]
 part_of: ga48

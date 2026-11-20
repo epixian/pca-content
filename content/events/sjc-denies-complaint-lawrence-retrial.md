@@ -2,7 +2,7 @@
 title: "Standing Judicial Commission denies the complaint against TE Greg Lawrence's second acquittal"
 date: 2017-10-19
 actors: [sjc]
-subjects: [siouxlands-presbytery, greg-lawrence]
+subjects: [siouxlands-presbytery, greg-lawrence, art-sartorius]
 issues: [federal-vision, judicial-process]
 responds_to: [siouxlands-retrial-acquits-lawrence]
 status: draft

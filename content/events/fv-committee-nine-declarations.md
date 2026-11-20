@@ -2,7 +2,7 @@
 title: "Federal Vision study committee reports nine declarations to the 35th General Assembly"
 date: 2007-06-13
 place: Memphis, TN
-actors: [fv-study-committee]
+actors: [fv-study-committee, paul-fowler, sean-lucas]
 issues: [federal-vision]
 responds_to: [ga34-erects-fv-study-committee]
 part_of: ga35

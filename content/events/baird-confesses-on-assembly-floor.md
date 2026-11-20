@@ -3,6 +3,7 @@ title: "Jim Baird confesses on the Assembly floor that he did nothing for civil 
 date: 2015-06-11
 place: Chattanooga, TN
 actors: [jim-baird]
+subjects: [mississippi-valley-presbytery]
 issues: [race-and-reconciliation, corporate-repentance]
 responds_to: [lucas-duncan-civil-rights-resolution]
 part_of: ga43

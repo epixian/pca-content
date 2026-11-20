@@ -2,7 +2,7 @@
 title: "Standing Judicial Commission sustains a complaint against Louisiana Presbytery's handling of TE Steve Wilkins"
 date: 2007-10-19
 actors: [sjc]
-subjects: [louisiana-presbytery, steve-wilkins]
+subjects: [louisiana-presbytery, steve-wilkins, james-jones]
 issues: [federal-vision, judicial-process]
 responds_to: [louisiana-finds-no-presumption-wilkins]
 status: draft

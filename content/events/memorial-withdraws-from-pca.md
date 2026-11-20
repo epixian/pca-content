@@ -3,7 +3,7 @@ title: Memorial Presbyterian Church votes to leave the PCA
 date: 2022-11-18
 place: St. Louis, MO
 actors: [memorial-presbyterian-church]
-subjects: [missouri-presbytery, greg-johnson]
+subjects: [missouri-presbytery, greg-johnson, revoice]
 issues: [sexuality-and-ordination, revoice-and-johnson-case]
 status: draft
 visibility: public

@@ -2,7 +2,7 @@
 title: Missouri Presbytery forms a committee to investigate Memorial and TE Greg Johnson
 date: 2018-10-16
 actors: [missouri-presbytery]
-subjects: [memorial-presbyterian-church, greg-johnson, revoice]
+subjects: [memorial-presbyterian-church, greg-johnson, revoice, ryan-speck]
 issues: [sexuality-and-ordination, revoice-and-johnson-case]
 responds_to: [johnson-requests-investigation]
 status: draft

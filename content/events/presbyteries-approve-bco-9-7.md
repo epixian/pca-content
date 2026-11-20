@@ -2,7 +2,7 @@
 title: Presbyteries approve the Book of Church Order 9-7 amendment 71-2
 date: 2010-07/2011-06
 actors: [pca, philadelphia-presbytery]
-subjects: [metro-atlanta-presbytery]
+subjects: [metro-atlanta-presbytery, chicago-metro-presbytery]
 issues: [diaconal-assistants, women-deacons]
 responds_to: [ga38-proposes-bco-9-7]
 status: draft

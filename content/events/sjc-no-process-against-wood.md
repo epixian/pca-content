@@ -2,7 +2,7 @@
 title: Standing Judicial Commission finds no strong presumption of guilt against TE John Wood
 date: 2000-10?
 actors: [sjc]
-subjects: [cedar-springs-presbyterian-church]
+subjects: [cedar-springs-presbyterian-church, john-wood]
 issues: [women-in-ministry, judicial-process]
 responds_to: [ga28-assumes-jurisdiction-wood]
 status: draft

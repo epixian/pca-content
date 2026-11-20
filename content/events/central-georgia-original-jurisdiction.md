@@ -2,7 +2,7 @@
 title: Central Georgia Presbytery asks the General Assembly to assume original jurisdiction over the Missouri case
 date: 2020-01-11
 actors: [central-georgia-presbytery]
-subjects: [missouri-presbytery, greg-johnson, memorial-presbyterian-church]
+subjects: [missouri-presbytery, greg-johnson, memorial-presbyterian-church, revoice]
 issues: [sexuality-and-ordination, revoice-and-johnson-case, judicial-process]
 responds_to: [missouri-adopts-revoice-report]
 status: draft

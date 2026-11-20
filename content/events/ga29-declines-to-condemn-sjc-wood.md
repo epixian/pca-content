@@ -3,7 +3,7 @@ title: 29th General Assembly declines to condemn the Standing Judicial Commissio
 date: 2001-06-21
 place: Dallas, TX
 actors: [pca-ga, calvary-presbytery, western-carolina-presbytery]
-subjects: [sjc]
+subjects: [sjc, john-wood]
 issues: [women-in-ministry, judicial-process]
 responds_to: [sjc-no-process-against-wood]
 part_of: ga29

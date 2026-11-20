@@ -3,6 +3,7 @@ title: "44th General Assembly confesses and repents of racial sins, including th
 date: 2016-06-23
 place: Mobile, AL
 actors: [pca-ga, oc, potomac-presbytery]
+subjects: [mississippi-valley-presbytery]
 issues: [race-and-reconciliation, corporate-repentance]
 responds_to: [potomac-overture-43, ga43-refers-civil-rights-resolution, north-florida-overture-spirituality-of-the-church, mississippi-valley-overture-55]
 part_of: ga44

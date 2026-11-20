@@ -2,7 +2,7 @@
 title: Calvary Presbytery asks the General Assembly to declare the Nashville Statement biblically faithful
 date: 2018-10-25
 actors: [calvary-presbytery]
-subjects: [cbmw]
+subjects: [cbmw, cdm]
 issues: [sexuality-and-ordination]
 status: draft
 visibility: public

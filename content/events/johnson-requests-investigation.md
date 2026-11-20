@@ -3,7 +3,7 @@ title: TE Greg Johnson and the Memorial session ask Missouri Presbytery to inves
 date: 2018-10-10
 place: St. Louis, MO
 actors: [greg-johnson, memorial-presbyterian-church]
-subjects: [missouri-presbytery]
+subjects: [missouri-presbytery, revoice]
 issues: [sexuality-and-ordination, revoice-and-johnson-case, judicial-process]
 responds_to: [revoice-2018-conference]
 status: draft

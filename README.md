@@ -117,10 +117,11 @@ One sentence that describes the issue.
 short: M36GA
 title: Minutes of the 36th General Assembly
 date: 2008
-kind: minutes        # minutes | study | statement | overture | court | book | news | opinion | article | website
+kind: minutes        # minutes | study | statement | overture | court | transcript | book | news | opinion | article | website
 # Three kinds of evidence:
 #   record    (minutes, overture, court, news): what a body did - cited as fact
 #             (court: complaints, reports and indictments in a church court case)
+#             (transcript: the words of a speech as given, e.g. on the floor of an Assembly)
 #   position  (statement; an adopted study): a stance a body formally adopted - cited for the
 #             fact that it holds the stance, and its exact words
 #   opinion   (opinion, most articles and books): what authors argued, with no body adopting it

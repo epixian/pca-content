@@ -2,7 +2,7 @@
 title: Tennessee Valley Presbytery finds the Cedar Springs session in conformity and declares women should not preach
 date: 1999-10-12
 actors: [tennessee-valley-presbytery]
-subjects: [cedar-springs-presbyterian-church, western-carolina-presbytery, calvary-presbytery, ascension-presbytery]
+subjects: [cedar-springs-presbyterian-church, western-carolina-presbytery, calvary-presbytery, ascension-presbytery, john-wood]
 issues: [women-in-ministry, judicial-process]
 responds_to: [cedar-springs-woman-speaks]
 status: draft

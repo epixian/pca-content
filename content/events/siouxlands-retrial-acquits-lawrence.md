@@ -2,7 +2,7 @@
 title: "Siouxlands Presbytery retries TE Greg Lawrence and finds him not guilty"
 date: 2015-09-25
 actors: [siouxlands-presbytery]
-subjects: [greg-lawrence]
+subjects: [greg-lawrence, art-sartorius]
 issues: [federal-vision, judicial-process]
 responds_to: [sjc-orders-lawrence-retrial]
 status: draft

@@ -2,7 +2,7 @@
 title: Standing Judicial Commission answers the 2020 requests for original jurisdiction over the Missouri case
 date: 2022-03-03
 actors: [sjc]
-subjects: [missouri-presbytery, greg-johnson, central-georgia-presbytery, savannah-river-presbytery, southeast-alabama-presbytery]
+subjects: [missouri-presbytery, greg-johnson, central-georgia-presbytery, savannah-river-presbytery, southeast-alabama-presbytery, ryan-speck]
 issues: [sexuality-and-ordination, revoice-and-johnson-case, judicial-process]
 responds_to: [central-georgia-original-jurisdiction, savannah-river-original-jurisdiction, southeast-alabama-original-jurisdiction, sjc-denies-speck-complaint]
 status: draft

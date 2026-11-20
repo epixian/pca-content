@@ -2,7 +2,7 @@
 title: Other presbyteries write to Missouri Presbytery about Revoice and TE Greg Johnson
 date: 2018-10-25/2019-08
 actors: [calvary-presbytery, southwest-florida-presbytery, savannah-river-presbytery, westminster-presbytery, southeast-alabama-presbytery]
-subjects: [missouri-presbytery, memorial-presbyterian-church, greg-johnson]
+subjects: [missouri-presbytery, memorial-presbyterian-church, greg-johnson, revoice]
 issues: [sexuality-and-ordination, revoice-and-johnson-case]
 responds_to: [revoice-2018-conference]
 status: draft

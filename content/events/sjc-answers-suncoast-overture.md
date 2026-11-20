@@ -2,7 +2,7 @@
 title: "Standing Judicial Commission finds the Suncoast Florida overture on Auburn Avenue out of accord with the Book of Church Order"
 date: 2006-06/2008-06-11
 actors: [sjc]
-subjects: [suncoast-florida-presbytery, auburn-avenue-presbyterian-church, louisiana-presbytery]
+subjects: [suncoast-florida-presbytery, auburn-avenue-presbyterian-church, louisiana-presbytery, steve-wilkins]
 issues: [federal-vision, original-jurisdiction, judicial-process]
 responds_to: [suncoast-overture-auburn-avenue]
 status: draft

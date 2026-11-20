@@ -3,7 +3,7 @@ title: "34th General Assembly erects an ad interim committee on Federal Vision, 
 date: 2006-06-22
 place: Atlanta, GA
 actors: [pca-ga, rocky-mountain-presbytery]
-subjects: [fv-study-committee]
+subjects: [fv-study-committee, paul-fowler, missouri-presbytery]
 issues: [federal-vision]
 responds_to: [ga33-declines-npp-report-distribution]
 part_of: ga34

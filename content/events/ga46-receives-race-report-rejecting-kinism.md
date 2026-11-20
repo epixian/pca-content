@@ -3,6 +3,7 @@ title: "46th General Assembly receives a racial reconciliation report that rejec
 date: 2018-06
 place: Atlanta, GA
 actors: [pca-ga]
+subjects: [racial-reconciliation-committee]
 issues: [ethno-nationalism, race-and-reconciliation]
 part_of: ga46
 status: draft
