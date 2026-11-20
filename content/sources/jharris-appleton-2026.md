@@ -1,5 +1,5 @@
 ---
-short: Harris, Substack 2026-07-24
+short: Harris, Substack 07/24/2026
 title: "The Rick Appleton Indictment: What Conservatives Should Be Watching (Jon Harris, From the Desk of Jon Harris, Substack)"
 date: 2026-07-24
 kind: opinion

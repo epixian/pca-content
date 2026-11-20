@@ -1,5 +1,5 @@
 ---
-short: Christian Post 2026-06-01
+short: Christian Post 06/01/2026
 title: "PCA Pastor Zachary Garris suspended indefinitely for 'unwholesome speech' (Leonardo Blair, The Christian Post)"
 date: 2026-06-01
 kind: news
