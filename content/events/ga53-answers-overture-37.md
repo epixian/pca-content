@@ -5,6 +5,7 @@ place: Louisville, KY
 actors: [pca-ga, oc, pacific-presbytery]
 issues: [women-deacons, women-in-ministry, titles-of-office]
 responds_to: [swfl-overture-14-titles]
+part_of: ga53
 status: draft
 visibility: public
 citations:

@@ -6,6 +6,7 @@ actors: [pca-ga]
 subjects: [irc, naparc, epc]
 issues: [ecumenical-relations, women-in-ministry]
 responds_to: [naparc-postpones-epc-1995, ga17-declines-epc-fellowship]
+part_of: ga25
 status: draft
 visibility: public
 citations:

@@ -5,6 +5,7 @@ place: Colorado Springs, CO
 actors: [pca-ga, philadelphia-presbytery]
 issues: [women-in-military]
 responds_to: [ga24-concern-women-in-combat]
+part_of: ga25
 status: draft
 visibility: public
 citations:

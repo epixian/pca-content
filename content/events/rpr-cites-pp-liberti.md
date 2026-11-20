@@ -6,6 +6,7 @@ actors: [rpr]
 subjects: [philadelphia-presbytery, liberti-church]
 issues: [women-deacons, rpr-review, deaconess-title]
 responds_to: [liberti-commissions-diaconate]
+part_of: ga35
 status: draft
 visibility: public
 citations:

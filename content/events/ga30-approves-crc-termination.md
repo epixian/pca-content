@@ -6,6 +6,7 @@ actors: [pca-ga]
 subjects: [crc, naparc, irc]
 issues: [complementarianism, ecumenical-relations]
 responds_to: [naparc-recommends-crc-termination]
+part_of: ga30
 status: draft
 visibility: public
 citations:

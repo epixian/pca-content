@@ -6,6 +6,7 @@ actors: [pca-ga, rpr]
 subjects: [korean-southern-presbytery]
 issues: [women-deacons, rpr-review]
 responds_to: [ga30-rpr-korean-southern-deaconesses]
+part_of: ga31
 status: draft
 visibility: public
 citations:

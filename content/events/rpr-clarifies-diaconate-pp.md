@@ -6,6 +6,7 @@ actors: [rpr]
 subjects: [philadelphia-presbytery, liberti-church]
 issues: [women-deacons, rpr-review, commissioning-vs-ordination, diaconal-assistants]
 responds_to: [pp-requests-clarification-liberti]
+part_of: ga36
 status: draft
 visibility: public
 citations:

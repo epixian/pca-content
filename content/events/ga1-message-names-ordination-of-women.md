@@ -5,6 +5,7 @@ place: Birmingham, AL
 actors: [pca-ga]
 subjects: [pcus]
 issues: [women-in-ministry, complementarianism]
+part_of: ga1
 status: draft
 visibility: public
 citations:

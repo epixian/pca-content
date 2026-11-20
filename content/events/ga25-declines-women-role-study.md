@@ -4,6 +4,7 @@ date: 1997-06-12
 place: Colorado Springs, CO
 actors: [pca-ga]
 issues: [women-in-ministry]
+part_of: ga25
 status: draft
 visibility: public
 citations:

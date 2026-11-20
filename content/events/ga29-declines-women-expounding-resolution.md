@@ -6,6 +6,7 @@ actors: [pca-ga]
 subjects: [mna]
 issues: [women-in-ministry]
 responds_to: [ga28-adopts-mna-seminar-guidelines]
+part_of: ga29
 status: draft
 visibility: public
 citations:

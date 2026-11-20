@@ -6,6 +6,7 @@ actors: [pca-ga, oc, nashville-presbytery]
 subjects: [tennessee-valley-presbytery]
 issues: [women-in-ministry]
 responds_to: [ga45-women-roles-recommendations, ga17-women-not-on-ga-committees]
+part_of: ga46
 status: draft
 visibility: public
 citations:

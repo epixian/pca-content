@@ -6,6 +6,7 @@ actors: [rpr, pca-ga]
 subjects: [metro-atlanta-presbytery]
 issues: [rpr-review, women-deacons, churches-without-diaconate, diaconal-assistants]
 responds_to: [rpr-cites-map-commissioning]
+part_of: ga39
 status: draft
 visibility: public
 citations:

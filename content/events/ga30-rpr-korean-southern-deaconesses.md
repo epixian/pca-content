@@ -5,6 +5,7 @@ place: Birmingham, AL
 actors: [pca-ga, rpr]
 subjects: [korean-southern-presbytery]
 issues: [women-deacons, rpr-review, deaconess-title]
+part_of: ga30
 status: draft
 visibility: public
 citations:

@@ -5,6 +5,7 @@ place: Birmingham, AL
 actors: [pca-ga, women-in-military-committee]
 issues: [women-in-military]
 responds_to: [ga29-women-military-consensus]
+part_of: ga30
 status: draft
 visibility: public
 citations:

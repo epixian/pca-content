@@ -4,6 +4,7 @@ date: 2001-06-21
 place: Dallas, TX
 actors: [pca-ga, grace-presbytery]
 issues: [women-in-ministry, complementarianism]
+part_of: ga29
 status: draft
 visibility: public
 citations:

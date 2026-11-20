@@ -5,6 +5,7 @@ place: Dallas, TX
 actors: [pca-ga, women-in-military-committee]
 issues: [women-in-military]
 responds_to: [ga26-forms-women-military-committee]
+part_of: ga29
 status: draft
 visibility: public
 citations:

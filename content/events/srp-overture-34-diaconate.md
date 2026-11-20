@@ -5,6 +5,7 @@ place: Chattanooga, TN
 actors: [savannah-river-presbytery, pca-ga]
 issues: [churches-without-diaconate, diaconal-assistants, rpr-review]
 responds_to: [nwgp-overture-titles, srp-overture-25-diaconate-2018, ga45-adopts-women-study-report]
+part_of: ga52
 status: draft
 visibility: public
 citations:

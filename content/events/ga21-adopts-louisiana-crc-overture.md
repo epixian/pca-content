@@ -6,6 +6,7 @@ actors: [pca-ga, louisiana-presbytery]
 subjects: [crc]
 issues: [ecumenical-relations, women-in-ministry]
 responds_to: [ga21-thanks-crc-synod-1992]
+part_of: ga21
 status: draft
 visibility: public
 citations:

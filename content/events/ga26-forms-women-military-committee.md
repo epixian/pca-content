@@ -6,6 +6,7 @@ actors: [pca-ga, philadelphia-presbytery]
 subjects: [women-in-military-committee]
 issues: [women-in-military]
 responds_to: [ga25-declines-women-in-combat-overture, ga24-concern-women-in-combat]
+part_of: ga26
 status: draft
 visibility: public
 citations:

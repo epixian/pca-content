@@ -5,6 +5,7 @@ place: St. Louis, MO
 actors: [pca-ga, rpr]
 subjects: [southern-florida-presbytery]
 issues: [women-in-ministry, rpr-review]
+part_of: ga26
 status: draft
 visibility: public
 citations:

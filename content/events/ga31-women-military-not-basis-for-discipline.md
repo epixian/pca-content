@@ -5,6 +5,7 @@ place: Charlotte, NC
 actors: [pca-ga, potomac-presbytery, chesapeake-presbytery]
 issues: [women-in-military, judicial-process]
 responds_to: [ga30-condemns-women-combatants]
+part_of: ga31
 status: draft
 visibility: public
 citations:

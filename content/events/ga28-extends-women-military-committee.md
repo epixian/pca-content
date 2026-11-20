@@ -5,6 +5,7 @@ place: Tampa, FL
 actors: [pca-ga, women-in-military-committee]
 issues: [women-in-military]
 responds_to: [ga27-receives-women-military-report]
+part_of: ga28
 status: draft
 visibility: public
 citations:

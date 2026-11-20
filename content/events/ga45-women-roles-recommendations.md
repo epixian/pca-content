@@ -6,6 +6,7 @@ actors: [pca-ga]
 subjects: [women-study-committee]
 issues: [women-in-ministry, complementarianism]
 responds_to: [ga44-forms-women-study-committee]
+part_of: ga45
 status: draft
 visibility: public
 citations:

@@ -5,6 +5,7 @@ place: Atlanta, GA
 actors: [savannah-river-presbytery, pca-ga]
 issues: [churches-without-diaconate, diaconal-assistants]
 responds_to: [ga45-adopts-women-study-report]
+part_of: ga46
 status: draft
 visibility: public
 citations:

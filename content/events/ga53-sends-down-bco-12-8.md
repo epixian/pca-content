@@ -5,6 +5,7 @@ place: Louisville, KY
 actors: [ascension-presbytery, oc, pca-ga]
 issues: [churches-without-diaconate, women-deacons]
 responds_to: [srp-overture-34-diaconate]
+part_of: ga53
 status: draft
 visibility: public
 citations:

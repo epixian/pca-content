@@ -6,6 +6,7 @@ actors: [calvary-presbytery, oc, pca-ga]
 subjects: [cbmw]
 issues: [complementarianism]
 responds_to: [ga37-declines-danvers, danvers-statement-published]
+part_of: ga53
 status: draft
 visibility: public
 citations:

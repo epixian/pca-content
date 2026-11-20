@@ -4,6 +4,7 @@ date: 1999-06-16
 place: Louisville, KY
 actors: [pca-ga, mna]
 issues: [women-in-ministry]
+part_of: ga27
 status: draft
 visibility: public
 citations:

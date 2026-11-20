@@ -5,6 +5,7 @@ place: Memphis, TN
 actors: [pca-ga, oc]
 issues: [women-in-ministry]
 responds_to: [ga45-women-roles-recommendations]
+part_of: ga50
 status: draft
 visibility: public
 citations:

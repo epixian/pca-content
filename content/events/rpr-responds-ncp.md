@@ -6,6 +6,7 @@ actors: [rpr]
 subjects: [northern-california-presbytery]
 issues: [women-deacons, rpr-review, commissioning-vs-ordination, diaconal-assistants]
 responds_to: [ncp-responds-deaconess-exception]
+part_of: ga36
 status: draft
 visibility: public
 citations:

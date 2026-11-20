@@ -6,6 +6,7 @@ actors: [rpr]
 subjects: [northern-california-presbytery]
 issues: [women-deacons, rpr-review, commissioning-vs-ordination, deaconess-title]
 responds_to: [ncp-church-commissions-deaconesses]
+part_of: ga35
 status: draft
 visibility: public
 citations:

@@ -6,6 +6,7 @@ actors: [pca-ga]
 subjects: [crc, irc]
 issues: [ecumenical-relations, women-in-ministry]
 responds_to: [ga21-adopts-louisiana-crc-overture, naparc-calls-crc-reverse-1993]
+part_of: ga22
 status: draft
 visibility: public
 citations:

@@ -5,6 +5,7 @@ place: Louisville, KY
 actors: [pca-ga]
 issues: [women-in-ministry]
 responds_to: [ga26-rpr-southern-florida-women-in-worship]
+part_of: ga27
 status: draft
 visibility: public
 citations:

@@ -5,6 +5,7 @@ place: Columbia, SC
 actors: [pca-ga]
 subjects: [crc]
 issues: [ecumenical-relations, women-in-ministry]
+part_of: ga21
 status: draft
 visibility: public
 citations:

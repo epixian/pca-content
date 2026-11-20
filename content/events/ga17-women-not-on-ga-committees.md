@@ -4,6 +4,7 @@ date: 1989-06-20
 place: La Mirada, CA
 actors: [pca-ga, tennessee-valley-presbytery]
 issues: [women-in-ministry]
+part_of: ga17
 status: draft
 visibility: public
 citations:

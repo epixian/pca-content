@@ -5,6 +5,7 @@ place: Birmingham, AL
 actors: [pca-ga]
 issues: [women-in-ministry, complementarianism]
 responds_to: [presbyteries-approve-bco-12-5e]
+part_of: ga30
 status: draft
 visibility: public
 citations:

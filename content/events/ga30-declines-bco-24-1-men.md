@@ -4,6 +4,7 @@ date: 2002-06-20
 place: Birmingham, AL
 actors: [pca-ga, rocky-mountain-presbytery]
 issues: [women-in-ministry, complementarianism]
+part_of: ga30
 status: draft
 visibility: public
 citations:

@@ -6,6 +6,7 @@ actors: [pca-ga, sjc]
 subjects: [cedar-springs-presbyterian-church, tennessee-valley-presbytery, western-carolina-presbytery, calvary-presbytery, ascension-presbytery, louisiana-presbytery]
 issues: [women-in-ministry, judicial-process]
 responds_to: [tvp-clears-cedar-springs-session]
+part_of: ga28
 status: draft
 visibility: public
 citations:

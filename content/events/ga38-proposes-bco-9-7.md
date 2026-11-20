@@ -6,6 +6,7 @@ actors: [pca-ga, oc]
 subjects: [evangel-presbytery, central-carolina-presbytery, eastern-carolina-presbytery, westminster-presbytery, tennessee-valley-presbytery, northern-california-presbytery]
 issues: [diaconal-assistants, deaconess-title, women-deacons]
 responds_to: [overtures-38ga-amend-bco-9-7, tennessee-valley-overture-deaconesses-38ga, ncp-overture-unordained-diaconal-38ga]
+part_of: ga38
 status: draft
 visibility: public
 citations:

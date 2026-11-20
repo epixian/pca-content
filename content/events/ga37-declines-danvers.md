@@ -6,6 +6,7 @@ actors: [pca-ga, oc]
 subjects: [grace-presbytery, cbmw]
 issues: [complementarianism, headship-in-marriage, women-in-ministry]
 responds_to: [grace-overture-danvers]
+part_of: ga37
 status: draft
 visibility: public
 citations:

@@ -41,6 +41,8 @@ actors: [rpr]              # who acted; these make the timeline lanes
 subjects: [philadelphia-presbytery, liberti-church]   # optional: who it was about
 issues: [women-deacons, rpr-review]
 responds_to: [liberti-commissions-diaconate]          # earlier events; a list
+kind: act                  # optional: act (default) | meeting (e.g. a General Assembly; issues optional)
+part_of: ga36              # optional: the meeting event this act belongs to; the meeting page lists its acts
 status: draft              # draft | reviewed | needs-citation
 visibility: public         # public | private (private events are not published)
 citations:

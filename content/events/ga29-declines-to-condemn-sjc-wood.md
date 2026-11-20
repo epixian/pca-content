@@ -6,6 +6,7 @@ actors: [pca-ga, calvary-presbytery, western-carolina-presbytery]
 subjects: [sjc]
 issues: [women-in-ministry, judicial-process]
 responds_to: [sjc-no-process-against-wood]
+part_of: ga29
 status: draft
 visibility: public
 citations:

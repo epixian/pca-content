@@ -6,6 +6,7 @@ actors: [rpr]
 subjects: [philadelphia-presbytery]
 issues: [women-deacons, rpr-review]
 responds_to: [pp-forms-diaconal-committee]
+part_of: ga21
 status: draft
 visibility: public
 citations:

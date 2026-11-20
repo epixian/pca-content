@@ -5,6 +5,7 @@ place: Louisville, KY
 actors: [pca-ga, women-in-military-committee]
 issues: [women-in-military, complementarianism]
 responds_to: [ga26-forms-women-military-committee]
+part_of: ga27
 status: draft
 visibility: public
 citations:

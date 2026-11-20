@@ -4,6 +4,7 @@ date: 2023-06-15
 place: Memphis, TN
 actors: [northwest-georgia-presbytery, pca-ga]
 issues: [titles-of-office, deaconess-title]
+part_of: ga50
 status: draft
 visibility: public
 citations:

@@ -6,6 +6,7 @@ actors: [pca-ga]
 subjects: [crc, naparc, irc]
 issues: [complementarianism, ecumenical-relations]
 responds_to: [naparc-votes-to-suspend-crc, ga25-ends-crc-fellowship]
+part_of: ga26
 status: draft
 visibility: public
 citations:

@@ -6,6 +6,7 @@ actors: [pca-ga]
 subjects: [crc, irc]
 issues: [complementarianism, ecumenical-relations, women-in-ministry]
 responds_to: [ga25-ends-crc-fellowship]
+part_of: ga26
 status: draft
 visibility: public
 citations:

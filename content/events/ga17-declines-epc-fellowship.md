@@ -6,6 +6,7 @@ actors: [pca-ga]
 subjects: [epc]
 responds_to: [epc-women-ordination-position-paper]
 issues: [ecumenical-relations, women-in-ministry]
+part_of: ga17
 status: draft
 visibility: public
 citations:

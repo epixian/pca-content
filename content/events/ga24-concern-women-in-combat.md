@@ -4,6 +4,7 @@ date: 1996-06-21
 place: Fort Lauderdale, FL
 actors: [pca-ga, philadelphia-presbytery]
 issues: [women-in-military]
+part_of: ga24
 status: draft
 visibility: public
 citations:

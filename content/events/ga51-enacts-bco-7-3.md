@@ -5,6 +5,7 @@ place: Richmond, VA
 actors: [pca-ga]
 issues: [titles-of-office, deaconess-title]
 responds_to: [presbyteries-approve-bco-7-3]
+part_of: ga51
 status: draft
 visibility: public
 citations:

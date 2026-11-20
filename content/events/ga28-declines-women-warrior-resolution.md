@@ -6,6 +6,7 @@ actors: [pca-ga]
 subjects: [women-in-military-committee]
 issues: [women-in-military]
 responds_to: [ga28-extends-women-military-committee]
+part_of: ga28
 status: draft
 visibility: public
 citations:

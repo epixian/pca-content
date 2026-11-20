@@ -6,6 +6,7 @@ actors: [pca-ga]
 subjects: [mna]
 issues: [women-in-ministry]
 responds_to: [ga27-mna-woman-speaker]
+part_of: ga27
 status: draft
 visibility: public
 citations:
