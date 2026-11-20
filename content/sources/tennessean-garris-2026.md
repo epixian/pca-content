@@ -1,5 +1,5 @@
 ---
-short: Tennessean 06/01/2026
+short: Tennessean 6/1/2026
 title: "PCA pastor suspended after trial over slavery, other online comments (Liam Adams, The Tennessean; Yahoo News copy)"
 date: 2026-06-01
 kind: news

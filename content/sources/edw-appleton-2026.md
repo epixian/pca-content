@@ -1,5 +1,5 @@
 ---
-short: Evangelical Dark Web 07/24/2026
+short: Evangelical Dark Web 7/24/2026
 title: "PCA Pittsburgh Presbytery Deposes Teaching Elder Rick Appleton For Offending Woke Woman (Evangelical Dark Web)"
 date: 2026-07-24
 kind: opinion

@@ -1,5 +1,5 @@
 ---
-short: Nelson, X 07/21/2026
+short: Nelson, X 7/21/2026
 title: "Post on X by Jared Nelson (@brothernelson) on the vote in the Appleton trial, July 21, 2026 (JSON copy via the fxtwitter API)"
 date: 2026-07-21
 kind: opinion
