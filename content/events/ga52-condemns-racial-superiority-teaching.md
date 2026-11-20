@@ -4,7 +4,7 @@ date: 2025-06-26
 place: Chattanooga, TN
 actors: [pca-ga, oc, tennessee-valley-presbytery]
 subjects: [arp, rpcna]
-issues: [ethno-nationalism, christian-nationalism]
+issues: [ethno-nationalism, christian-nationalism, race-and-reconciliation]
 responds_to: [tennessee-valley-overture-48]
 part_of: ga52
 status: draft
