@@ -3,7 +3,7 @@ title: Philadelphia Presbytery asks the Committee on Review of Presbytery Record
 date: ../2008-06-09
 actors: [philadelphia-presbytery]
 subjects: [rpr, liberti-church]
-issues: [women-deacons, rpr-review, deaconess-title]
+issues: [women-deacons, deaconess-title]
 responds_to: [rpr-cites-pp-liberti]
 status: draft
 visibility: public

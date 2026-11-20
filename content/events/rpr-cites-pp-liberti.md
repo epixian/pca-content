@@ -4,7 +4,7 @@ date: 2007-06-12/2007-06-14
 place: Memphis, TN
 actors: [rpr]
 subjects: [philadelphia-presbytery, liberti-church]
-issues: [women-deacons, rpr-review, deaconess-title]
+issues: [women-deacons, deaconess-title]
 responds_to: [liberti-commissions-diaconate]
 part_of: ga35
 status: draft

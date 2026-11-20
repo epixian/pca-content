@@ -4,7 +4,7 @@ date: 2011-06-08
 place: Virginia Beach, VA
 actors: [rpr, pca-ga]
 subjects: [metro-atlanta-presbytery]
-issues: [rpr-review, women-deacons, churches-without-diaconate, diaconal-assistants]
+issues: [women-deacons, churches-without-diaconate, diaconal-assistants]
 responds_to: [rpr-cites-map-commissioning]
 part_of: ga39
 status: draft

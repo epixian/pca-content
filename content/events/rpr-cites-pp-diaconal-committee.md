@@ -4,7 +4,7 @@ date: 1993-06-07/1993-06-11
 place: Columbia, SC
 actors: [rpr]
 subjects: [philadelphia-presbytery]
-issues: [women-deacons, rpr-review]
+issues: [women-deacons]
 responds_to: [pp-forms-diaconal-committee]
 part_of: ga21
 status: draft

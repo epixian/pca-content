@@ -4,7 +4,7 @@ date: 2008-06-10/2008-06-12
 place: Dallas, TX
 actors: [rpr]
 subjects: [philadelphia-presbytery, liberti-church]
-issues: [women-deacons, rpr-review, commissioning-vs-ordination, diaconal-assistants]
+issues: [women-deacons, commissioning-vs-ordination, diaconal-assistants]
 responds_to: [pp-requests-clarification-liberti]
 part_of: ga36
 status: draft

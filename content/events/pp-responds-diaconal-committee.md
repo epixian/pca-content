@@ -3,7 +3,7 @@ title: Philadelphia Presbytery defends women on its Diaconal Committee and drops
 date: ../1994-06-05
 actors: [philadelphia-presbytery]
 subjects: [rpr]
-issues: [women-deacons, diaconal-assistants, deaconess-title, rpr-review]
+issues: [women-deacons, diaconal-assistants, deaconess-title]
 responds_to: [rpr-cites-pp-diaconal-committee]
 status: draft
 visibility: public

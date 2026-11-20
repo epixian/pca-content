@@ -4,7 +4,7 @@ date: 2010-06-30
 place: Nashville, TN
 actors: [rpr, pca-ga]
 subjects: [metro-atlanta-presbytery]
-issues: [rpr-review, women-deacons, commissioning-vs-ordination, diaconal-assistants]
+issues: [women-deacons, commissioning-vs-ordination, diaconal-assistants]
 responds_to: [map-elects-women-diaconal]
 part_of: ga38
 status: draft

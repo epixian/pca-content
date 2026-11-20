@@ -4,7 +4,7 @@ date: 2007-06-12/2007-06-14
 place: Memphis, TN
 actors: [rpr]
 subjects: [northern-california-presbytery]
-issues: [women-deacons, rpr-review, commissioning-vs-ordination, deaconess-title]
+issues: [women-deacons, commissioning-vs-ordination, deaconess-title]
 responds_to: [ncp-church-commissions-deaconesses]
 part_of: ga35
 status: draft

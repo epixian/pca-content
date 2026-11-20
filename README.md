@@ -39,7 +39,7 @@ date: 2007-06              # EDTF: when the act happened (see below)
 place: Memphis, TN         # optional: where it happened
 actors: [rpr]              # who acted; these make the timeline lanes
 subjects: [philadelphia-presbytery, liberti-church]   # optional: who it was about
-issues: [women-deacons, rpr-review]
+issues: [women-deacons, deaconess-title]
 responds_to: [liberti-commissions-diaconate]          # earlier events; a list
 kind: act                  # optional: act (default) | meeting (e.g. a General Assembly; issues optional)
 series: general-assembly   # optional: a series of regular events (prev/next links); names in build.py SERIES

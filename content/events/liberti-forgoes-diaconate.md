@@ -3,7 +3,7 @@ title: Philadelphia Presbytery explains why Liberti's one deacon was not ordaine
 date: ../2009-06-15
 actors: [philadelphia-presbytery]
 subjects: [liberti-church, rpr]
-issues: [women-deacons, churches-without-diaconate, commissioning-vs-ordination, rpr-review]
+issues: [women-deacons, churches-without-diaconate, commissioning-vs-ordination]
 responds_to: [rpr-clarifies-diaconate-pp]
 status: draft
 visibility: public

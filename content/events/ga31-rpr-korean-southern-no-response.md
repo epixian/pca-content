@@ -4,7 +4,7 @@ date: 2003-06-13
 place: Charlotte, NC
 actors: [pca-ga, rpr]
 subjects: [korean-southern-presbytery]
-issues: [women-deacons, rpr-review]
+issues: [women-deacons]
 responds_to: [ga30-rpr-korean-southern-deaconesses]
 part_of: ga31
 status: draft

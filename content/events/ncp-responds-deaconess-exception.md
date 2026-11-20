@@ -3,7 +3,7 @@ title: Northern California Presbytery disagrees with the exception on commission
 date: ../2008-06-09
 actors: [northern-california-presbytery]
 subjects: [rpr]
-issues: [women-deacons, rpr-review, commissioning-vs-ordination, ordination-exceptions]
+issues: [women-deacons, commissioning-vs-ordination, ordination-exceptions]
 responds_to: [rpr-cites-ncp-deaconesses]
 status: draft
 visibility: public

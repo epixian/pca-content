@@ -4,7 +4,7 @@ date: 1998-07-03
 place: St. Louis, MO
 actors: [pca-ga, rpr]
 subjects: [southern-florida-presbytery]
-issues: [women-in-ministry, rpr-review]
+issues: [women-in-ministry]
 part_of: ga26
 status: draft
 visibility: public
