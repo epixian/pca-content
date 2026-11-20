@@ -126,6 +126,7 @@ kind: minutes        # minutes | study | statement | overture | court | book | n
 #   opinion   (opinion, most articles and books): what authors argued, with no body adopting it
 url: https://pcahistory.org/pca/ga/36th_pcaga_2008.pdf
 fetch: https://...    # optional: where tools/fetch.py downloads the text, if not from url (e.g. an X post mirror)
+meeting: ga36        # optional: the meeting event these minutes record (links both ways)
 origin: unknown      # optional: a copy posted online by a party we cannot identify (shown as a badge)
 link: false          # optional: cite the source, but never link to it or show its pages
                      # (for a document that names private individuals)
