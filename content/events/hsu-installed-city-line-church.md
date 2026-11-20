@@ -1,5 +1,5 @@
 ---
-title: PP approves Hsu's call to City Line Church without questions on the diaconate
+title: Philadelphia Presbytery approves Hsu's call to City Line Church without questions on the diaconate
 date: 2011-06-03
 actors: [philadelphia-presbytery, city-line-church]
 subjects: [jason-hsu, city-church]

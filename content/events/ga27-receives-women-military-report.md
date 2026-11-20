@@ -1,5 +1,5 @@
 ---
-title: 27th GA receives the women-in-the-military report as information and refers it back
+title: 27th General Assembly receives the women-in-the-military report as information and refers it back
 date: 1999-06-17
 place: Louisville, KY
 actors: [pca-ga, women-in-military-committee]

@@ -1,5 +1,5 @@
 ---
-title: 26th GA answers the CRC's defense of women's ordination
+title: 26th General Assembly answers the Christian Reformed Church in North America's defense of women's ordination
 date: 1998-07-01
 place: St. Louis, MO
 actors: [pca-ga]

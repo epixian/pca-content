@@ -1,5 +1,5 @@
 ---
-title: CBMW publishes the Danvers Statement
+title: Council on Biblical Manhood and Womanhood publishes the Danvers Statement
 date: 1988-11
 place: Wheaton, IL
 actors: [cbmw]

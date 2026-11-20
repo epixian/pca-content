@@ -1,5 +1,5 @@
 ---
-title: SBC again rejects an amendment on women pastors
+title: Southern Baptist Convention again rejects an amendment on women pastors
 date: 2025-06-11
 place: Dallas, TX
 actors: [sbc]

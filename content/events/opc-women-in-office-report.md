@@ -1,5 +1,5 @@
 ---
-title: OPC Assembly receives the report on women in church office
+title: Orthodox Presbyterian Church Assembly receives the report on women in church office
 date: 1988
 actors: [opc]
 issues: [complementarianism, women-deacons]

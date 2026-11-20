@@ -1,5 +1,5 @@
 ---
-title: CBMW leaders prepare the Danvers Statement
+title: Council on Biblical Manhood and Womanhood leaders prepare the Danvers Statement
 date: 1987-12
 place: Danvers, MA
 actors: [cbmw]

@@ -1,5 +1,5 @@
 ---
-title: PP denies the Crossroads overture on the diaconate
+title: Philadelphia Presbytery denies the Crossroads overture on the diaconate
 date: 2009-03-31
 actors: [philadelphia-presbytery]
 subjects: [crossroads-community-church]

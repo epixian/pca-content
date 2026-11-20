@@ -1,5 +1,5 @@
 ---
-title: PP rules the complaint about Hsu's call out of order
+title: Philadelphia Presbytery rules the complaint about Hsu's call out of order
 date: 2011-09-21
 actors: [philadelphia-presbytery]
 subjects: [jason-hsu, city-line-church]

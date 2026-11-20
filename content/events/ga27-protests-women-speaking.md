@@ -1,5 +1,5 @@
 ---
-title: Commissioners protest women addressing the 27th GA and the vindication of MNA
+title: Commissioners protest women addressing the 27th General Assembly and the vindication of Mission to North America
 date: 1999-06-17
 place: Louisville, KY
 actors: [pca-ga]

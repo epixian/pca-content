@@ -1,5 +1,5 @@
 ---
-title: 46th GA answers Grace Presbytery's BCO 9-7 overture in the negative
+title: 46th General Assembly answers Grace Presbytery's Book of Church Order 9-7 overture in the negative
 date: 2018-06-14
 place: Atlanta, GA
 actors: [grace-presbytery, pca-ga]

@@ -1,5 +1,5 @@
 ---
-title: 17th GA answers that non-ordained persons may not vote on GA committees
+title: 17th General Assembly answers that non-ordained persons may not vote on General Assembly committees
 date: 1989-06-20
 place: La Mirada, CA
 actors: [pca-ga, tennessee-valley-presbytery]

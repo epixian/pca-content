@@ -1,5 +1,5 @@
 ---
-title: Presbyteries reject the BCO 12-5.d amendment on women preaching, 31-23
+title: Presbyteries reject the Book of Church Order 12-5.d amendment on women preaching, 31-23
 date: 2000-06/2001-06-20
 actors: [pca]
 issues: [women-in-ministry, complementarianism]

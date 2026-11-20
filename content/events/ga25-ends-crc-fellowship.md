@@ -1,5 +1,5 @@
 ---
-title: 25th GA ends its recognition of the CRC as a church in ecclesiastical fellowship
+title: 25th General Assembly ends its recognition of the Christian Reformed Church in North America as a church in ecclesiastical fellowship
 date: 1997-06-11
 place: Colorado Springs, CO
 actors: [pca-ga]

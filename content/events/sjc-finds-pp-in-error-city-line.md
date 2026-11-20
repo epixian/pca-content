@@ -1,5 +1,5 @@
 ---
-title: SJC finds PP in error for ruling the City Line complaint out of order
+title: Standing Judicial Commission finds Philadelphia Presbytery in error for ruling the City Line complaint out of order
 date: 2013-05-21/2014-03-07
 actors: [sjc]
 subjects: [philadelphia-presbytery, jason-hsu, city-line-church]

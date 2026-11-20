@@ -1,5 +1,5 @@
 ---
-title: 27th GA declines an overture to have only men read Scripture in public worship
+title: 27th General Assembly declines an overture to have only men read Scripture in public worship
 date: 1999-06-17
 place: Louisville, KY
 actors: [pca-ga]

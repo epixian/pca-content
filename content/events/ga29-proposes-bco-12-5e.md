@@ -1,5 +1,5 @@
 ---
-title: 29th GA sends down a BCO 12-5.e amendment that the Word be preached only by qualified men
+title: 29th General Assembly sends down a Book of Church Order 12-5.e amendment that the Word be preached only by qualified men
 date: 2001-06-21
 place: Dallas, TX
 actors: [pca-ga, philadelphia-presbytery]

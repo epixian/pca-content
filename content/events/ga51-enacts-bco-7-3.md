@@ -1,5 +1,5 @@
 ---
-title: 51st GA enacts the BCO 7-3 amendment on titles of unordained people
+title: 51st General Assembly enacts the Book of Church Order 7-3 amendment on titles of unordained people
 date: 2024-06-11
 place: Richmond, VA
 actors: [pca-ga]

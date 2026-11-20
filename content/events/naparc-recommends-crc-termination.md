@@ -1,5 +1,5 @@
 ---
-title: NAPARC recommends that member churches terminate the CRC's membership
+title: North American Presbyterian and Reformed Council recommends that member churches terminate the Christian Reformed Church in North America's membership
 date: 2001
 actors: [naparc, irc]
 subjects: [crc, pca]

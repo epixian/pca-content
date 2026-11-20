@@ -1,5 +1,5 @@
 ---
-title: PCUS Assembly moves to open church offices to women
+title: Presbyterian Church in the United States Assembly moves to open church offices to women
 date: 1963-04
 place: Huntington, WV
 actors: [pcus]

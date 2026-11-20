@@ -1,5 +1,5 @@
 ---
-title: MAP adopts a resolution on women in diaconal ministry
+title: Metro Atlanta Presbytery adopts a resolution on women in diaconal ministry
 date: 2009-04-21
 actors: [metro-atlanta-presbytery]
 issues: [women-deacons, commissioning-vs-ordination, deaconess-title, churches-without-diaconate]

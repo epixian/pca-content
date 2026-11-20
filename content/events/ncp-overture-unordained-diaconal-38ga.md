@@ -1,5 +1,5 @@
 ---
-title: NCP overtures the 38th GA to allow unordained diaconal bodies
+title: Northern California Presbytery overtures the 38th General Assembly to allow unordained diaconal bodies
 date: 2010-03-05
 actors: [northern-california-presbytery]
 issues: [women-deacons, churches-without-diaconate, commissioning-vs-ordination, diaconal-assistants]

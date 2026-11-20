@@ -1,5 +1,5 @@
 ---
-title: CMC subcommittee reports on the role of women
+title: Cooperative Ministries Committee subcommittee reports on the role of women
 date: 2015-01-14
 place: Lawrenceville, GA
 actors: [cmc]

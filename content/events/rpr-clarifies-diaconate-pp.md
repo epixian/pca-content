@@ -1,5 +1,5 @@
 ---
-title: RPR answers PP that only ordained men can be members of a diaconate
+title: Committee on Review of Presbytery Records answers Philadelphia Presbytery that only ordained men can be members of a diaconate
 date: 2008-06-10/2008-06-12
 place: Dallas, TX
 actors: [rpr]

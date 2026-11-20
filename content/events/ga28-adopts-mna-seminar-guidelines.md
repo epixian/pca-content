@@ -1,5 +1,5 @@
 ---
-title: 28th GA adopts MNA's response on women speaking in seminars
+title: 28th General Assembly adopts Mission to North America's response on women speaking in seminars
 date: 2000-06-21
 place: Tampa, FL
 actors: [pca-ga, mna]

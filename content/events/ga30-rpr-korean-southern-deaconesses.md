@@ -1,5 +1,5 @@
 ---
-title: 30th GA takes exception to Korean Southern Presbytery's ordination of deaconesses
+title: 30th General Assembly takes exception to Korean Southern Presbytery's ordination of deaconesses
 date: 2002-06-21
 place: Birmingham, AL
 actors: [pca-ga, rpr]

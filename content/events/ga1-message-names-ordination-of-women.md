@@ -1,5 +1,5 @@
 ---
-title: 1st GA's "Message to All Churches" lists the ordination of women among the PCUS's deviations
+title: 1st General Assembly's "Message to All Churches" lists the ordination of women among the deviations of the Presbyterian Church in the United States
 date: 1973-12-06
 place: Birmingham, AL
 actors: [pca-ga]

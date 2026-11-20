@@ -1,5 +1,5 @@
 ---
-title: PP asks RPR to clarify the Liberti exception
+title: Philadelphia Presbytery asks the Committee on Review of Presbytery Records to clarify the Liberti exception
 date: ../2008-06-09
 actors: [philadelphia-presbytery]
 subjects: [rpr, liberti-church]

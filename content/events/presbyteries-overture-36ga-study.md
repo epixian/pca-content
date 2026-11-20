@@ -1,5 +1,5 @@
 ---
-title: Presbyteries ask the 36th GA for a study of women in diaconal ministry
+title: Presbyteries ask the 36th General Assembly for a study of women in diaconal ministry
 date: 2008-01-26/2008-04-24
 actors: [philadelphia-presbytery, northern-california-presbytery, western-canada-presbytery, rocky-mountain-presbytery]
 subjects: [crossroads-community-church, liberti-church]

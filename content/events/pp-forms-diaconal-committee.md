@@ -1,5 +1,5 @@
 ---
-title: PP forms a Presbytery Diaconal Committee that includes women
+title: Philadelphia Presbytery forms a Presbytery Diaconal Committee that includes women
 date: ../1992-09-12
 actors: [philadelphia-presbytery]
 issues: [women-deacons, diaconal-assistants, deaconess-title]

@@ -1,5 +1,5 @@
 ---
-title: 25th GA answers Philadelphia Presbytery's overture against women in combat in the negative
+title: 25th General Assembly answers Philadelphia Presbytery's overture against women in combat in the negative
 date: 1997-06-12
 place: Colorado Springs, CO
 actors: [pca-ga, philadelphia-presbytery]

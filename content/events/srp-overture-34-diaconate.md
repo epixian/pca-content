@@ -1,5 +1,5 @@
 ---
-title: Savannah River Presbytery's Overture 34 on diaconate reporting fails at the 52nd GA
+title: Savannah River Presbytery's Overture 34 on diaconate reporting fails at the 52nd General Assembly
 date: 2025-06-24
 place: Chattanooga, TN
 actors: [savannah-river-presbytery, pca-ga]

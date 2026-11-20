@@ -1,5 +1,5 @@
 ---
-title: 36th GA declines to erect a study committee on deaconesses
+title: 36th General Assembly declines to erect a study committee on deaconesses
 date: 2008-06-12
 place: Dallas, TX
 actors: [pca-ga]

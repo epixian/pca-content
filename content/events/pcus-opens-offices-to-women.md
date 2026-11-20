@@ -1,5 +1,5 @@
 ---
-title: PCUS Assembly takes the final step to open the offices of elder and minister to women
+title: Presbyterian Church in the United States Assembly takes the final step to open the offices of elder and minister to women
 date: 1964-04
 place: Montreat, NC
 actors: [pcus]

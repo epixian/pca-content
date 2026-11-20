@@ -1,5 +1,5 @@
 ---
-title: 27th GA clears MNA staff over a woman speaker and asks MNA for guidelines on women teaching
+title: 27th General Assembly clears Mission to North America staff over a woman speaker and asks Mission to North America for guidelines on women teaching
 date: 1999-06-16
 place: Louisville, KY
 actors: [pca-ga, mna]

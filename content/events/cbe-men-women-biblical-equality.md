@@ -1,5 +1,5 @@
 ---
-title: CBE presents "Men, Women and Biblical Equality"
+title: Christians for Biblical Equality presents "Men, Women and Biblical Equality"
 date: 1989-07
 place: St. Paul, MN
 actors: [cbe]

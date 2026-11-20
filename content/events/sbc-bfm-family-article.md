@@ -1,5 +1,5 @@
 ---
-title: SBC adds an article on the family to the Baptist Faith and Message
+title: Southern Baptist Convention adds an article on the family to the Baptist Faith and Message
 date: 1998
 actors: [sbc]
 issues: [complementarianism, headship-in-marriage]

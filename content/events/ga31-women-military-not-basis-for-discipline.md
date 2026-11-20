@@ -1,5 +1,5 @@
 ---
-title: 31st GA states that the 30th GA's women-in-the-military action compels no discipline
+title: 31st General Assembly states that the 30th General Assembly's women-in-the-military action compels no discipline
 date: 2003-06-12
 place: Charlotte, NC
 actors: [pca-ga, potomac-presbytery, chesapeake-presbytery]

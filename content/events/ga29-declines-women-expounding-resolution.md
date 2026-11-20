@@ -1,5 +1,5 @@
 ---
-title: 29th GA declines a resolution that Scripture forbids women to expound the Word under any circumstance
+title: 29th General Assembly declines a resolution that Scripture forbids women to expound the Word under any circumstance
 date: 2001-06-21
 place: Dallas, TX
 actors: [pca-ga]

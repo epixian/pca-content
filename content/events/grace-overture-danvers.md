@@ -1,5 +1,5 @@
 ---
-title: Grace Presbytery overtures the 37th GA to adopt an adapted Danvers Statement
+title: Grace Presbytery overtures the 37th General Assembly to adopt an adapted Danvers Statement
 date: 2009-01-13
 actors: [grace-presbytery]
 subjects: [cbmw]

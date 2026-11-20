@@ -1,5 +1,5 @@
 ---
-title: NAPARC postpones the EPC's application, with women in office among the open questions
+title: North American Presbyterian and Reformed Council postpones the Evangelical Presbyterian Church's application, with women in office among the open questions
 date: 1995-11-28/1995-11-29
 place: Philadelphia, PA
 actors: [naparc]

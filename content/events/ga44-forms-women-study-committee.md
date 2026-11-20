@@ -1,5 +1,5 @@
 ---
-title: 44th GA forms a study committee on women in ministry
+title: 44th General Assembly forms a study committee on women in ministry
 date: 2016-06-23
 place: Mobile, AL
 actors: [pca-ga]

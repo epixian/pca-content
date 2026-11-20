@@ -1,5 +1,5 @@
 ---
-title: 30th GA declares man's duty to defend woman and condemns women as combatants and their conscription
+title: 30th General Assembly declares man's duty to defend woman and condemns women as combatants and their conscription
 date: 2002-06-20
 place: Birmingham, AL
 actors: [pca-ga, women-in-military-committee]

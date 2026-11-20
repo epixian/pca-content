@@ -1,5 +1,5 @@
 ---
-title: RPR cites MAP for its 2009 diaconal resolution
+title: Committee on Review of Presbytery Records cites Metro Atlanta Presbytery for its 2009 diaconal resolution
 date: 2010-06-30
 place: Nashville, TN
 actors: [rpr, pca-ga]

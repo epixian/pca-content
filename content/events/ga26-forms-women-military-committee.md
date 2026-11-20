@@ -1,5 +1,5 @@
 ---
-title: 26th GA forms an ad interim committee on women in the military
+title: 26th General Assembly forms an ad interim committee on women in the military
 date: 1998-07-02
 place: St. Louis, MO
 actors: [pca-ga, philadelphia-presbytery]

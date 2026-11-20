@@ -1,5 +1,5 @@
 ---
-title: 29th GA answers Grace Presbytery's overture against women preaching or teaching in the negative
+title: 29th General Assembly answers Grace Presbytery's overture against women preaching or teaching in the negative
 date: 2001-06-21
 place: Dallas, TX
 actors: [pca-ga, grace-presbytery]

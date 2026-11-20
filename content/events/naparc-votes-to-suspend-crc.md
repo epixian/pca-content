@@ -1,5 +1,5 @@
 ---
-title: NAPARC votes to begin suspending the CRC
+title: North American Presbyterian and Reformed Council votes to begin suspending the Christian Reformed Church in North America
 date: 1997-11-19
 place: Atlanta, GA
 actors: [naparc]

@@ -1,5 +1,5 @@
 ---
-title: NAPARC terminates the CRC's membership
+title: North American Presbyterian and Reformed Council terminates the Christian Reformed Church in North America's membership
 date: 2002
 actors: [naparc]
 subjects: [crc]

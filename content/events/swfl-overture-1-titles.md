@@ -1,5 +1,5 @@
 ---
-title: Southwest Florida Presbytery overtures the 54th GA on titles and unordained roles
+title: Southwest Florida Presbytery overtures the 54th General Assembly on titles and unordained roles
 date: 2026-09-12
 actors: [southwest-florida-presbytery]
 issues: [titles-of-office, deaconess-title, women-in-ministry]

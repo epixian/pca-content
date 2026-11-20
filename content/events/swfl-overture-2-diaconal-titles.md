@@ -1,5 +1,5 @@
 ---
-title: Southwest Florida Presbytery overtures the 54th GA on diaconal titles
+title: Southwest Florida Presbytery overtures the 54th General Assembly on diaconal titles
 date: 2026-09-12
 actors: [southwest-florida-presbytery]
 issues: [deaconess-title, diaconal-assistants, churches-without-diaconate, women-deacons]

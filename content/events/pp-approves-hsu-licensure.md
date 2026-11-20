@@ -1,5 +1,5 @@
 ---
-title: PP approves Jason Hsu for licensure despite his view on women deacons
+title: Philadelphia Presbytery approves Jason Hsu for licensure despite his view on women deacons
 date: 2007-09-12
 actors: [philadelphia-presbytery]
 subjects: [jason-hsu]

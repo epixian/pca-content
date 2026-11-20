@@ -1,5 +1,5 @@
 ---
-title: 46th GA declines to open GA agency boards to women
+title: 46th General Assembly declines to open General Assembly agency boards to women
 date: 2018-06-14
 place: Atlanta, GA
 actors: [pca-ga, oc, nashville-presbytery]

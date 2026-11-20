@@ -1,5 +1,5 @@
 ---
-title: Tennessee Valley overtures the 38th GA to affirm unordained deaconesses
+title: Tennessee Valley overtures the 38th General Assembly to affirm unordained deaconesses
 date: 2010-04-17
 actors: [tennessee-valley-presbytery]
 issues: [deaconess-title, women-deacons, rpces-heritage]

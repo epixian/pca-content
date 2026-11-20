@@ -1,5 +1,5 @@
 ---
-title: 30th GA enacts the BCO 12-5.e amendment ("preached only by such men")
+title: 30th General Assembly enacts the Book of Church Order 12-5.e amendment ("preached only by such men")
 date: 2002-06-19
 place: Birmingham, AL
 actors: [pca-ga]

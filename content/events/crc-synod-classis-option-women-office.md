@@ -1,5 +1,5 @@
 ---
-title: CRC Synod lets classes open the offices of elder and minister to women
+title: Christian Reformed Church in North America Synod lets classes open the offices of elder and minister to women
 date: 1995-06-19
 actors: [crc]
 issues: [complementarianism, women-in-ministry]

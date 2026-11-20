@@ -1,5 +1,5 @@
 ---
-title: 25th GA declines South Coast Presbytery's request for a study of the role of women
+title: 25th General Assembly declines South Coast Presbytery's request for a study of the role of women
 date: 1997-06-12
 place: Colorado Springs, CO
 actors: [pca-ga]

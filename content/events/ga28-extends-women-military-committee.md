@@ -1,5 +1,5 @@
 ---
-title: 28th GA extends the women-in-the-military committee for another year
+title: 28th General Assembly extends the women-in-the-military committee for another year
 date: 2000-06-22
 place: Tampa, FL
 actors: [pca-ga, women-in-military-committee]

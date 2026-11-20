@@ -1,5 +1,5 @@
 ---
-title: SJC finds no strong presumption of guilt against TE John Wood
+title: Standing Judicial Commission finds no strong presumption of guilt against Teaching Elder John Wood
 date: 2000-10?
 actors: [sjc]
 subjects: [cedar-springs-presbyterian-church]

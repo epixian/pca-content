@@ -1,5 +1,5 @@
 ---
-title: RPR finds NCP's response on deaconesses unsatisfactory
+title: Committee on Review of Presbytery Records finds Northern California Presbytery's response on deaconesses unsatisfactory
 date: 2008-06-10/2008-06-12
 place: Dallas, TX
 actors: [rpr]

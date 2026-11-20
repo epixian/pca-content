@@ -1,5 +1,5 @@
 ---
-title: Crossroads overtures the 37th GA to direct PP on the diaconate
+title: Crossroads overtures the 37th General Assembly to direct Philadelphia Presbytery on the diaconate
 date: 2009-04-13
 actors: [crossroads-community-church]
 subjects: [philadelphia-presbytery]

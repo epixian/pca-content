@@ -1,5 +1,5 @@
 ---
-title: 17th GA declines ecclesiastical fellowship with the EPC over the ordination of women
+title: 17th General Assembly declines ecclesiastical fellowship with the Evangelical Presbyterian Church over the ordination of women
 date: 1989-06-15/1989-06-16
 place: La Mirada, CA
 actors: [pca-ga]

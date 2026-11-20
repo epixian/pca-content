@@ -1,5 +1,5 @@
 ---
-title: PP answers the Crossroads complaint in the negative
+title: Philadelphia Presbytery answers the Crossroads complaint in the negative
 date: 2008-01-26
 actors: [philadelphia-presbytery]
 subjects: [crossroads-community-church, jason-hsu]

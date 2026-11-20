@@ -1,5 +1,5 @@
 ---
-title: Liberti overtures PP to allow women deacons
+title: Liberti overtures Philadelphia Presbytery to allow women deacons
 date: ../2008-01-26
 place: Philadelphia, PA
 actors: [liberti-church]

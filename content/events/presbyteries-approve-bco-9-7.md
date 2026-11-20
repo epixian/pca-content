@@ -1,5 +1,5 @@
 ---
-title: Presbyteries approve the BCO 9-7 amendment 71-2
+title: Presbyteries approve the Book of Church Order 9-7 amendment 71-2
 date: 2010-07/2011-06
 actors: [pca, philadelphia-presbytery]
 subjects: [metro-atlanta-presbytery]

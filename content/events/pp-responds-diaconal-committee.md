@@ -1,5 +1,5 @@
 ---
-title: PP defends women on its Diaconal Committee and drops the term "deaconess"
+title: Philadelphia Presbytery defends women on its Diaconal Committee and drops the term "deaconess"
 date: ../1994-06-05
 actors: [philadelphia-presbytery]
 subjects: [rpr]

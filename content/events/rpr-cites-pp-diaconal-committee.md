@@ -1,5 +1,5 @@
 ---
-title: RPR cites PP for women on its Diaconal Committee
+title: Committee on Review of Presbytery Records cites Philadelphia Presbytery for women on its Diaconal Committee
 date: 1993-06-07/1993-06-11
 place: Columbia, SC
 actors: [rpr]

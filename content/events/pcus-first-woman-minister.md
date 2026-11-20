@@ -1,5 +1,5 @@
 ---
-title: PCUS ordains its first woman minister
+title: Presbyterian Church in the United States ordains its first woman minister
 date: 1965-12-12
 place: Richmond, VA
 actors: [pcus]

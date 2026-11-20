@@ -1,5 +1,5 @@
 ---
-title: 37th GA rules the Crossroads overture out of order
+title: 37th General Assembly rules the Crossroads overture out of order
 date: 2009-06-17
 place: Orlando, FL
 actors: [pca-ga, oc]

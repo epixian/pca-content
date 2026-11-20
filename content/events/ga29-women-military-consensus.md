@@ -1,5 +1,5 @@
 ---
-title: 29th GA adopts the consensus recommendations on women in the military
+title: 29th General Assembly adopts the consensus recommendations on women in the military
 date: 2001-06-21
 place: Dallas, TX
 actors: [pca-ga, women-in-military-committee]

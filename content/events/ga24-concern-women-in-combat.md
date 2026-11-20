@@ -1,5 +1,5 @@
 ---
-title: 24th GA expresses grave concern about sending women into combat
+title: 24th General Assembly expresses grave concern about sending women into combat
 date: 1996-06-21
 place: Fort Lauderdale, FL
 actors: [pca-ga, philadelphia-presbytery]

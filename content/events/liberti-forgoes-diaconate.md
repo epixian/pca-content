@@ -1,5 +1,5 @@
 ---
-title: PP explains why Liberti's one deacon was not ordained
+title: Philadelphia Presbytery explains why Liberti's one deacon was not ordained
 date: ../2009-06-15
 actors: [philadelphia-presbytery]
 subjects: [liberti-church, rpr]

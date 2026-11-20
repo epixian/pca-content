@@ -1,5 +1,5 @@
 ---
-title: SJC upholds Rocky Mountain Presbytery on a candidate's view of women teaching
+title: Standing Judicial Commission upholds Rocky Mountain Presbytery on a candidate's view of women teaching
 date: 2009-10-15/2010-03-05
 actors: [sjc]
 subjects: [rocky-mountain-presbytery]

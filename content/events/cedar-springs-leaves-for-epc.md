@@ -1,5 +1,5 @@
 ---
-title: Cedar Springs Presbyterian Church leaves the PCA for the EPC
+title: Cedar Springs Presbyterian Church leaves the PCA for the Evangelical Presbyterian Church
 date: 2001
 actors: [cedar-springs-presbyterian-church]
 subjects: [tennessee-valley-presbytery, epc]

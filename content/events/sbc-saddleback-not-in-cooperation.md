@@ -1,5 +1,5 @@
 ---
-title: SBC messengers uphold the removal of Saddleback Church
+title: Southern Baptist Convention messengers uphold the removal of Saddleback Church
 date: 2023-06
 place: New Orleans, LA
 actors: [sbc]

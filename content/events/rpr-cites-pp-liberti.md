@@ -1,5 +1,5 @@
 ---
-title: RPR cites PP for commissioning deaconesses at Liberti
+title: Committee on Review of Presbytery Records cites Philadelphia Presbytery for commissioning deaconesses at Liberti
 date: 2007-06-12/2007-06-14
 place: Memphis, TN
 actors: [rpr]

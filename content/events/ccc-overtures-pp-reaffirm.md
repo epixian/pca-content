@@ -1,5 +1,5 @@
 ---
-title: Crossroads overtures PP to affirm the BCO on the diaconate
+title: Crossroads overtures Philadelphia Presbytery to affirm the Book of Church Order on the diaconate
 date: 2008-08-11
 actors: [crossroads-community-church]
 subjects: [philadelphia-presbytery]

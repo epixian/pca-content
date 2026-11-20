@@ -1,5 +1,5 @@
 ---
-title: SBC amends the Baptist Faith and Message article on the church
+title: Southern Baptist Convention amends the Baptist Faith and Message article on the church
 date: 2023-06-14
 place: New Orleans, LA
 actors: [sbc]

@@ -1,5 +1,5 @@
 ---
-title: RPR cites NCP for commissioning deaconesses and unordained deacons
+title: Committee on Review of Presbytery Records cites Northern California Presbytery for commissioning deaconesses and unordained deacons
 date: 2007-06-12/2007-06-14
 place: Memphis, TN
 actors: [rpr]

@@ -1,5 +1,5 @@
 ---
-title: CRC Synod 1996 replies to the PCA and declines to rescind women in office
+title: Christian Reformed Church in North America Synod 1996 replies to the PCA and declines to rescind women in office
 date: 1996-06
 actors: [crc]
 subjects: [pca-ga]

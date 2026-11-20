@@ -1,5 +1,5 @@
 ---
-title: Four presbyteries overture the 38th GA to amend BCO 9-7
+title: Four presbyteries overture the 38th General Assembly to amend Book of Church Order 9-7
 date: 2009-10-27/2010-04-10
 actors: [evangel-presbytery, central-carolina-presbytery, eastern-carolina-presbytery, westminster-presbytery]
 issues: [diaconal-assistants, deaconess-title, women-deacons, commissioning-vs-ordination]

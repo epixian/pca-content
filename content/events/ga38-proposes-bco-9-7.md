@@ -1,5 +1,5 @@
 ---
-title: 38th GA sends an amendment to BCO 9-7 to the presbyteries
+title: 38th General Assembly sends an amendment to Book of Church Order 9-7 to the presbyteries
 date: 2010-07-02
 place: Nashville, TN
 actors: [pca-ga, oc]

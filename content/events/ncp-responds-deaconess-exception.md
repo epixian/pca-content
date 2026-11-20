@@ -1,5 +1,5 @@
 ---
-title: NCP disagrees with the exception on commissioned deaconesses
+title: Northern California Presbytery disagrees with the exception on commissioned deaconesses
 date: ../2008-06-09
 actors: [northern-california-presbytery]
 subjects: [rpr]

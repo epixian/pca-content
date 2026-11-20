@@ -1,5 +1,5 @@
 ---
-title: RPR finds MAP's response on the diaconal resolution unsatisfactory
+title: Committee on Review of Presbytery Records finds Metro Atlanta Presbytery's response on the diaconal resolution unsatisfactory
 date: 2011-06-08
 place: Virginia Beach, VA
 actors: [rpr, pca-ga]

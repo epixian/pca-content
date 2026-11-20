@@ -1,5 +1,5 @@
 ---
-title: 26th GA approves NAPARC's proposal to suspend the CRC
+title: 26th General Assembly approves the North American Presbyterian and Reformed Council's proposal to suspend the Christian Reformed Church in North America
 date: 1998-07-01
 place: St. Louis, MO
 actors: [pca-ga]

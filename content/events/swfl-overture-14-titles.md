@@ -1,5 +1,5 @@
 ---
-title: Southwest Florida Presbytery overtures the 53rd GA on titles and offices, citing Save the PCA
+title: Southwest Florida Presbytery overtures the 53rd General Assembly on titles and offices, citing Save the PCA
 date: 2025-11-11
 actors: [southwest-florida-presbytery]
 subjects: [save-the-pca]

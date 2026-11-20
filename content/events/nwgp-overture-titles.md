@@ -1,5 +1,5 @@
 ---
-title: 50th GA approves Northwest Georgia Presbytery's BCO 7-3 overture on titles
+title: 50th General Assembly approves Northwest Georgia Presbytery's Book of Church Order 7-3 overture on titles
 date: 2023-06-15
 place: Memphis, TN
 actors: [northwest-georgia-presbytery, pca-ga]

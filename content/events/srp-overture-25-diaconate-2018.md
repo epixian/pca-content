@@ -1,5 +1,5 @@
 ---
-title: 46th GA answers Savannah River Presbytery's unordained-diaconate overture in the negative
+title: 46th General Assembly answers Savannah River Presbytery's unordained-diaconate overture in the negative
 date: 2018-06-14
 place: Atlanta, GA
 actors: [savannah-river-presbytery, pca-ga]

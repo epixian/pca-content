@@ -1,5 +1,5 @@
 ---
-title: 53rd GA declares the Danvers Statement biblically faithful
+title: 53rd General Assembly declares the Danvers Statement biblically faithful
 date: 2026-06
 place: Louisville, KY
 actors: [calvary-presbytery, oc, pca-ga]

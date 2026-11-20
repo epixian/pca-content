@@ -1,5 +1,5 @@
 ---
-title: NAPARC calls on the CRC to reverse its 1993 Synod action on women in office
+title: North American Presbyterian and Reformed Council calls on the Christian Reformed Church in North America to reverse its 1993 Synod action on women in office
 date: 1993-06/1994-06
 place: Grand Rapids, MI
 actors: [naparc]

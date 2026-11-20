@@ -1,5 +1,5 @@
 ---
-title: 28th GA assumes original jurisdiction in the John Wood matter and refers it to the SJC
+title: 28th General Assembly assumes original jurisdiction in the John Wood matter and refers it to the Standing Judicial Commission
 date: 2000-06-22/2000-06-23
 place: Tampa, FL
 actors: [pca-ga, sjc]

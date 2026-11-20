@@ -1,5 +1,5 @@
 ---
-title: CRC Synod deletes "male" from Church Order Article 3
+title: Christian Reformed Church in North America Synod deletes "male" from Church Order Article 3
 date: 2007-06-12
 actors: [crc]
 issues: [complementarianism, women-in-ministry]

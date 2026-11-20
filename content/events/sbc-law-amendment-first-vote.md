@@ -1,5 +1,5 @@
 ---
-title: SBC gives first approval to the Law amendment on women pastors
+title: Southern Baptist Convention gives first approval to the Law amendment on women pastors
 date: 2023
 place: New Orleans, LA
 actors: [sbc]

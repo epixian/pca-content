@@ -1,5 +1,5 @@
 ---
-title: 53rd GA answers Overture 37 on women deacons in the negative
+title: 53rd General Assembly answers Overture 37 on women deacons in the negative
 date: 2026-06-25
 place: Louisville, KY
 actors: [pca-ga, oc, pacific-presbytery]

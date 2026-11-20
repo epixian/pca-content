@@ -1,5 +1,5 @@
 ---
-title: 45th GA adopts recommendations on women's gifts, committees, and worship
+title: 45th General Assembly adopts recommendations on women's gifts, committees, and worship
 date: 2017-06-14/2017-06-15
 place: Greensboro, NC
 actors: [pca-ga]

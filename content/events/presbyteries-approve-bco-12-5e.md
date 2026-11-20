@@ -1,5 +1,5 @@
 ---
-title: Presbyteries approve the BCO 12-5.e amendment, 42-9
+title: Presbyteries approve the Book of Church Order 12-5.e amendment, 42-9
 date: 2001-06/2002-06-19
 actors: [pca]
 issues: [women-in-ministry, complementarianism]

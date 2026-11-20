@@ -1,5 +1,5 @@
 ---
-title: 37th GA answers the Danvers Statement overture in the negative
+title: 37th General Assembly answers the Danvers Statement overture in the negative
 date: 2009-06-18
 place: Orlando, FL
 actors: [pca-ga, oc]

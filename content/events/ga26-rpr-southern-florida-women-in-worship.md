@@ -1,5 +1,5 @@
 ---
-title: 26th GA finds Southern Florida's answer on women leading prayer and reading Scripture unsatisfactory
+title: 26th General Assembly finds Southern Florida's answer on women leading prayer and reading Scripture unsatisfactory
 date: 1998-07-03
 place: St. Louis, MO
 actors: [pca-ga, rpr]

@@ -1,5 +1,5 @@
 ---
-title: SBC adopts the Baptist Faith and Message 2000
+title: Southern Baptist Convention adopts the Baptist Faith and Message 2000
 date: 2000-06-14
 place: Orlando, FL
 actors: [sbc]

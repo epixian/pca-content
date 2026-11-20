@@ -1,5 +1,5 @@
 ---
-title: 31st GA records no response from Korean Southern Presbytery on deaconesses
+title: 31st General Assembly records no response from Korean Southern Presbytery on deaconesses
 date: 2003-06-13
 place: Charlotte, NC
 actors: [pca-ga, rpr]

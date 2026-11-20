@@ -1,5 +1,5 @@
 ---
-title: SJC denies the complaints about Hsu's licensure and ordination
+title: Standing Judicial Commission denies the complaints about Hsu's licensure and ordination
 date: 2009-04-16
 actors: [sjc]
 subjects: [philadelphia-presbytery, crossroads-community-church, jason-hsu]

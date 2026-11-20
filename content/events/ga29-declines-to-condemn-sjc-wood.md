@@ -1,5 +1,5 @@
 ---
-title: 29th GA declines to condemn the SJC's handling of the John Wood matter
+title: 29th General Assembly declines to condemn the Standing Judicial Commission's handling of the John Wood matter
 date: 2001-06-21
 place: Dallas, TX
 actors: [pca-ga, calvary-presbytery, western-carolina-presbytery]

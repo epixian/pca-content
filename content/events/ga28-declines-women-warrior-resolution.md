@@ -1,5 +1,5 @@
 ---
-title: 28th GA declines a resolution to let PCA chaplains counsel women against combat roles
+title: 28th General Assembly declines a resolution to let PCA chaplains counsel women against combat roles
 date: 2000-06-23
 place: Tampa, FL
 actors: [pca-ga]

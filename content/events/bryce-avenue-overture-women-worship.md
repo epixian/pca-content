@@ -1,5 +1,5 @@
 ---
-title: 50th GA refers back an overture to forbid women to preach, exhort, or teach in worship
+title: 50th General Assembly refers back an overture to forbid women to preach, exhort, or teach in worship
 date: 2023-06-15
 place: Memphis, TN
 actors: [pca-ga, oc]

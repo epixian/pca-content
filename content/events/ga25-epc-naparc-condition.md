@@ -1,5 +1,5 @@
 ---
-title: 25th GA tells the IRC not to support the EPC's admission to NAPARC while it ordains women
+title: 25th General Assembly tells the Interchurch Relations Committee not to support the Evangelical Presbyterian Church's admission to the North American Presbyterian and Reformed Council while it ordains women
 date: 1997-06-11
 place: Colorado Springs, CO
 actors: [pca-ga]

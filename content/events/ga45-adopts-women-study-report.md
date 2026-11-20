@@ -1,5 +1,5 @@
 ---
-title: 45th GA adopts the recommendations of the women study committee
+title: 45th General Assembly adopts the recommendations of the women study committee
 date: 2017-06-14/2017-06-15
 place: Greensboro, NC
 actors: [pca-ga]

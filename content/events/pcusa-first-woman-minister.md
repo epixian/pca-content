@@ -1,5 +1,5 @@
 ---
-title: PCUSA ordains its first woman minister
+title: Presbyterian Church in the U.S.A. ordains its first woman minister
 date: 1956
 actors: [pcusa]
 issues: [complementarianism, women-in-ministry]

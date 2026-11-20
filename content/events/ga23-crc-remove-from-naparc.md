@@ -1,5 +1,5 @@
 ---
-title: 23rd GA tells the IRC to seek the CRC's removal from NAPARC unless it rescinds women in office
+title: 23rd General Assembly tells the Interchurch Relations Committee to seek the Christian Reformed Church in North America's removal from the North American Presbyterian and Reformed Council unless it rescinds women in office
 date: 1995-06-22
 place: Dallas, TX
 actors: [pca-ga]

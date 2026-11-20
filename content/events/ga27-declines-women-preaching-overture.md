@@ -1,5 +1,5 @@
 ---
-title: 27th GA answers Western Carolina's overture against women preaching in the negative
+title: 27th General Assembly answers Western Carolina's overture against women preaching in the negative
 date: 1999-06-17
 place: Louisville, KY
 actors: [pca-ga, western-carolina-presbytery]
