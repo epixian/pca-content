@@ -105,7 +105,7 @@ links:               # optional; organizations and public figures only; official
 ```yaml
 ---
 title: Women and the diaconate
-parent: women-in-ministry   # optional
+parents: [women-in-ministry, diaconate]   # optional; the first is the primary parent
 ---
 One sentence that describes the issue.
 ```

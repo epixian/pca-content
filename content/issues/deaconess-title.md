@@ -1,6 +1,6 @@
 ---
 title: 'The title "deaconess"'
-parent: titles-of-office
+parents: [titles-of-office, diaconate]
 ---
 
 Use of the term "deaconess" for women in diaconal roles.
