@@ -3,6 +3,7 @@ title: 3rd General Assembly meets in Jackson, MS
 date: 1975-09-09/1975-09-12
 place: Jackson, MS
 kind: meeting
+series: general-assembly
 actors: [pca-ga]
 status: draft
 visibility: public

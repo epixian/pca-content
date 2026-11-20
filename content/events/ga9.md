@@ -3,6 +3,7 @@ title: 9th General Assembly meets in Fort Lauderdale, FL
 date: 1981-06-15/1981-06-19
 place: Fort Lauderdale, FL
 kind: meeting
+series: general-assembly
 actors: [pca-ga]
 status: draft
 visibility: public

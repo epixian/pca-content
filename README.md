@@ -42,6 +42,7 @@ subjects: [philadelphia-presbytery, liberti-church]   # optional: who it was abo
 issues: [women-deacons, rpr-review]
 responds_to: [liberti-commissions-diaconate]          # earlier events; a list
 kind: act                  # optional: act (default) | meeting (e.g. a General Assembly; issues optional)
+series: general-assembly   # optional: a series of regular events (prev/next links); names in build.py SERIES
 part_of: ga36              # optional: the meeting event this act belongs to; the meeting page lists its acts
 status: draft              # draft | reviewed | needs-citation
 visibility: public         # public | private (private events are not published)

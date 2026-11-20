@@ -3,6 +3,7 @@ title: 8th General Assembly meets in Savannah, GA
 date: 1980-06-16/1980-06-20
 place: Savannah, GA
 kind: meeting
+series: general-assembly
 actors: [pca-ga]
 status: draft
 visibility: public

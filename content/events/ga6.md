@@ -3,6 +3,7 @@ title: 6th General Assembly meets in Grand Rapids, MI
 date: 1978-06-19/1978-06-23
 place: Grand Rapids, MI
 kind: meeting
+series: general-assembly
 actors: [pca-ga]
 status: draft
 visibility: public

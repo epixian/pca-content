@@ -3,6 +3,7 @@ title: 7th General Assembly meets in Charlotte, NC
 date: 1979-06-18/1979-06-22
 place: Charlotte, NC
 kind: meeting
+series: general-assembly
 actors: [pca-ga]
 status: draft
 visibility: public

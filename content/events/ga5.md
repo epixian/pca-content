@@ -3,6 +3,7 @@ title: 5th General Assembly meets in Smyrna, GA
 date: 1977-09-12/1977-09-16
 place: Smyrna, GA
 kind: meeting
+series: general-assembly
 actors: [pca-ga]
 status: draft
 visibility: public

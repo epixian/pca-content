@@ -3,6 +3,7 @@ title: 2nd General Assembly meets in Macon, GA
 date: 1974-09-17/1974-09-20
 place: Macon, GA
 kind: meeting
+series: general-assembly
 actors: [pca-ga]
 status: draft
 visibility: public

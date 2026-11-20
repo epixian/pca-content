@@ -3,6 +3,7 @@ title: 4th General Assembly meets in Greenville, SC
 date: 1976-09-13/1976-09-17
 place: Greenville, SC
 kind: meeting
+series: general-assembly
 actors: [pca-ga]
 status: draft
 visibility: public

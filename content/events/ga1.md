@@ -3,6 +3,7 @@ title: 1st General Assembly meets in Birmingham, AL
 date: 1973-12-04/1973-12-07
 place: Birmingham, AL
 kind: meeting
+series: general-assembly
 actors: [pca-ga]
 status: draft
 visibility: public
