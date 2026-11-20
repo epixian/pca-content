@@ -1,3 +1,19 @@
+This repository holds two kinds of material under different terms.
+
+1. Project work: the file structure and schema, the YAML data, and the text written
+   for this project (event summaries, actor and issue descriptions, reports). This
+   is under the MIT License below.
+
+2. Source content: quotations, titles, and excerpts from cited sources, and the
+   source documents themselves. All source content is copyright its original
+   authors and publishers. It is quoted here for reference, research, and
+   commentary. The MIT License does not apply to it, and this repository grants no
+   rights in it.
+
+Contributions to this repository are accepted under the same terms.
+
+----------------------------------------------------------------------------
+
 MIT License
 
 Copyright (c) 2026 Erich Oelschlegel
@@ -19,5 +35,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-Quotations from cited sources remain under the terms of their own publishers.

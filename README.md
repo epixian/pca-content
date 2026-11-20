@@ -9,6 +9,12 @@ This repository holds the content only. The site is built from a separate
 repository, and this one is updated from it. To suggest a correction or a new
 event, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
+## License
+
+The project's own work (schema, data, and the text written for it) is under the MIT
+License. Quotations and source documents are copyright their original authors and
+publishers. See [LICENSE](LICENSE).
+
 ## Layout
 
 | Path | Contents |
