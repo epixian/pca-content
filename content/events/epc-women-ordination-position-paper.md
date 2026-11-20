@@ -1,0 +1,14 @@
+---
+title: EPC adopts its position paper on the ordination of women
+date: 1984-06
+actors: [epc]
+issues: [complementarianism, women-in-ministry]
+status: draft
+visibility: public
+citations:
+  - source: epc-women-position-paper
+    quote: "has chosen to leave this decision to the Spirit-guided consciences of particular congregations concerning the ordination of women as elders and deacons, and to the presbyteries concerning the ordination of women as ministers"
+  - source: epc-women-position-paper
+    quote: "Adopted by the 4th General Assembly June 1984"
+---
+The 4th General Assembly of the Evangelical Presbyterian Church (EPC) adopted a position paper that said the ordination of women is not an essential of the faith. The EPC left the ordination of women as elders and deacons to each congregation, and the ordination of women as ministers to the presbyteries.
