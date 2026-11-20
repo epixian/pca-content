@@ -7,9 +7,9 @@ responds_to: [stp-ffo-findings-revised]
 status: draft
 visibility: public
 citations:
+  - source: stp-dataset-2026-02
+    quote: "Functional Female Elders? (Y/N)"
   - source: stp-downloads
     quote: "Dataset, Updated February 8th, 2026"
-  - source: stp-downloads
-    quote: "Relevant Articles (Not Affiliated with Save the PCA)"
 ---
-Save the PCA posted an updated version of the report's dataset on its downloads page. The page also listed articles by other authors on the topic, which it marked as not affiliated with Save the PCA.
+Save the PCA posted an updated version of the report's dataset, an Excel file, on its downloads page. The file lists the churches it reviewed and its findings for each.
