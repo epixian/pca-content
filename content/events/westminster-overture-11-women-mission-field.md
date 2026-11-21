@@ -3,7 +3,7 @@ title: "Westminster Presbytery asks MTW to be Biblical in its use of women on th
 date: 1974-07-20
 actors: [westminster-presbytery]
 issues: [women-in-ministry]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m3ga
