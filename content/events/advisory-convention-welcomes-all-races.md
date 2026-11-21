@@ -4,7 +4,7 @@ date: 1973-08-09
 place: Asheville, NC
 actors: [advisory-convention]
 issues: [race-and-reconciliation]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: advisory-convention-1973

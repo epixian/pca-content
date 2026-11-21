@@ -5,7 +5,7 @@ place: Birmingham, AL
 actors: [pca-ga]
 issues: [civil-magistrate, christian-nationalism]
 part_of: ga1
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m1ga

@@ -4,7 +4,7 @@ date: 1973-12-06
 place: Birmingham, AL
 actors: [pca-ga]
 subjects: [pcus]
-issues: [women-in-ministry, complementarianism]
+issues: [women-in-ministry]
 part_of: ga1
 status: draft
 visibility: public

@@ -2,7 +2,7 @@
 title: Evangelical Presbyterian Church adopts its position paper on the ordination of women
 date: 1984-06
 actors: [epc]
-issues: [complementarianism, women-in-ministry]
+issues: [women-in-ministry]
 status: draft
 visibility: public
 citations:

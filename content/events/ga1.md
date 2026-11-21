@@ -7,7 +7,7 @@ series: general-assembly
 actors: [pca-ga]
 associated: [w-jack-williamson]
 responds_to: [advisory-convention-calls-general-assembly]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: pcahc-ga-index

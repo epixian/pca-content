@@ -3,7 +3,7 @@ title: Presbyterian Church in the United States Assembly takes the final step to
 date: 1964-04
 place: Montreat, NC
 actors: [pcus]
-issues: [complementarianism, women-in-ministry]
+issues: [women-in-ministry]
 responds_to: [pcus-proposes-women-officers]
 status: reviewed
 visibility: public

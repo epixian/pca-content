@@ -3,7 +3,7 @@ title: Presbyterian Church in the United States Assembly moves to open church of
 date: 1963-04
 place: Huntington, WV
 actors: [pcus]
-issues: [complementarianism, women-in-ministry]
+issues: [women-in-ministry]
 status: reviewed
 visibility: public
 citations:

@@ -7,7 +7,7 @@ associated: [continuing-presbyterian-church]
 issues: [pcus-separation]
 part_of: ga1
 responds_to: [advisory-convention-calls-general-assembly]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m1ga
