@@ -25,9 +25,6 @@ citations:
   - source: m38ga
     pages: "383"
     quote: "Evangel Presbytery hereby overtures the 38th General Assembly of the Presbyterian Church in America to amend Book of Church Order 9-7"
-  - source: m38ga
-    pages: "387"
-    quote: "These assistants to the deacons shall not be referred to as deacons or deaconesses"
 ---
 The 38th General Assembly answered Evangel's Overture 7 in the affirmative as
 amended, proposing that assistants to the deacons "are not officers of the church"

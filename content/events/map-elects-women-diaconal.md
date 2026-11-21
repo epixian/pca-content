@@ -3,7 +3,7 @@ title: Metro Atlanta Presbytery adopts a resolution on women in diaconal ministr
 date: 2009-04-21
 actors: [metro-atlanta-presbytery]
 issues: [women-deacons, commissioning-vs-ordination, deaconess-title, churches-without-diaconate]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m39ga
