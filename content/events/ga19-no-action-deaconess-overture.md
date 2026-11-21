@@ -7,7 +7,7 @@ subjects: [herbert-shipman]
 issues: [women-deacons, deaconess-title]
 responds_to: [shipman-overture-40-deaconesses]
 part_of: ga19
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m19ga

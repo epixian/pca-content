@@ -1,6 +1,7 @@
 ---
 name: "Advisory Convention of the Continuing Presbyterian Church"
 kind: assembly
+parent: continuing-presbyterian-church
 place: Asheville, NC
 start: 1973-08-07
 end: 1973-08-09

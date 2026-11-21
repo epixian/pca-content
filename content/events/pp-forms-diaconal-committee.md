@@ -3,7 +3,7 @@ title: Philadelphia Presbytery forms a Presbytery Diaconal Committee that includ
 date: ../1992-09-12
 actors: [philadelphia-presbytery]
 issues: [women-deacons, diaconal-assistants, deaconess-title]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m22ga

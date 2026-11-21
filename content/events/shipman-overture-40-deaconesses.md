@@ -4,7 +4,7 @@ date: 1991-05-11/1991-06-17
 actors: [herbert-shipman]
 associated: [northeast-presbytery]
 issues: [women-deacons, deaconess-title]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m19ga

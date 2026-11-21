@@ -6,7 +6,7 @@ actors: [pca-ga, sjc]
 subjects: [eastern-carolina-presbytery]
 issues: [creation, judicial-process, ordination-exceptions]
 part_of: ga22
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m22ga

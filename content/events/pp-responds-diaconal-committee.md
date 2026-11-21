@@ -5,7 +5,7 @@ actors: [philadelphia-presbytery]
 subjects: [rpr]
 issues: [women-deacons, diaconal-assistants, deaconess-title]
 responds_to: [rpr-cites-pp-diaconal-committee]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m22ga

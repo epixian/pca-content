@@ -5,6 +5,8 @@ place: Birmingham, AL
 kind: meeting
 series: general-assembly
 actors: [pca-ga]
+associated: [w-jack-williamson]
+responds_to: [advisory-convention-calls-general-assembly]
 status: draft
 visibility: public
 citations:

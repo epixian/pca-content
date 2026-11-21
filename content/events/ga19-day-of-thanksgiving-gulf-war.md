@@ -4,7 +4,7 @@ date: 1991-06
 actors: [pca-ga, heritage-presbytery]
 issues: [spirituality-of-the-church]
 part_of: ga19
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m19ga

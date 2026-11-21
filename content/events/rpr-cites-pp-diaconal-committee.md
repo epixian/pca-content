@@ -7,7 +7,7 @@ subjects: [philadelphia-presbytery]
 issues: [women-deacons]
 responds_to: [pp-forms-diaconal-committee]
 part_of: ga21
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m21ga
