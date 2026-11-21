@@ -1,7 +1,7 @@
 ---
 title: The Ad Interim Committee on Human Sexuality publishes its report
 date: 2020-05
-actors: [sexuality-committee, bryan-chapell]
+actors: [sexuality-committee, bryan-chapell, kevin-deyoung]
 issues: [sexuality-and-ordination]
 responds_to: [ga47-erects-sexuality-committee]
 status: draft
@@ -13,6 +13,9 @@ citations:
   - source: m48ga
     pages: "872"
     quote: "TE Dr. Bryan Chapell, Northern Illinois (Chair)"
+  - source: m48ga
+    pages: "14"
+    quote: "TE Kevin DeYoung, Central Carolina"
   - source: m48ga
     pages: "873"
     quote: "Although we are not making any formal recommendations, we hope and pray that this Report will be unifying, edifying, and Biblically useful for our denomination"

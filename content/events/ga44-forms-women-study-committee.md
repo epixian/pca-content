@@ -7,7 +7,7 @@ subjects: [women-study-committee]
 issues: [women-in-ministry, women-deacons, commissioning-vs-ordination]
 responds_to: [cmc-report-women-voice]
 part_of: ga44
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m44ga

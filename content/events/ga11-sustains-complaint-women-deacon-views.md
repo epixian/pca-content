@@ -3,9 +3,10 @@ title: "11th General Assembly annuls an ordination exam in part over the candida
 date: 1983-06-17
 place: Norfolk, VA
 actors: [pca-ga, ascension-presbytery]
+subjects: [kurt-lutjens]
 issues: [women-deacons, ordination-exceptions, judicial-process, sabbath]
 part_of: ga11
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m11ga
@@ -27,4 +28,4 @@ citations:
     pages: "140"
     quote: "and questions 17 and 119 of the larger catechism.'Not Sustained 1-9-1"
 ---
-The 11th General Assembly heard Case 2, a complaint by RE Val H. Barleman and others against Ascension Presbytery. The presbytery had sustained the ordination exam of a candidate who took several exceptions to the Standards. One specification was that he believed the office of deacon open to women, against BCO 7-2 and 9-3, although he would comply with the BCO in practice. The judicial commission sustained that specification 9-2-0, and two others on the Lord's Supper and baptism. It did not sustain the specifications on his exceptions on Sabbath observance and the mode of baptism. The Assembly adopted the judgment that annulled the presbytery's action in sustaining the exam. A protest said that a view on women deacons held with compliance in practice did not contradict the ordination vows. A St. Louis Presbytery overture to the 12th General Assembly later said that 63 elders signed this protest.
+The 11th General Assembly heard Case 2, a complaint by RE Val H. Barleman and others against Ascension Presbytery. The presbytery had sustained the ordination exam of a candidate, Kurt Lutjens, who took several exceptions to the Standards. One specification was that he believed the office of deacon open to women, against BCO 7-2 and 9-3, although he would comply with the BCO in practice. The judicial commission sustained that specification 9-2-0, and two others on the Lord's Supper and baptism. It did not sustain the specifications on his exceptions on Sabbath observance and the mode of baptism. The Assembly adopted the judgment that annulled the presbytery's action in sustaining the exam. A protest said that a view on women deacons held with compliance in practice did not contradict the ordination vows. A St. Louis Presbytery overture to the 12th General Assembly later said that 63 elders signed this protest.

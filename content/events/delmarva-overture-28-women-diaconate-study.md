@@ -4,7 +4,7 @@ date: ../1984-06-18
 actors: [delmarva-presbytery]
 issues: [women-deacons]
 responds_to: [ga11-sustains-complaint-women-deacon-views]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m12ga
@@ -14,4 +14,4 @@ citations:
     pages: "42"
     quote: "we the Delmarva Presbytery do overture the Twelfth General Assembly of the PCA to study the particular question of women in the diaconate"
 ---
-Delmarva Presbytery sent Overture 28 to the 12th General Assembly. It noted that a candidate for ordination had been denied partly because his view on women and the diaconate was contrary to the BCO. It asked the Assembly to study the question of women in the diaconate. The Minutes do not print the date on which the presbytery adopted the overture.
+Delmarva Presbytery sent Overture 28 to the 12th General Assembly. It noted that [a candidate for ordination had been denied](/events/ga11-sustains-complaint-women-deacon-views/) partly because his view on women and the diaconate was contrary to the BCO. It asked the Assembly to study the question of women in the diaconate. The overture does not name the candidate. The 11th General Assembly's judgment against Ascension Presbytery in his case had cited that view. The Minutes do not print the date on which the presbytery adopted the overture.

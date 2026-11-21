@@ -5,7 +5,7 @@ place: Grand Rapids, MI
 actors: [pca-ga, opc]
 issues: [women-deacons, ecumenical-relations]
 part_of: ga6
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m6ga

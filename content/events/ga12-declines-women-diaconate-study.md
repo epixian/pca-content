@@ -6,7 +6,7 @@ actors: [pca-ga]
 issues: [women-deacons]
 responds_to: [delmarva-overture-28-women-diaconate-study]
 part_of: ga12
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m12ga

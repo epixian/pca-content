@@ -2,8 +2,8 @@
 name: "Hermann W. Mischke"
 kind: person
 history:
-  - when: "1976–1983"
-    text: "Teaching elder at Armistead Gardens Reformed Presbyterian Church, Baltimore, MD: in the RPCES Synod directories (1976, 1978) and, after the Joining and Receiving, in the PCA rolls of churches for Delmarva Presbytery (1982, 1983)."
+  - when: "1976–1978"
+    text: "Pastor of Armistead Gardens Reformed Presbyterian Church, Baltimore, MD, in the RPCES Synod directories for 1976 and 1978."
     citations:
       - source: m154gs
         pages: "220"
@@ -11,6 +11,10 @@ history:
       - source: m156gs
         pages: "249"
         quote: "Rev. Hermann Werner Mischke"
+  - when: "1982–1983"
+    text: "After the Joining and Receiving: commissioner from Armistead Gardens, Delmarva Presbytery, to the 10th (1982) and 11th (1983) General Assemblies."
+    body: pca-ga
+    citations:
       - source: m10ga
         pages: "25"
         quote: "Baltimore Armistead Gardens Herman W. Mischke"

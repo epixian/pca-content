@@ -2,7 +2,7 @@
 title: "41st General Assembly rules out of order the records minority reports on the Leithart and Meyers trials"
 date: 2013-06-19/2013-06-20
 place: Greenville, SC
-actors: [pca-ga, rpr]
+actors: [pca-ga, rpr, howie-donahoe]
 subjects: [pacific-northwest-presbytery, missouri-presbytery, peter-leithart, jeffrey-meyers]
 issues: [federal-vision, judicial-process]
 responds_to: [pacific-northwest-acquits-leithart, missouri-tries-meyers]

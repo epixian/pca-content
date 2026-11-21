@@ -3,7 +3,7 @@ title: 15th General Assembly ends the complaint over a teaching elder's ordinati
 date: 1987-06-18
 place: Grand Rapids, MI
 actors: [pca-ga]
-subjects: [ascension-presbytery]
+subjects: [ascension-presbytery, kurt-lutjens]
 issues: [ordination-exceptions, judicial-process, women-deacons, sabbath]
 responds_to: [ga11-sustains-complaint-women-deacon-views, ga12-answers-ascension-inquiry-women-deacons]
 part_of: ga15
@@ -26,4 +26,4 @@ citations:
     pages: "135"
     quote: "the majority of the commission is persuaded that Mr. Lutjens is in acceptable compliance with the standards of our church"
 ---
-From 1983 the General Assemblies heard complaints against Ascension Presbytery for sustaining the ordination exam of a teaching elder whose stated views differed from the Standards on five points. These included the invitation to the Lord's Supper (BCO 58-4) and women deacons. In 1986 the 14th General Assembly first approved and then, on reconsideration, rejected its commission's report by 158 to 204, and it elected a new commission. In 1987 the 15th General Assembly approved the new commission's judgment. The commission said that the women-deacons point had become moot and that the teaching elder was "in acceptable compliance" with the Standards.
+From 1983 the General Assemblies heard complaints against Ascension Presbytery for sustaining the ordination exam of a teaching elder, Kurt Lutjens, whose stated views differed from the Standards on five points. These included the invitation to the Lord's Supper (BCO 58-4) and women deacons. In 1986 the 14th General Assembly first approved and then, on reconsideration, rejected its commission's report by 158 to 204, and it elected a new commission. In 1987 the 15th General Assembly approved the new commission's judgment. The commission said that the women-deacons point had become moot and that the teaching elder was "in acceptable compliance" with the Standards.

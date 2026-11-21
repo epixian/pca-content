@@ -5,7 +5,7 @@ place: Colorado Springs, CO
 actors: [rpces-women-study-committee, steve-smallman, hermann-mischke]
 subjects: [rpces-synod]
 issues: [rpces-heritage, women-deacons]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: rpces-study-women

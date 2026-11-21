@@ -2,7 +2,7 @@
 title: 49th General Assembly votes to withdraw the PCA from the National Association of Evangelicals
 date: 2022-06-22
 place: Birmingham, AL
-actors: [pca-ga, irc, pee-dee-presbytery]
+actors: [pca-ga, irc, pee-dee-presbytery, l-roy-taylor]
 subjects: [nae]
 issues: [ecumenical-relations, spirituality-of-the-church]
 responds_to: [pee-dee-overture-withdraw-nae, ga47-remains-in-nae]

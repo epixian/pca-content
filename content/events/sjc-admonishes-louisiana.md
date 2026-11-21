@@ -1,7 +1,7 @@
 ---
 title: "Standing Judicial Commission tries Louisiana Presbytery and imposes the censure of admonition"
 date: 2008-03-06/2008-03-07
-actors: [sjc]
+actors: [sjc, howie-donahoe]
 subjects: [louisiana-presbytery, steve-wilkins]
 issues: [federal-vision, judicial-process, original-jurisdiction]
 responds_to: [louisiana-pleads-guilty, auburn-avenue-leaves-pca]

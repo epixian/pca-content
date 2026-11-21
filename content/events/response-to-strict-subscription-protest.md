@@ -2,7 +2,7 @@
 title: Commissioners answer the CoMission protest on strict subscription
 date: 1993-06-10
 place: Columbia, SC
-actors: [pca-ga]
+actors: [pca-ga, l-roy-taylor]
 issues: [ordination-exceptions]
 responds_to: [commission-protest-strict-subscription]
 part_of: ga21

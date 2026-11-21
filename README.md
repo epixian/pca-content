@@ -39,6 +39,7 @@ date: 2007-06              # EDTF: when the act happened (see below)
 place: Memphis, TN         # optional: where it happened
 actors: [rpr]              # who acted; these make the timeline lanes
 subjects: [philadelphia-presbytery, liberti-church]   # optional: who it was about
+associated: [kevin-deyoung]     # optional: connected, but neither acting nor the subject (e.g. a GA's moderator); no lane
 issues: [women-deacons, deaconess-title]
 responds_to: [liberti-commissions-diaconate]          # earlier events; a list
 kind: act                  # optional: act (default) | meeting (e.g. a General Assembly; issues optional)

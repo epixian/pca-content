@@ -5,7 +5,7 @@ actors: [westminster-presbytery]
 subjects: [women-study-committee]
 issues: [women-in-ministry]
 responds_to: [ga44-forms-women-study-committee]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m45ga

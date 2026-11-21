@@ -4,7 +4,7 @@ date: 1984-03-03
 actors: [missouri-presbytery]
 issues: [ordination-exceptions]
 responds_to: [ga11-sustains-complaint-women-deacon-views]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m12ga
@@ -17,4 +17,4 @@ citations:
     pages: "95"
     quote: "Overture 41 (12-10, p. 57) was answered in the negative"
 ---
-St. Louis Presbytery adopted Overture 41 on March 3, 1984. It referred to the 11th General Assembly's judgment against Ascension Presbytery and said many elders sympathized with the exceptions in that case. It asked the 12th General Assembly to set aside time for extended debate on subscription to the constitutional standards. The Assembly answered the overture in the negative on June 18, 1984.
+St. Louis Presbytery adopted Overture 41 on March 3, 1984. It referred to the [11th General Assembly's judgment against Ascension Presbytery](/events/ga11-sustains-complaint-women-deacon-views/) and said many elders sympathized with the exceptions in that case. It asked the 12th General Assembly to set aside time for extended debate on subscription to the constitutional standards. The Assembly answered the overture in the negative on June 18, 1984.
