@@ -5,7 +5,7 @@ actors: [philadelphia-presbytery]
 subjects: [crossroads-community-church, jason-hsu]
 issues: [women-deacons, judicial-process, ordination-exceptions]
 responds_to: [ccc-complains-hsu-licensure]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m37ga

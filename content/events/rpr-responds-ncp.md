@@ -7,7 +7,7 @@ subjects: [northern-california-presbytery]
 issues: [women-deacons, commissioning-vs-ordination, diaconal-assistants]
 responds_to: [ncp-responds-deaconess-exception]
 part_of: ga36
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m36ga

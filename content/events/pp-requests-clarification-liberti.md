@@ -5,7 +5,7 @@ actors: [philadelphia-presbytery]
 subjects: [rpr, liberti-church]
 issues: [women-deacons, deaconess-title]
 responds_to: [rpr-cites-pp-liberti]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m36ga

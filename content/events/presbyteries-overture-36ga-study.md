@@ -5,7 +5,7 @@ actors: [philadelphia-presbytery, northern-california-presbytery, western-canada
 subjects: [crossroads-community-church, liberti-church]
 issues: [women-deacons, commissioning-vs-ordination, deaconess-title]
 responds_to: [ccc-complains-hsu-licensure, rpr-cites-pp-liberti, liberti-overtures-pp-women-deacons]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m36ga

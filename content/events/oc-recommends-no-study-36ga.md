@@ -6,7 +6,7 @@ actors: [oc]
 subjects: [philadelphia-presbytery, northern-california-presbytery, western-canada-presbytery, rocky-mountain-presbytery]
 issues: [women-deacons, diaconal-assistants]
 responds_to: [presbyteries-overture-36ga-study]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m36ga

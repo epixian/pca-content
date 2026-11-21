@@ -6,7 +6,7 @@ actors: [oc]
 subjects: [philadelphia-presbytery, timothy-keller, ligon-duncan]
 issues: [women-deacons, commissioning-vs-ordination, deaconess-title]
 responds_to: [presbyteries-overture-36ga-study, oc-recommends-no-study-36ga]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m36ga

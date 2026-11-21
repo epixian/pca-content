@@ -7,7 +7,7 @@ subjects: [philadelphia-presbytery, liberti-church]
 issues: [women-deacons, commissioning-vs-ordination, diaconal-assistants]
 responds_to: [pp-requests-clarification-liberti]
 part_of: ga36
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m36ga

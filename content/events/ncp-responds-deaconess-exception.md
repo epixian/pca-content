@@ -5,7 +5,7 @@ actors: [northern-california-presbytery]
 subjects: [rpr]
 issues: [women-deacons, commissioning-vs-ordination, ordination-exceptions]
 responds_to: [rpr-cites-ncp-deaconesses]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m36ga
