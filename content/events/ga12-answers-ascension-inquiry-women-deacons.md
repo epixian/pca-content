@@ -6,7 +6,7 @@ actors: [pca-ga, ascension-presbytery]
 issues: [women-deacons, ordination-exceptions]
 responds_to: [ga11-sustains-complaint-women-deacon-views]
 part_of: ga12
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m12ga
