@@ -7,7 +7,7 @@ subjects: [crc, irc, naparc, epc]
 issues: [ecumenical-relations, women-in-ministry]
 responds_to: [ga22-message-to-crc-synod-1994, crc-synod-classis-option-women-office]
 part_of: ga23
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m23ga
