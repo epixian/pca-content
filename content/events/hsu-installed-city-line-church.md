@@ -3,6 +3,7 @@ title: Philadelphia Presbytery approves Hsu's call to City Line Church without q
 date: 2011-06-03
 actors: [philadelphia-presbytery, city-line-church]
 subjects: [jason-hsu, city-church]
+responds_to: [pp-churches-forgo-diaconate]
 issues: [women-deacons, ordination-exceptions, churches-without-diaconate]
 status: draft
 visibility: public

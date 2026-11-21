@@ -22,5 +22,7 @@ On March 31, 2009, City Church offered Philadelphia Presbytery an alternative to
 the Crossroads overture that asked it to recognize six views of the diaconate. In
 April 2010, answering a presbytery survey, City Church said it did not plan to
 form a diaconate because it believed the BCO was more restrictive than Scripture
-on women deacons. The parties in a later case disagreed on how far TE Hsu, its
-assistant pastor, took part in preparing these documents.
+on women deacons. The parties in [a later case](/events/sjc-finds-pp-in-error-city-line/) disagreed on how far TE Hsu, its
+assistant pastor, took part in preparing these documents. In 2011, when Hsu was
+called to [City Line Church](/events/hsu-installed-city-line-church/), the presbytery ruled questions about these
+diaconal practices out of order.
