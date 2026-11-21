@@ -7,7 +7,7 @@ subjects: [evangel-presbytery, central-carolina-presbytery, eastern-carolina-pre
 issues: [diaconal-assistants, deaconess-title, women-deacons]
 responds_to: [overtures-38ga-amend-bco-9-7, tennessee-valley-overture-deaconesses-38ga, ncp-overture-unordained-diaconal-38ga]
 part_of: ga38
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m38ga

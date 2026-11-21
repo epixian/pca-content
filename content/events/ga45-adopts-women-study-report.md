@@ -20,10 +20,13 @@ citations:
     pages: "31"
     quote: "Recommendation 4 was adopted as amended (939-140-18)."
   - source: m45ga
+    pages: "641"
+    quote: "the committee recommends that sessions and presbyteries select and appoint godly women and men of the congregation to assist the ordained diaconate"
+  - source: m45ga
     pages: "32"
-    quote: "TE Scott Cook offered an amendment to change the word “leadership” to the word “diaconate” and to strike the remainder of the sentence."
+    quote: "The amended Recommendation 6 was adopted (838-289-32)."
   - source: m45ga
     pages: "641"
     quote: "these godly, unordained women have often historically been referred to as deaconesses"
 ---
-The 45th General Assembly received the report of the Ad Interim Committee on Women Serving in the Ministry of the Church and acted on its recommendations one by one over two days. It adopted Recommendation 4, as amended, that sessions, if possible, establish a diaconate of qualified ordained men. It amended Recommendation 6 to strike the words that said such unordained women "have often historically been referred to as deaconesses," and then adopted it.
+The 45th General Assembly received the report of the Ad Interim Committee on Women Serving in the Ministry of the Church and acted on its recommendations one by one over two days. It adopted Recommendation 4, as amended, that sessions, if possible, establish a diaconate of qualified ordained men. It adopted Recommendation 6, as amended, that sessions and presbyteries select and appoint godly women and men of the congregation to assist the ordained diaconate. The committee's text had ended by saying that such unordained women "have often historically been referred to as deaconesses"; the amendment removed those words.
