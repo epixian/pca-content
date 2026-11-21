@@ -5,7 +5,7 @@ place: Jackson, MS
 kind: meeting
 series: general-assembly
 actors: [pca-ga]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: pcahc-ga-index
