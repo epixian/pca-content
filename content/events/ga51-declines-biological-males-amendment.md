@@ -5,7 +5,7 @@ place: Richmond, VA
 actors: [pca-ga, oc, james-river-presbytery]
 issues: [sexuality-bco-amendments, women-in-ministry]
 part_of: ga51
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m51ga
