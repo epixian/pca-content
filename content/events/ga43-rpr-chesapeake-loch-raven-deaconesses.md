@@ -6,7 +6,7 @@ actors: [pca-ga, rpr]
 subjects: [chesapeake-presbytery]
 issues: [women-deacons]
 part_of: ga43
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m43ga
