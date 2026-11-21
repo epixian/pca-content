@@ -4,7 +4,7 @@ date: 2025-10-10
 actors: [save-the-pca]
 issues: [women-in-ministry, diaconal-assistants, titles-of-office]
 responds_to: [stp-ffo-report-published]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: stp-ffofollowup
