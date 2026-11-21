@@ -15,7 +15,7 @@ citations:
     pages: "178"
     quote: "approving the recommendation of the committee to answer the complaint in the negative"
 ---
-On November 10, 2007, Philadelphia Presbytery referred the complaint to a study
-committee. At a called meeting on January 26, 2008, it heard the committee's
+On November 10, 2007, Philadelphia Presbytery referred [the Crossroads complaint](/events/ccc-complains-hsu-licensure/)
+to a study committee. At a called meeting on January 26, 2008, it heard the committee's
 report and an argument from the Crossroads session. It then answered the
 complaint in the negative.

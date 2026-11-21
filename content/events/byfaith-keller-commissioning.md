@@ -3,7 +3,7 @@ title: "byFaith publishes Keller's \"The Case for Commissioning (Not Ordaining) 
 date: 2008
 actors: [byfaith, timothy-keller]
 issues: [women-deacons, commissioning-vs-ordination, deaconess-title]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: byfaith-keller-2008

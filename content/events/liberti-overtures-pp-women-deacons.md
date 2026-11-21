@@ -6,7 +6,7 @@ actors: [liberti-church]
 subjects: [philadelphia-presbytery]
 issues: [women-deacons, commissioning-vs-ordination]
 responds_to: [rpr-cites-pp-liberti]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m36ga

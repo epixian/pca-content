@@ -7,7 +7,7 @@ subjects: [philadelphia-presbytery, liberti-church]
 issues: [women-deacons, deaconess-title]
 responds_to: [liberti-commissions-diaconate]
 part_of: ga35
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m35ga

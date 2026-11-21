@@ -7,7 +7,7 @@ subjects: [northern-california-presbytery]
 issues: [women-deacons, commissioning-vs-ordination, deaconess-title]
 responds_to: [ncp-church-commissions-deaconesses]
 part_of: ga35
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m35ga

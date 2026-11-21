@@ -4,7 +4,7 @@ date: 2007-09-12
 actors: [philadelphia-presbytery]
 subjects: [jason-hsu]
 issues: [women-deacons, ordination-exceptions]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m37ga

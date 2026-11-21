@@ -3,7 +3,7 @@ title: "byFaith publishes Duncan's \"The Case for Our Current Policy on Female D
 date: 2008
 actors: [byfaith, ligon-duncan]
 issues: [women-deacons, commissioning-vs-ordination, deaconess-title]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: byfaith-duncan-2008
