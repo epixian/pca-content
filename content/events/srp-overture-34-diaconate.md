@@ -7,7 +7,7 @@ subjects: [rpr]
 issues: [churches-without-diaconate, diaconal-assistants]
 responds_to: [nwgp-overture-titles, srp-overture-25-diaconate-2018, ga45-adopts-women-study-report]
 part_of: ga52
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m52ga
