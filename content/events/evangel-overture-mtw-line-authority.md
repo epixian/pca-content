@@ -5,7 +5,7 @@ actors: [evangel-presbytery]
 subjects: [mtw]
 issues: [women-in-ministry]
 responds_to: [heritage-overture-mtw-women-leaders]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m48ga
