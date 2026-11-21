@@ -18,6 +18,5 @@ citations:
 ---
 Metro Atlanta Presbytery adopted a resolution that listed diaconal practices. As
 described in later RPR exceptions and MAP's response, the practices included
-election by the congregation, commissioning rather than ordaining, men and women
-as "equal partners in diaconal ministry," and use of the words "deacon" and
-"deaconess" in quotes.
+election by the congregation, commissioning rather than ordaining, and men and women
+as "equal partners in diaconal ministry."

@@ -5,7 +5,7 @@ actors: [philadelphia-presbytery]
 subjects: [liberti-church, rpr]
 issues: [women-deacons, churches-without-diaconate, commissioning-vs-ordination]
 responds_to: [rpr-clarifies-diaconate-pp]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m38ga

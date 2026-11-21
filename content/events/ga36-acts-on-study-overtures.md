@@ -7,7 +7,7 @@ subjects: [philadelphia-presbytery, oc]
 issues: [women-deacons, diaconal-assistants]
 responds_to: [oc-recommends-no-study-36ga, oc-minority-report-study-36ga]
 part_of: ga36
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m36ga

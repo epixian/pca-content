@@ -5,7 +5,7 @@ actors: [crossroads-community-church]
 subjects: [philadelphia-presbytery]
 issues: [women-deacons, churches-without-diaconate]
 responds_to: [pp-denies-ccc-overture]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m37ga

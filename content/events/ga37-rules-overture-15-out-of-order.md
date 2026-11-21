@@ -7,7 +7,7 @@ subjects: [crossroads-community-church, philadelphia-presbytery]
 issues: [women-deacons, judicial-process]
 responds_to: [ccc-overture-15-37ga, sjc-affirms-pp-hsu]
 part_of: ga37
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m37ga
