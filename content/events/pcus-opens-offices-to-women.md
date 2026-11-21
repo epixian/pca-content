@@ -5,7 +5,7 @@ place: Montreat, NC
 actors: [pcus]
 issues: [complementarianism, women-in-ministry]
 responds_to: [pcus-proposes-women-officers]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: ct-pcus-1964

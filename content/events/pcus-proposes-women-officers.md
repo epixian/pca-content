@@ -4,7 +4,7 @@ date: 1963-04
 place: Huntington, WV
 actors: [pcus]
 issues: [complementarianism, women-in-ministry]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: ct-pcus-1963

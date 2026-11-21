@@ -5,7 +5,7 @@ place: Richmond, VA
 actors: [pcus]
 issues: [complementarianism, women-in-ministry]
 responds_to: [pcus-opens-offices-to-women]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: phs-ordained-women
