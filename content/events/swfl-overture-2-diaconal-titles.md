@@ -4,7 +4,7 @@ date: 2026-09-12
 actors: [southwest-florida-presbytery]
 issues: [deaconess-title, diaconal-assistants, churches-without-diaconate, women-deacons]
 responds_to: [ga39-enacts-bco-9-7, ga45-adopts-women-study-report, swfl-overture-14-titles, stp-ffo-report-published]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: o2-54ga

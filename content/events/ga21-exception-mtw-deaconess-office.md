@@ -6,7 +6,7 @@ actors: [pca-ga]
 subjects: [mtw]
 issues: [deaconess-title, women-deacons]
 part_of: ga21
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m21ga
