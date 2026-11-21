@@ -6,7 +6,7 @@ actors: [rpces-synod]
 subjects: [rpces-women-study-committee]
 issues: [rpces-heritage, women-deacons]
 responds_to: [rpces-study-recommends-women-deacons]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m154gs

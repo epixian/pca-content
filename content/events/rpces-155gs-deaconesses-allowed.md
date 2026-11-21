@@ -6,7 +6,7 @@ actors: [rpces-synod]
 subjects: [rpces-women-study-committee]
 issues: [rpces-heritage, women-deacons, deaconess-title]
 responds_to: [rpces-154gs-continues-study]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m155gs

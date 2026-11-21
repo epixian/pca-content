@@ -5,7 +5,7 @@ actors: [rpces-synod]
 subjects: [michigan-northern-indiana-presbytery]
 issues: [rpces-heritage, women-deacons, deaconess-title]
 responds_to: [rpces-155gs-deaconesses-allowed]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: rpces-reconsideration-women-deacons
