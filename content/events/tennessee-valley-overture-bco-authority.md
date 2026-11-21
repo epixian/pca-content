@@ -16,4 +16,4 @@ citations:
     pages: "46"
     quote: "Adopted at the Stated Meeting on September 8, 1984."
 ---
-Tennessee Valley Presbytery adopted Overture 10 to the 13th General Assembly. It referred to the 11th General Assembly's decision in the judicial case Barleman et al. vs. Ascension. It asked the Assembly to declare that the Book of Church Order never has authority equal to the Westminster Standards or Scripture, so that no man may be forbidden ordination for conscientious objections to parts of the BCO not found in the Confession or Scripture.
+Tennessee Valley Presbytery adopted Overture 10 to the 13th General Assembly. It referred to the 11th General Assembly's decision in the judicial case Barleman et al. vs. Ascension. It asked the Assembly to declare that the BCO never has authority equal to the Westminster Standards or Scripture, so that no man may be forbidden ordination for conscientious objections to parts of the BCO not found in the Confession or Scripture.

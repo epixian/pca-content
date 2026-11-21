@@ -3,7 +3,7 @@ title: Pee Dee Presbytery overtures the 51st General Assembly to give BCO 53 on 
 date: 2023-10-26
 actors: [pee-dee-presbytery]
 issues: [women-in-ministry]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m51ga

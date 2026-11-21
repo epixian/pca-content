@@ -20,4 +20,4 @@ citations:
     pages: "162"
     quote: "ITEM 4: Amend BCO 21-4; 24-1 (Overture 37) clarifying moral requirements for church office"
 ---
-The presbyteries voted on the amendments that the 48th General Assembly had sent down. The new BCO 16-4 (Item 2) received 53 votes for and 32 against, and the BCO 21-4 and 24-1 examination amendment (Item 4) received 45 for and 40 against. Both fell short of the 59 presbyteries (two-thirds) required, so neither became part of the Book of Church Order. The Moderator reported the result to the 49th General Assembly on June 21, 2022.
+The presbyteries voted on the amendments that the 48th General Assembly had sent down. The new BCO 16-4 (Item 2) received 53 votes for and 32 against, and the BCO 21-4 and 24-1 examination amendment (Item 4) received 45 for and 40 against. Both fell short of the 59 presbyteries (two-thirds) required, so neither became part of the BCO. The Moderator reported the result to the 49th General Assembly on June 21, 2022.

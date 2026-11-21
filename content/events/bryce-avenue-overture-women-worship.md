@@ -6,7 +6,7 @@ actors: [pca-ga, oc]
 issues: [women-in-ministry]
 responds_to: [ga45-women-roles-recommendations]
 part_of: ga50
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m50ga
@@ -21,5 +21,8 @@ citations:
   - source: m50ga
     pages: "77"
     quote: "be answered by referring the overture back to the Session of Bryce Avenue Presbyterian Church, White Rock, New Mexico, without prejudice. The recommendation was adopted, 1725-139-8."
+  - source: m50ga
+    pages: "1003"
+    quote: "The proposed new paragraph BCO 53-7 would read as follows"
 ---
-The session of Bryce Avenue Presbyterian Church in White Rock, New Mexico, proposed a new BCO 53-7: no woman shall preach, exhort, or teach at a public worship assembly where men are present. Rio Grande Presbytery rejected the overture, and the session sent it to the General Assembly. The 50th General Assembly referred it back to the session without prejudice, on the ground that its terms were too broad and vague.
+The session of Bryce Avenue Presbyterian Church in White Rock, New Mexico, proposed a new paragraph, BCO 53-7, in the Directory for Worship: no woman shall preach, exhort, or teach at a public worship assembly where men are present. Rio Grande Presbytery rejected the overture, and the session sent it to the General Assembly. The 50th General Assembly referred it back to the session without prejudice, on the ground that its terms were too broad and vague.

@@ -16,4 +16,4 @@ citations:
     pages: "47"
     quote: "Adopted at the Winter Meeting on January 18-19, 1985"
 ---
-Missouri Presbytery adopted Overture 17 to the 13th General Assembly. It said that the 12th General Assembly (1984) had adopted two motions on exceptions to the Book of Church Order, but that the motions did not address "the general principles of Biblical polity" in the third ordination question (BCO 21-5). The overture asked the Assembly to add that an exception to the BCO on one of these principles is to be handled as an exception to the Westminster Confession or Catechisms.
+Missouri Presbytery adopted Overture 17 to the 13th General Assembly. It said that the 12th General Assembly (1984) had adopted two motions on exceptions to the BCO, but that the motions did not address "the general principles of Biblical polity" in the third ordination question (BCO 21-5). The overture asked the Assembly to add that an exception to the BCO on one of these principles is to be handled as an exception to the Westminster Confession or Catechisms.

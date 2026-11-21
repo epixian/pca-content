@@ -14,4 +14,4 @@ citations:
     pages: "106"
     quote: "That Overture 10 (p. 46) from the Presbytery of Tennessee Valley be denied because it is answered by the response to Constitutional Inquiry 13 of the Twelfth General Assembly"
 ---
-The 13th General Assembly denied Tennessee Valley Presbytery's Overture 10. It gave as its ground that the overture was answered by the 12th General Assembly's response to Constitutional Inquiry 13 and by the confessional standards. At the same Assembly it adopted Missouri Presbytery's Overture 17 on exceptions to the Book of Church Order.
+The 13th General Assembly denied Tennessee Valley Presbytery's Overture 10. It gave as its ground that the overture was answered by the 12th General Assembly's response to Constitutional Inquiry 13 and by the confessional standards. At the same Assembly it adopted Missouri Presbytery's Overture 17 on exceptions to the BCO.

@@ -19,4 +19,4 @@ citations:
     pages: "15"
     quote: "First Session – Tuesday Evening June 13, 2023"
 ---
-On its first evening, the 50th General Assembly gave final approval in gross (1487-22-28) to the amendments that the presbyteries had ratified, including the new BCO 16-4 on officer qualifications and the amendments to BCO 21-4 and 24-1 on examining candidates' character. With this vote they became part of the Book of Church Order.
+On its first evening, the 50th General Assembly gave final approval in gross (1487-22-28) to the amendments that the presbyteries had ratified, including the new BCO 16-4 on officer qualifications and the amendments to BCO 21-4 and 24-1 on examining candidates' character. With this vote they became part of the BCO.
