@@ -5,7 +5,7 @@ place: Memphis, TN
 actors: [northwest-georgia-presbytery, pca-ga]
 issues: [titles-of-office, deaconess-title]
 part_of: ga50
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m50ga

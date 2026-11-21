@@ -4,7 +4,7 @@ date: 2025-02-07
 actors: [thomas-rickard, presbyterian-polity]
 issues: [deaconess-title, commissioning-vs-ordination, diaconal-assistants]
 responds_to: [ga51-enacts-bco-7-3]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: pcapolity-rickard-2025

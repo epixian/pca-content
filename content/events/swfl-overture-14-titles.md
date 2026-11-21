@@ -5,7 +5,7 @@ actors: [southwest-florida-presbytery]
 subjects: [save-the-pca]
 issues: [titles-of-office, deaconess-title, diaconal-assistants, women-in-ministry]
 responds_to: [stp-ffo-report-published, ga51-enacts-bco-7-3, ga39-enacts-bco-9-7]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: o14-53ga

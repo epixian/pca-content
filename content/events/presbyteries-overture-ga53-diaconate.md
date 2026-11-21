@@ -31,6 +31,11 @@ citations:
   quote: Adopted by the Savannah River Presbytery at its stated meeting, October 21, 2025
 - source: byfaith-ga53-june25
   quote: Overtures 14, 34, 36, 38, 48, 52, 71, and 74 were answered with reference to the Assembly’s answer to Overture 37.
+- source: o37-53ga
+  pages: '1'
+  quote: Amend BCO 9-3 to Allow Women to Serve as Ordained Deacons
+- source: cp-ga53-deacons
+  quote: voted against an overture Thursday to allow women to serve as ordained deacons
 - source: o36-53ga
   pages: '1'
   quote: Add BCO 8-11 and 9-8 Regarding the Exercise of the Duties and Authority of Elder
@@ -86,4 +91,4 @@ Six presbyteries sent related overtures on the diaconate to the 53rd General Ass
 - Northern California Presbytery (Overture 71) asked to amend BCO 5-9.e, 9-2 and 9-7, so that a session may administer diaconal ministry directly when a church has no deacons.
 - Eastern Carolina Presbytery (Overture 74) asked to add a new chapter, BCO 17A, on commissioning, which "does not confer ecclesiastical office."
 
-The Assembly answered all six, with Overtures 14 and 38, with reference to its answer to Overture 37.
+The Assembly answered all six, with Overtures 14 and 38, with reference to its answer to [Overture 37](/events/ga53-answers-overture-37/), Pacific Presbytery's request to allow women to serve as ordained deacons. The Assembly voted against Overture 37.

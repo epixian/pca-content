@@ -5,7 +5,7 @@ actors: [save-the-pca, michael-foster]
 subjects: [pca]
 issues: [women-in-ministry, commissioning-vs-ordination, titles-of-office, deaconess-title]
 responds_to: [srp-overture-34-diaconate, byfaith-keller-commissioning, lee-carr-deaconess-survey]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: stp-comingsoon
