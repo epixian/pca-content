@@ -6,7 +6,7 @@ actors: [pca-ga, northwest-georgia-presbytery]
 issues: [women-in-ministry, commissioning-vs-ordination]
 responds_to: [ga45-adopts-women-study-report]
 part_of: ga47
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m47ga
