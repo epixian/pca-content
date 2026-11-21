@@ -1,5 +1,5 @@
 ---
-title: 49th General Assembly sends down a Book of Church Order 7-4 amendment disqualifying men who describe themselves as homosexual
+title: 49th General Assembly sends down a BCO 7-4 amendment disqualifying men who describe themselves as homosexual
 date: 2022-06-23
 place: Birmingham, AL
 actors: [pca-ga, oc, westminster-presbytery]

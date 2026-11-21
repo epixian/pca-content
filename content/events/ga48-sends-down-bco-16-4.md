@@ -1,5 +1,5 @@
 ---
-title: 48th General Assembly sends down a Book of Church Order 16-4 amendment on identity and ordination
+title: 48th General Assembly sends down a BCO 16-4 amendment on identity and ordination
 date: 2021-07-01
 place: St. Louis, MO
 actors: [pca-ga, oc, gulf-coast-presbytery]

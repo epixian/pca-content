@@ -1,5 +1,5 @@
 ---
-title: 39th General Assembly enacts the amendment to Book of Church Order 9-7
+title: 39th General Assembly enacts the amendment to BCO 9-7
 date: 2011-06-08
 place: Virginia Beach, VA
 actors: [pca-ga]

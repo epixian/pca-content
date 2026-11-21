@@ -1,5 +1,5 @@
 ---
-title: 13th General Assembly denies Tennessee Valley's overture on objections to the Book of Church Order
+title: 13th General Assembly denies Tennessee Valley's overture on objections to the BCO
 date: 1985-06
 place: St. Louis, MO
 actors: [pca-ga]

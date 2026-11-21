@@ -1,5 +1,5 @@
 ---
-title: Presbyteries approve the Book of Church Order 7-3 amendment on titles of unordained people
+title: Presbyteries approve the BCO 7-3 amendment on titles of unordained people
 date: 2023-06/2024-06
 actors: [pca]
 issues: [titles-of-office, deaconess-title]

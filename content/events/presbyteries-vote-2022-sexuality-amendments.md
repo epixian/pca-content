@@ -1,5 +1,5 @@
 ---
-title: Presbyteries approve Book of Church Order 16-4 and reject 7-4
+title: Presbyteries approve BCO 16-4 and reject 7-4
 date: 2022-06/2023-06-13
 actors: [pca]
 issues: [sexuality-and-ordination, sexuality-bco-amendments]

@@ -1,5 +1,5 @@
 ---
-title: 53rd General Assembly adopts a Book of Church Order 12-8 amendment to list Session and Diaconate members
+title: 53rd General Assembly adopts a BCO 12-8 amendment to list Session and Diaconate members
 date: 2026-06
 place: Louisville, KY
 actors: [ascension-presbytery, oc, pca-ga]

@@ -1,5 +1,5 @@
 ---
-title: 13th General Assembly adopts a statement on exceptions to the Book of Church Order
+title: 13th General Assembly adopts a statement on exceptions to the BCO
 date: 1985-06
 place: St. Louis, MO
 actors: [pca-ga]

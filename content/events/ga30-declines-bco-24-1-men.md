@@ -1,5 +1,5 @@
 ---
-title: 30th General Assembly declines to change "persons" to "men" and "should" to "shall" in Book of Church Order 24-1
+title: 30th General Assembly declines to change "persons" to "men" and "should" to "shall" in BCO 24-1
 date: 2002-06-20
 place: Birmingham, AL
 actors: [pca-ga, rocky-mountain-presbytery]

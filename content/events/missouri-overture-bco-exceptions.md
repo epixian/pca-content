@@ -1,5 +1,5 @@
 ---
-title: Missouri Presbytery overtures the 13th General Assembly on exceptions to the Book of Church Order
+title: Missouri Presbytery overtures the 13th General Assembly on exceptions to the BCO
 date: 1985-01-18/1985-01-19
 actors: [missouri-presbytery]
 issues: [ordination-exceptions]

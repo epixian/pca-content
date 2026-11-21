@@ -1,5 +1,5 @@
 ---
-title: 49th General Assembly sends down a new Book of Church Order 16-4 on officer qualifications
+title: 49th General Assembly sends down a new BCO 16-4 on officer qualifications
 date: 2022-06-23
 place: Birmingham, AL
 actors: [pca-ga, oc, pittsburgh-presbytery]

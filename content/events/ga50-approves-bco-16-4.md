@@ -1,5 +1,5 @@
 ---
-title: 50th General Assembly gives final approval to Book of Church Order 16-4 and the examination amendments
+title: 50th General Assembly gives final approval to BCO 16-4 and the examination amendments
 date: 2023-06-13
 place: Memphis, TN
 actors: [pca-ga]

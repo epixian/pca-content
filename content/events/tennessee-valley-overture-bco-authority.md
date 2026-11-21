@@ -1,5 +1,5 @@
 ---
-title: Tennessee Valley Presbytery asks that no man be refused ordination for objections to the Book of Church Order alone
+title: Tennessee Valley Presbytery asks that no man be refused ordination for objections to the BCO alone
 date: 1984-09-08
 actors: [tennessee-valley-presbytery]
 issues: [ordination-exceptions]

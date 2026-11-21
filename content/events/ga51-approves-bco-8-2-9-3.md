@@ -1,5 +1,5 @@
 ---
-title: 51st General Assembly gives final approval to the chastity amendments to Book of Church Order 8-2 and 9-3
+title: 51st General Assembly gives final approval to the chastity amendments to BCO 8-2 and 9-3
 date: 2024-06-11
 place: Richmond, VA
 actors: [pca-ga]

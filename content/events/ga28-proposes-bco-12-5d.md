@@ -1,5 +1,5 @@
 ---
-title: 28th General Assembly sends down a Book of Church Order 12-5.d amendment against women preaching in public worship
+title: 28th General Assembly sends down a BCO 12-5.d amendment against women preaching in public worship
 date: 2000-06-23
 place: Tampa, FL
 actors: [pca-ga, potomac-presbytery]

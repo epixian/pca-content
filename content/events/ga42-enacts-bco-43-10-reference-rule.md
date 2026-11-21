@@ -1,5 +1,5 @@
 ---
-title: "42nd General Assembly enacts the amendment to Book of Church Order 43-10 on references after a non-indictment"
+title: "42nd General Assembly enacts the amendment to BCO 43-10 on references after a non-indictment"
 date: 2014-06-18
 place: Houston, TX
 actors: [pca-ga]

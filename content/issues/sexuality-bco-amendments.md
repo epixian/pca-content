@@ -1,5 +1,5 @@
 ---
-title: Book of Church Order amendments on sexuality and officer qualifications
+title: BCO amendments on sexuality and officer qualifications
 parents: [sexuality-and-ordination]
 ---
 
