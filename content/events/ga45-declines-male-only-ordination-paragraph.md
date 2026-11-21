@@ -5,7 +5,7 @@ place: Greensboro, NC
 actors: [pca-ga, northwest-georgia-presbytery]
 issues: [women-deacons, women-in-ministry]
 part_of: ga45
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m45ga
