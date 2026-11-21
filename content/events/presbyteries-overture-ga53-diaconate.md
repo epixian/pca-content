@@ -17,7 +17,7 @@ issues:
 - titles-of-office
 - deaconess-title
 - diaconal-assistants
-status: draft
+status: reviewed
 visibility: public
 citations:
 - source: o34-53ga
