@@ -2,7 +2,7 @@
 title: Westminster Presbytery overtures the 54th General Assembly on the civil magistrate and false worship
 date: 2026-11-14
 actors: [westminster-presbytery]
-issues: [civil-magistrate]
+issues: [civil-magistrate, other-religions]
 status: draft
 visibility: public
 citations:
