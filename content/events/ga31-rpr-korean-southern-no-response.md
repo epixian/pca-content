@@ -16,5 +16,14 @@ citations:
   - source: m31ga
     pages: "232"
     quote: "Exception: April 9, 2001 : Ordination of women as deaconesses not provided for in PCA Constitution."
+  - source: m32ga
+    pages: "219"
+    quote: "Ordination of women as deaconesses not provided for in PCA Constitution."
+  - source: m33ga
+    pages: "287"
+    quote: "Ordination of women as deaconesses not provided for in PCA Constitution."
+  - source: m34ga
+    pages: "269"
+    quote: "Ordination of women as deaconesses not provided for in PCA Constitution."
 ---
-The 31st General Assembly adopted the RPR's report that Korean Southern Presbytery had submitted no response to the 30th Assembly's exceptions, including the exception on the ordination of women as deaconesses. It asked the presbytery to submit its responses to the 32nd General Assembly.
+The 31st General Assembly adopted the RPR's report that Korean Southern Presbytery had submitted no response to the 30th Assembly's exceptions, including the exception on the ordination of women as deaconesses. It asked the presbytery to submit its responses to the 32nd General Assembly. The 32nd, 33rd and 34th General Assemblies again recorded no response from the presbytery and carried the same exception forward each year.

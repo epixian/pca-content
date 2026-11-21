@@ -4,7 +4,7 @@ date: 2001-06-21
 place: Dallas, TX
 actors: [pca-ga, calvary-presbytery, western-carolina-presbytery]
 subjects: [sjc, john-wood]
-issues: [women-in-ministry, judicial-process]
+issues: [women-in-ministry, judicial-process, original-jurisdiction]
 responds_to: [sjc-no-process-against-wood]
 part_of: ga29
 status: draft

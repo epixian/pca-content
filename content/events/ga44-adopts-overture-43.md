@@ -5,7 +5,7 @@ place: Mobile, AL
 actors: [pca-ga, oc, potomac-presbytery]
 subjects: [mississippi-valley-presbytery]
 issues: [race-and-reconciliation, corporate-repentance]
-responds_to: [potomac-overture-43, ga43-refers-civil-rights-resolution, north-florida-overture-spirituality-of-the-church, mississippi-valley-overture-55]
+responds_to: [potomac-overture-43, ga43-refers-civil-rights-resolution, north-florida-overture-spirituality-of-the-church, mississippi-valley-overture-55, heartland-overture-1-racial-reconciliation, missouri-overture-4-civil-rights-confession, calvary-westminster-overtures-repentance-reconciliation, northwest-georgia-overture-53-repentance-first]
 part_of: ga44
 status: draft
 visibility: public
@@ -13,6 +13,9 @@ citations:
   - source: m44ga
     pages: "70"
     quote: "Recommendation 1 was adopted (861-123-23), answering Overture 43 in the affirmative as amended"
+  - source: m44ga
+    pages: "74"
+    quote: "be answered in the affirmative as amended and that the following overtures be"
   - source: m44ga
     pages: "71"
     quote: "being answered with reference to Overture 43"

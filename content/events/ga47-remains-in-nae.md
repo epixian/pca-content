@@ -4,6 +4,7 @@ date: 2019-06
 place: Dallas, TX
 actors: [pca-ga, central-carolina-presbytery, irc]
 issues: [spirituality-of-the-church]
+responds_to: [ga40-declines-nae-withdrawal]
 part_of: ga47
 status: draft
 visibility: public

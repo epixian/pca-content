@@ -4,7 +4,7 @@ date: 2026-06-25
 place: Louisville, KY
 actors: [pca-ga, oc, pacific-presbytery]
 issues: [women-deacons, women-in-ministry, titles-of-office]
-responds_to: [swfl-overture-14-titles, metro-atlanta-overture-38-diaconate]
+responds_to: [swfl-overture-14-titles, metro-atlanta-overture-38-diaconate, savannah-river-overture-34-diaconate, catawba-valley-overture-36-duties-of-office, nwga-overture-48-commissioning, ms-valley-overture-52-no-new-offices, ncal-overture-71-session-diaconal-ministry, ecar-overture-74-commissioning-chapter]
 part_of: ga53
 status: draft
 visibility: public

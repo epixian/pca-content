@@ -14,5 +14,11 @@ citations:
   - source: m12ga
     pages: "187"
     quote: "the question of church/state relations particularly with reference to the taxation of the church be referred to the General Assembly with the request that a study committee of appropriate theological and legal expertise be appointed by the Committee on Administration"
+  - source: m12ga
+    pages: "45"
+    quote: "Overture 59: From members of Grace Presbytery (Presented to Grace Presbytery, but not adopted)"
+  - source: m12ga
+    pages: "103"
+    quote: "Not specifically answered by the Assembly. See 12-90, III, 22, p. 187"
 ---
 On the recommendation of its Committee on Administration, the 12th General Assembly declared it PCA policy that churches and presbyteries "should not intentionally violate the law of the land unless loyalty to God absolutely demands it." It asked the Committee on Administration to appoint a study committee on church/state relations, "particularly with reference to the taxation of the church."

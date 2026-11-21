@@ -19,5 +19,14 @@ citations:
   - source: m21ga
     pages: "169"
     quote: "protest the action of the 21st General Assembly in answering in the affirmative Overture 35 from Louisiana Presbytery concerning the Christian Reformed Church"
+  - source: m21ga
+    pages: "64"
+    quote: "That General Assembly answer overtures 32, 34 & 42 by reference to the action on Overture 35. Adopted"
+  - source: m21ga
+    pages: "66"
+    quote: "Adopted at the Stated Meeting of Calvary Presbytery, on April 22,1993."
+  - source: m21ga
+    pages: "66"
+    quote: "OVERTURE 42 From the Presbytery of South Texas \"Regarding CRC\""
 ---
-Louisiana Presbytery asked the 21st General Assembly to write to the Christian Reformed Church (CRC), to express grave concern and to call it to repentance. The overture listed women elders and women who preached in some CRC churches, together with other concerns about homosexuality, evolution and church discipline. The committee recommended a negative answer, but the Assembly adopted a substitute motion to answer the overture in the affirmative. TE James Meek protested that the Assembly had accepted allegations that were not proven.
+Louisiana Presbytery asked the 21st General Assembly to write to the Christian Reformed Church (CRC), to express grave concern and to call it to repentance. The overture listed women elders and women who preached in some CRC churches, together with other concerns about homosexuality, evolution and church discipline. The committee recommended a negative answer, but the Assembly adopted a substitute motion to answer the overture in the affirmative. TE James Meek protested that the Assembly had accepted allegations that were not proven. The Assembly answered Overture 32 from Mid-America Presbytery, Overture 34 from Calvary Presbytery and Overture 42 from the Presbytery of South Texas, which also concerned the CRC, by reference to its action on Overture 35.

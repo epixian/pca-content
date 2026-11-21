@@ -16,5 +16,8 @@ citations:
   - source: m25ga
     pages: "58"
     quote: "vote of the PCA delegation to the 1996 NAPARC meeting in favor of the admittance of the Evangelical Presbyterian Church (EPC) into NAPARC"
+  - source: m25ga
+    pages: "58"
+    quote: "Adopted at the Winter Stated Meeting of Northeast Presbytery on January 17-18, 1997"
 ---
 Four presbyteries asked the 25th General Assembly to investigate the Interchurch Relations Committee. One concern was that the PCA delegation to the 1996 NAPARC meeting had voted to admit the Evangelical Presbyterian Church (EPC). In its answer, the Assembly told the committee not to propose or vote for the EPC's admission to NAPARC until the EPC changed its official position on women in office.

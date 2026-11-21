@@ -4,7 +4,7 @@ date: 1988-06
 place: Knoxville, TN
 actors: [pca-ga, church-state-subcommittee]
 issues: [civil-magistrate, spirituality-of-the-church, christian-nationalism]
-responds_to: [ga12-asks-church-state-study]
+responds_to: [ga12-asks-church-state-study, ga13-refers-civil-disobedience-overture, ga15-passes-down-church-state-report]
 part_of: ga16
 status: draft
 visibility: public

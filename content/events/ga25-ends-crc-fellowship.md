@@ -19,5 +19,11 @@ citations:
   - source: m25ga
     pages: "57"
     quote: "accepts the apology of the IRC for the failure to get the motion concerning the CRC before NAPARC in a timely and effective manner"
+  - source: m25ga
+    pages: "57"
+    quote: "within a year of being suspended by NAPARC"
+  - source: m25ga
+    pages: "58"
+    quote: "the PCA delegation did not make a motion to remove the CRC from NAPARC"
 ---
-The 25th General Assembly ended its recognition of the Christian Reformed Church (CRC) as a church in ecclesiastical fellowship with the PCA, effective at once. It told the Interchurch Relations Committee to talk with the CRC and to recommend a future relationship to the next Assembly. It encouraged presbyteries and sessions to develop fellowship with CRC classes and congregations that do not ordain women to ruling office. It also accepted the committee's apology for not bringing the motion about the CRC before NAPARC in a timely way.
+The 25th General Assembly ended its recognition of the Christian Reformed Church (CRC) as a church in ecclesiastical fellowship with the PCA, effective at once. It told the Interchurch Relations Committee to talk with the CRC and to recommend a future relationship to the next Assembly. It encouraged presbyteries and sessions to develop fellowship with CRC classes and congregations that do not ordain women to ruling office. It also accepted the committee's apology for not bringing the motion about the CRC before NAPARC in a timely way. It directed the committee to move the CRC's expulsion from NAPARC if the CRC did not reverse its 1995 Synod action on women in office within a year of its suspension. Covenant Presbytery's Overture 4 to the same Assembly said that the PCA delegation had not moved to remove the CRC from NAPARC.

@@ -4,6 +4,7 @@ date: 1999-06-16
 place: Louisville, KY
 actors: [pca-ga, mna]
 issues: [women-in-ministry]
+responds_to: [ga25-declines-mna-women-seminars-overture]
 part_of: ga27
 status: draft
 visibility: public
