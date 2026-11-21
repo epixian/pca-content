@@ -3,7 +3,7 @@ title: Northern California Presbytery overtures the 38th General Assembly to all
 date: 2010-03-05
 actors: [northern-california-presbytery]
 issues: [women-deacons, churches-without-diaconate, commissioning-vs-ordination, diaconal-assistants]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m38ga

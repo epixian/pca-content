@@ -5,7 +5,7 @@ actors: [sjc]
 subjects: [northern-california-presbytery]
 issues: [women-deacons, judicial-process]
 responds_to: [ncp-adopts-six-diaconate-views]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m39ga

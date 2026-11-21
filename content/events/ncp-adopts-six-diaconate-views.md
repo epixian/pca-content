@@ -4,7 +4,7 @@ date: 2009-03-07
 actors: [northern-california-presbytery]
 issues: [women-deacons, commissioning-vs-ordination, deaconess-title]
 responds_to: [rpr-responds-ncp]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m39ga

@@ -23,8 +23,4 @@ citations:
     pages: "71"
     quote: "Recommendations VI, 1-77 were adopted."
 ---
-The 38th General Assembly adopted RPR's recommendation to approve Metro Atlanta
-Presbytery's minutes with three exceptions of substance on practices #4, #5, and
-#6 of the April 21, 2009 resolution. RPR said that commissioning rather than
-ordaining "appears to be a distinction without a difference," and that practice
-#6 denied men their right to ordination as deacons.
+The 38th General Assembly adopted RPR's recommendation to approve Metro Atlanta Presbytery's minutes with three exceptions of substance on practices #4, #5, and #6 of the April 21, 2009 resolution. RPR said that commissioning rather than ordaining "appears to be a distinction without a difference," and that practice #6 denied men their right to ordination as deacons.
