@@ -7,7 +7,7 @@ subjects: [ascension-presbytery, kurt-lutjens]
 issues: [ordination-exceptions, judicial-process, women-deacons, sabbath]
 responds_to: [ga11-sustains-complaint-women-deacon-views, ga12-answers-ascension-inquiry-women-deacons]
 part_of: ga15
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m14ga
