@@ -5,7 +5,7 @@ actors: [city-church]
 subjects: [philadelphia-presbytery, jason-hsu]
 issues: [churches-without-diaconate, women-deacons, deaconess-title]
 responds_to: [ccc-overtures-pp-reaffirm]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m42ga

@@ -3,7 +3,7 @@ title: Tennessee Valley overtures the 38th General Assembly to affirm unordained
 date: 2010-04-17
 actors: [tennessee-valley-presbytery]
 issues: [deaconess-title, women-deacons, rpces-heritage]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m38ga

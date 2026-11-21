@@ -15,8 +15,20 @@ citations:
   - source: m39ga
     pages: "460"
     quote: "our resolution put the words deacon and deaconess in quotes"
+  - source: m38ga
+    pages: "98"
+    quote: "This practice again denies the BCO provision for men leading the diaconal ministries of the church as Deacons and further denies men their Biblical and constitutional right to ordination."
+  - source: m39ga
+    pages: "461"
+    quote: "See SJC Ruling in case #2009-25 and #2009- 26."
 ---
-Metro Atlanta Presbytery adopted a resolution that listed diaconal practices. As
-described in later RPR exceptions and MAP's response, the practices included
-election by the congregation, commissioning rather than ordaining, and men and women
-as "equal partners in diaconal ministry."
+Metro Atlanta Presbytery adopted a resolution with a numbered list of diaconal
+practices. The General Assembly minutes do not print the resolution. The practices
+that the Review of Presbytery Records cited match the last three of the
+[six views that Northern California Presbytery adopted](/events/ncp-adopts-six-diaconate-views/)
+six weeks earlier: deaconesses elected by the congregation (#4), commissioned
+deaconesses who serve with ordained deacons as "equal partners in diaconal
+ministry" (#5), and a practice that the committee said denied men ordination as
+deacons (#6). In 2011, the committee cited the Standing Judicial Commission's
+[ruling on Northern California's six views](/events/sjc-annuls-ncp-six-views/)
+when it found Metro Atlanta's response not satisfactory.
