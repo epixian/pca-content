@@ -3,7 +3,7 @@ title: "Westminster Presbytery asks MTW to end ties with the World Council of Ch
 date: 1974-07-20
 actors: [westminster-presbytery]
 issues: [ecumenical-relations]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m3ga

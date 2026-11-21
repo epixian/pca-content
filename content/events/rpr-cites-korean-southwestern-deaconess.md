@@ -6,7 +6,7 @@ actors: [pca-ga]
 subjects: [korean-southwestern-presbytery]
 issues: [deaconess-title, women-deacons]
 part_of: ga23
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m23ga

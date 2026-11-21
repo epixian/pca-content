@@ -4,7 +4,7 @@ date: ../2006-11-11
 place: Philadelphia, PA
 actors: [liberti-church, philadelphia-presbytery]
 issues: [women-deacons, commissioning-vs-ordination, deaconess-title]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m36ga

@@ -6,7 +6,7 @@ actors: [pca-ga, rpr]
 subjects: [new-river-presbytery]
 issues: [creation, ordination-exceptions, women-deacons]
 part_of: ga23
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m23ga

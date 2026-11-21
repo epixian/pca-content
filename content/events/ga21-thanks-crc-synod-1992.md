@@ -6,7 +6,7 @@ actors: [pca-ga]
 subjects: [crc]
 issues: [ecumenical-relations, women-in-ministry]
 part_of: ga21
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m21ga

@@ -5,7 +5,7 @@ place: Atlanta, GA
 actors: [pca-ga, southeast-alabama-presbytery]
 issues: [women-deacons, complementarianism]
 part_of: ga22
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m22ga

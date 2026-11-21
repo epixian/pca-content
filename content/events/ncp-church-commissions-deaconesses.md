@@ -2,7 +2,7 @@
 title: Northern California Presbytery records a new church diaconate with commissioned deaconesses
 date: ../2006-03-04
 actors: [northern-california-presbytery]
-issues: [women-deacons, commissioning-vs-ordination, deaconess-title]
+issues: [women-deacons, commissioning-vs-ordination, deaconess-title, ordination-exceptions]
 status: draft
 visibility: public
 citations:
