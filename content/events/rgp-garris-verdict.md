@@ -3,7 +3,7 @@ title: Rio Grande Presbytery convicts Garris on one charge and suspends him
 date: ../2026-05-28
 actors: [rio-grande-presbytery]
 subjects: [zachary-garris]
-issues: [judicial-process]
+issues: [judicial-process, race-and-reconciliation]
 responds_to: [rgp-indicts-garris]
 status: draft
 visibility: public

@@ -3,7 +3,7 @@ title: Rio Grande Presbytery indicts Garris on two charges
 date: 2026-02-04
 actors: [rio-grande-presbytery]
 subjects: [zachary-garris]
-issues: [judicial-process]
+issues: [judicial-process, race-and-reconciliation]
 responds_to: [rgp-garris-investigation]
 status: draft
 visibility: public

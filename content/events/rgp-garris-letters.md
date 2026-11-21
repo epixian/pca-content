@@ -3,7 +3,7 @@ title: Rio Grande Presbytery receives two letters asking it to investigate Garri
 date: 2024-06
 actors: [rio-grande-presbytery]
 subjects: [zachary-garris]
-issues: [judicial-process]
+issues: [judicial-process, race-and-reconciliation]
 status: draft
 visibility: public
 citations:

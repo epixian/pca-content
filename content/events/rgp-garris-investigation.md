@@ -3,7 +3,7 @@ title: Rio Grande committee reports a "strong presumption of guilt" against Garr
 date: 2024-10/2025-01
 actors: [rio-grande-presbytery]
 subjects: [zachary-garris]
-issues: [judicial-process]
+issues: [judicial-process, race-and-reconciliation]
 responds_to: [rgp-garris-letters]
 status: draft
 visibility: public
