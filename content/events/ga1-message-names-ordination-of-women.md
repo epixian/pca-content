@@ -6,7 +6,7 @@ actors: [pca-ga]
 subjects: [pcus]
 issues: [women-in-ministry]
 part_of: ga1
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m1ga
