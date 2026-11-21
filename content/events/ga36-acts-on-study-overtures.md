@@ -24,7 +24,7 @@ citations:
     quote: "the Philadelphia Presbytery overtures the 36th General Assembly of the Presbyterian Church in America to create an ad interim study committee whose members are representative of various positions within the PCA"
 ---
 Commissioners offered the Minority Report in place of Recommendation 9. The
-moderator ruled that the report did not contradict the BCO, and the Assembly
-upheld his ruling 518-369. The Assembly then voted down the Minority Report,
+moderator ruled against a point of order that the report contradicted the BCO,
+and the Assembly upheld his ruling 518-369. The Assembly then voted down the Minority Report,
 answered Overture 9 in the negative, and answered the related overtures by
 reference.
