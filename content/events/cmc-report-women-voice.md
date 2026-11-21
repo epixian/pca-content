@@ -4,7 +4,7 @@ date: 2015-01-14
 place: Lawrenceville, GA
 actors: [cmc]
 issues: [women-in-ministry, women-deacons]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m43ga
