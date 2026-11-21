@@ -4,7 +4,7 @@ date: 2026-09-12
 actors: [southwest-florida-presbytery]
 issues: [titles-of-office, deaconess-title, women-in-ministry]
 responds_to: [nwgp-overture-titles, ga51-enacts-bco-7-3, swfl-overture-14-titles, ga53-answers-overture-37, stp-ffo-report-published]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: o1-54ga

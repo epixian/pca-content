@@ -4,7 +4,7 @@ date: 2026-01-27
 actors: [metro-atlanta-presbytery]
 issues: [women-deacons, commissioning-vs-ordination, deaconess-title, titles-of-office]
 responds_to: [ga51-enacts-bco-7-3, ga45-adopts-women-study-report]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: o38-53ga
