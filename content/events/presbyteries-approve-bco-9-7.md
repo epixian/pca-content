@@ -5,7 +5,7 @@ actors: [pca, philadelphia-presbytery]
 subjects: [metro-atlanta-presbytery, chicago-metro-presbytery]
 issues: [diaconal-assistants, women-deacons]
 responds_to: [ga38-proposes-bco-9-7]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m39ga
