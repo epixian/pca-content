@@ -7,7 +7,7 @@ subjects: [women-study-committee]
 issues: [women-in-ministry, women-deacons, deaconess-title, diaconal-assistants, churches-without-diaconate]
 responds_to: [ga44-forms-women-study-committee]
 part_of: ga45
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m45ga
