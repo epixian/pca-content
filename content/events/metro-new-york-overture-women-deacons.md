@@ -3,7 +3,7 @@ title: Metropolitan New York Presbytery overtures for local option on women deac
 date: 2019
 actors: [metropolitan-new-york-presbytery]
 issues: [women-deacons]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m47ga
