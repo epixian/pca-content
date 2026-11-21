@@ -6,7 +6,7 @@ actors: [pca-ga, oc, pacific-presbytery]
 issues: [women-deacons, women-in-ministry, titles-of-office]
 responds_to: [swfl-overture-14-titles, metro-atlanta-overture-38-diaconate, presbyteries-overture-ga53-diaconate]
 part_of: ga53
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: o37-53ga
