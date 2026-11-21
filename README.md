@@ -97,6 +97,14 @@ links:               # optional; organizations and public figures only; official
   website: https://example.org/
   x: https://x.com/handle    # also bluesky, threads, facebook, instagram, youtube, tiktok,
                              # linkedin, substack, podcast, wikipedia (full URLs; https where the site has it)
+history:             # optional; people: offices, pastorates, committee seats. Each item needs citations
+  - when: "1976–1983"         # free text, shown as written
+    text: "Teaching elder at ..."
+    body: delmarva-presbytery # optional actor link
+    citations:                # checked like event citations
+      - source: m10ga
+        pages: "25"
+        quote: "..."
 ---
 ```
 

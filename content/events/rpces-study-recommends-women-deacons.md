@@ -2,7 +2,7 @@
 title: Reformed Presbyterian Church, Evangelical Synod study committee recommends women deacons
 date: 1976-05-25
 place: Colorado Springs, CO
-actors: [rpces-women-study-committee, steve-smallman]
+actors: [rpces-women-study-committee, steve-smallman, hermann-mischke]
 subjects: [rpces-synod]
 issues: [rpces-heritage, women-deacons]
 status: draft
