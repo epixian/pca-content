@@ -1,5 +1,6 @@
 ---
 title: Federal Vision
+parents: [doctrine-and-subscription]
 ---
 
 **The Federal Vision**, also called Auburn Avenue Theology, is a set of views on the covenant, baptism, election and justification, taught by some Reformed ministers from the early 2000s. The name "Auburn Avenue" comes from Auburn Avenue Presbyterian Church in Monroe, Louisiana, a PCA church that hosted pastors' conferences where these views were taught, among them one in 2002. Its proponents preferred "Federal Vision", the title of their 2004 book. They did not agree on every point, and some denied that there was a movement at all.

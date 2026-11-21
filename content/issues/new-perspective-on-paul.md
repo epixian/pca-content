@@ -1,5 +1,6 @@
 ---
 title: New Perspective on Paul
+parents: [doctrine-and-subscription]
 ---
 
 **The New Perspective on Paul** is an academic movement in New Testament studies, associated since the 1960s with Krister Stendahl, E. P. Sanders, James D. G. Dunn and N. T. Wright. It rereads Paul's teaching on the law and justification in the light of first-century Judaism. Its scholars hold a variety of views; The committee noted that N. T. Wright "has had a significant influence in recent years on the broader evangelical and Reformed communities."
