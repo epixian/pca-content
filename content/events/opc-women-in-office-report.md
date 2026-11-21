@@ -3,7 +3,7 @@ title: Orthodox Presbyterian Church Assembly receives the report on women in chu
 date: 1988
 actors: [opc]
 issues: [complementarianism, women-deacons]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: opc-women-in-office-1988

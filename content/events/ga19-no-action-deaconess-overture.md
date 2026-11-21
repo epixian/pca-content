@@ -3,7 +3,9 @@ title: 19th General Assembly takes no action on an overture to declare deaconess
 date: 1991-06
 place: Birmingham, AL
 actors: [pca-ga]
+subjects: [herbert-shipman]
 issues: [women-deacons, deaconess-title]
+responds_to: [shipman-overture-40-deaconesses]
 part_of: ga19
 status: draft
 visibility: public
@@ -21,4 +23,4 @@ citations:
     pages: "171"
     quote: "there have been reports of attempts to subvert the Constitution with regard to the role of women in the church"
 ---
-A teaching elder sent the 19th General Assembly an overture after Northeast Presbytery did not act on it. It asked the Assembly to declare out of accord with the BCO the congregational election of deaconesses, deaconesses voting with deacons, and the setting apart of anyone other than elders and deacons by the laying on of hands (BCO 9-4, BCO 9-7, BCO 17-2). Under RAO 10-10 the Assembly took no action, because the presbytery had not yet acted.
+A teaching elder sent the 19th General Assembly [Overture 40](/events/shipman-overture-40-deaconesses/) after Northeast Presbytery did not act on it. It asked the Assembly to declare out of accord with the BCO the congregational election of deaconesses, deaconesses voting with deacons, and the setting apart of anyone other than elders and deacons by the laying on of hands (BCO 9-4, BCO 9-7, BCO 17-2). Under RAO 10-10 the Assembly took no action, because the presbytery had not yet acted.
