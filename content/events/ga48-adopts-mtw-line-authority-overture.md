@@ -7,7 +7,7 @@ subjects: [heritage-presbytery]
 issues: [women-in-ministry]
 responds_to: [evangel-overture-mtw-line-authority, heritage-overture-mtw-women-leaders]
 part_of: ga48
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m48ga
