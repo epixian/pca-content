@@ -5,7 +5,7 @@ actors: [philadelphia-presbytery]
 subjects: [jason-hsu, city-line-church]
 issues: [judicial-process, women-deacons]
 responds_to: [hsu-installed-city-line-church]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m42ga

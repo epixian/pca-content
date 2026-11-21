@@ -6,7 +6,7 @@ actors: [pca-ga]
 issues: [diaconal-assistants, women-deacons]
 responds_to: [presbyteries-approve-bco-9-7]
 part_of: ga39
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m39ga

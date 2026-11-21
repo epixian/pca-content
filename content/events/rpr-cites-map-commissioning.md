@@ -7,7 +7,7 @@ subjects: [metro-atlanta-presbytery]
 issues: [women-deacons, commissioning-vs-ordination, diaconal-assistants]
 responds_to: [map-elects-women-diaconal]
 part_of: ga38
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m38ga

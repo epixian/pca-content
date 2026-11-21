@@ -5,7 +5,7 @@ actors: [philadelphia-presbytery, city-line-church]
 subjects: [jason-hsu, city-church]
 responds_to: [pp-churches-forgo-diaconate]
 issues: [women-deacons, ordination-exceptions, churches-without-diaconate]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m42ga

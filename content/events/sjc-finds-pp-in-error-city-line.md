@@ -5,7 +5,7 @@ actors: [sjc]
 subjects: [philadelphia-presbytery, jason-hsu, city-line-church]
 issues: [judicial-process, women-deacons]
 responds_to: [pp-rules-complaint-out-of-order-city-line]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m42ga

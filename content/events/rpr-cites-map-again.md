@@ -7,7 +7,7 @@ subjects: [metro-atlanta-presbytery]
 issues: [women-deacons, churches-without-diaconate, diaconal-assistants]
 responds_to: [rpr-cites-map-commissioning]
 part_of: ga39
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m39ga
