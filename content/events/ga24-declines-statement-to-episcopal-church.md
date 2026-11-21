@@ -4,7 +4,7 @@ date: 1996-06
 place: Fort Lauderdale, FL
 actors: [pca-ga]
 subjects: [episcopal-church, new-jersey-presbytery]
-issues: [ecumenical-relations, sexuality-and-ordination]
+issues: [ecumenical-relations, sexuality]
 part_of: ga24
 status: draft
 visibility: public

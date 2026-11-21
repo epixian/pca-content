@@ -3,7 +3,7 @@ title: 27th General Assembly answers Westminster Presbytery's overture on the "h
 date: 1999-06-17
 place: Louisville, KY
 actors: [pca-ga, westminster-presbytery]
-issues: [sexuality-and-ordination]
+issues: [sexuality]
 responds_to: [westminster-overture-22-homosexual-agenda]
 part_of: ga27
 status: draft

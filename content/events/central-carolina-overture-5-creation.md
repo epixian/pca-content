@@ -2,7 +2,7 @@
 title: Central Carolina Presbytery overtures for a study committee on Genesis 1-3 and allowable exceptions
 date: ../1998-06-30
 actors: [central-carolina-presbytery, westminster-presbytery]
-issues: [ordination-exceptions]
+issues: [creation, ordination-exceptions]
 status: draft
 visibility: public
 citations:

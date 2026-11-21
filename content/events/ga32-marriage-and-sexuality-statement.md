@@ -3,7 +3,7 @@ title: 32nd General Assembly calls on governments to define marriage as between 
 date: 2004-06-17
 place: Pittsburgh, PA
 actors: [pca-ga, missouri-presbytery, rocky-mountain-presbytery, central-carolina-presbytery]
-issues: [spirituality-of-the-church, civil-magistrate]
+issues: [sexuality, spirituality-of-the-church, civil-magistrate]
 responds_to: [missouri-overture-16-marriage-and-sexuality]
 part_of: ga32
 status: draft

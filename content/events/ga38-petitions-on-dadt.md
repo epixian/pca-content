@@ -4,7 +4,7 @@ date: 2010-07-02
 place: Nashville, TN
 actors: [pca-ga, mna]
 subjects: [rocky-mountain-presbytery, south-texas-presbytery, savannah-river-presbytery]
-issues: [spirituality-of-the-church]
+issues: [sexuality, spirituality-of-the-church]
 responds_to: [presbyteries-overture-dadt-2010]
 part_of: ga38
 status: draft

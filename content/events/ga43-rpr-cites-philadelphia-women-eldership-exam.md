@@ -5,6 +5,7 @@ place: Chattanooga, TN
 actors: [pca-ga, rpr]
 subjects: [philadelphia-presbytery]
 issues: [ordination-exceptions, women-in-ministry]
+responds_to: [philadelphia-overture-22-third-vow]
 part_of: ga43
 status: draft
 visibility: public

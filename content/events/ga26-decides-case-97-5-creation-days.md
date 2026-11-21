@@ -3,7 +3,7 @@ title: 26th General Assembly adopts the SJC majority report in Mt. Carmel Sessio
 date: 1998-07-01
 place: St. Louis, MO
 actors: [pca-ga, sjc, new-jersey-presbytery]
-issues: [judicial-process, ordination-exceptions]
+issues: [creation, judicial-process, ordination-exceptions]
 part_of: ga26
 status: draft
 visibility: public

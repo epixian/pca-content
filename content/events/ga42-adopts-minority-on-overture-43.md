@@ -4,7 +4,7 @@ date: 2014-06-19
 place: Houston, TX
 actors: [pca-ga, oc]
 subjects: [savannah-river-presbytery]
-issues: [spirituality-of-the-church]
+issues: [sexuality, spirituality-of-the-church]
 responds_to: [savannah-river-overture-43-religious-liberty]
 part_of: ga42
 status: draft

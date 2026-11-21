@@ -3,7 +3,7 @@ title: 19th General Assembly reaffirms the Bible's teaching on sex and marriage 
 date: 1991-06
 place: Birmingham, AL
 actors: [pca-ga, central-georgia-presbytery]
-issues: [sexuality-and-ordination]
+issues: [sexuality]
 responds_to: [ga5-homosexuality-statement]
 part_of: ga19
 status: draft

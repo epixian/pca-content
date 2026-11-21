@@ -4,7 +4,7 @@ date: 2009-06-18
 place: Orlando, FL
 actors: [pca-ga, oc]
 subjects: [eastern-pennsylvania-presbytery]
-issues: [spirituality-of-the-church]
+issues: [sexuality, spirituality-of-the-church]
 part_of: ga37
 status: draft
 visibility: public

@@ -3,7 +3,7 @@ title: 26th General Assembly erects a study committee on the creation days
 date: 1998-07-02
 place: St. Louis, MO
 actors: [pca-ga, central-carolina-presbytery, westminster-presbytery]
-issues: [ordination-exceptions]
+issues: [creation, ordination-exceptions]
 responds_to: [central-carolina-overture-5-creation]
 part_of: ga26
 status: draft

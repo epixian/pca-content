@@ -3,7 +3,7 @@ title: 45th General Assembly declines to add proof texts on homosexuality to WCF
 date: 2017-06-15
 place: Greensboro, NC
 actors: [pca-ga, gulfstream-presbytery]
-issues: [sexuality-and-ordination]
+issues: [sexuality]
 part_of: ga45
 status: draft
 visibility: public

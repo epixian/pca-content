@@ -2,7 +2,7 @@
 title: Three presbyteries overture the 38th General Assembly to petition the government to keep "Don't Ask, Don't Tell"
 date: 2010-04-15/2010-04-24
 actors: [rocky-mountain-presbytery, south-texas-presbytery, savannah-river-presbytery]
-issues: [spirituality-of-the-church]
+issues: [sexuality, spirituality-of-the-church]
 status: draft
 visibility: public
 citations:

@@ -4,7 +4,7 @@ date: 2014-06-19
 place: Houston, TX
 actors: [pca-ga]
 subjects: [westminster-presbytery]
-issues: [spirituality-of-the-church]
+issues: [sexuality, spirituality-of-the-church]
 part_of: ga42
 status: draft
 visibility: public

@@ -3,7 +3,7 @@ title: 50th General Assembly orders a humble petition to civil rulers against ge
 date: 2023-06-15
 place: Memphis, TN
 actors: [pca-ga, oc, evangel-presbytery]
-issues: [spirituality-of-the-church]
+issues: [sexuality, spirituality-of-the-church]
 part_of: ga50
 status: draft
 visibility: public

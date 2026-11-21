@@ -4,7 +4,7 @@ date: 1993-06-10
 place: Columbia, SC
 actors: [pca-ga]
 subjects: [potomac-presbytery, north-georgia-presbytery]
-issues: [spirituality-of-the-church]
+issues: [sexuality, spirituality-of-the-church]
 responds_to: [potomac-overture-declaration-of-conscience]
 part_of: ga21
 status: draft

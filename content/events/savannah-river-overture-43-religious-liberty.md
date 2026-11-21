@@ -2,7 +2,7 @@
 title: Savannah River Presbytery overtures the 42nd General Assembly to support Christians who decline to serve same-sex weddings
 date: 2014-04-15
 actors: [savannah-river-presbytery]
-issues: [spirituality-of-the-church]
+issues: [sexuality, spirituality-of-the-church]
 status: draft
 visibility: public
 citations:

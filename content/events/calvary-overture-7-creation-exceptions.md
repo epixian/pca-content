@@ -2,7 +2,7 @@
 title: Calvary Presbytery overtures that candidates who differ on the creation days request an exception
 date: 2001-01-27
 actors: [calvary-presbytery, mississippi-valley-presbytery]
-issues: [ordination-exceptions]
+issues: [creation, ordination-exceptions]
 status: draft
 visibility: public
 citations:

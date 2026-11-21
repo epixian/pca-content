@@ -3,7 +3,7 @@ title: 31st General Assembly states the Confession's teaching on marriage but do
 date: 2003-06-12
 place: Charlotte, NC
 actors: [pca-ga, philadelphia-presbytery, rocky-mountain-presbytery]
-issues: [spirituality-of-the-church, civil-magistrate]
+issues: [sexuality, spirituality-of-the-church, civil-magistrate]
 responds_to: [philadelphia-rocky-mountain-overture-19-marriage-amendment]
 part_of: ga31
 status: draft

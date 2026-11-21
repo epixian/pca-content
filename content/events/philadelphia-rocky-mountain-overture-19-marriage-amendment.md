@@ -2,7 +2,7 @@
 title: Philadelphia and Rocky Mountain Presbyteries overture the 31st General Assembly to endorse the Federal Marriage Amendment
 date: ../2003-06-10
 actors: [philadelphia-presbytery, rocky-mountain-presbytery]
-issues: [spirituality-of-the-church, civil-magistrate]
+issues: [sexuality, spirituality-of-the-church, civil-magistrate]
 status: draft
 visibility: public
 citations:

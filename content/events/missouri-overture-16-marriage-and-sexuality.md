@@ -2,7 +2,7 @@
 title: Missouri Presbytery overtures the 32nd General Assembly on marriage and sexuality
 date: ../2004-06-15
 actors: [missouri-presbytery]
-issues: [spirituality-of-the-church, civil-magistrate]
+issues: [sexuality, spirituality-of-the-church, civil-magistrate]
 responds_to: [ga31-marriage-statement-not-amendment]
 status: draft
 visibility: public

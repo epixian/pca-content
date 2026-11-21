@@ -3,7 +3,7 @@ title: 24th General Assembly declares government sanction of homosexual marriage
 date: 1996-06-21
 place: Fort Lauderdale, FL
 actors: [pca-ga]
-issues: [spirituality-of-the-church]
+issues: [sexuality, spirituality-of-the-church]
 responds_to: [ga21-declaration-of-conscience]
 part_of: ga24
 status: draft

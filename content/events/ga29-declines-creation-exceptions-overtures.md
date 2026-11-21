@@ -3,7 +3,7 @@ title: 29th General Assembly answers the creation-days exception overtures in th
 date: 2001-06-21
 place: Dallas, TX
 actors: [pca-ga, calvary-presbytery, new-river-presbytery, mississippi-valley-presbytery, north-georgia-presbytery]
-issues: [ordination-exceptions]
+issues: [creation, ordination-exceptions]
 responds_to: [calvary-overture-7-creation-exceptions, new-river-overture-20-creation-exceptions, north-georgia-overture-30-creation-liberty]
 part_of: ga29
 status: draft

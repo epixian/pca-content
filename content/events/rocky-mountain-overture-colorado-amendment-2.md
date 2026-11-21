@@ -2,7 +2,7 @@
 title: Rocky Mountain Presbytery overtures the Assembly to commend Colorado for Amendment 2
 date: 1993-04-22
 actors: [rocky-mountain-presbytery]
-issues: [spirituality-of-the-church]
+issues: [sexuality, spirituality-of-the-church]
 status: draft
 visibility: public
 citations:

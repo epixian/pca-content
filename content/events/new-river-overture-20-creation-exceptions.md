@@ -2,7 +2,7 @@
 title: New River Presbytery overtures that no officer be refused ordination for a creation-days exception alone
 date: 2000-11-10
 actors: [new-river-presbytery]
-issues: [ordination-exceptions]
+issues: [creation, ordination-exceptions]
 status: draft
 visibility: public
 citations:

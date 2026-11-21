@@ -2,7 +2,7 @@
 title: "North Georgia Presbytery overture on homosexuality"
 date: ../1977-09-13
 actors: [north-georgia-presbytery]
-issues: [civil-magistrate]
+issues: [sexuality, civil-magistrate]
 status: draft
 visibility: public
 citations:

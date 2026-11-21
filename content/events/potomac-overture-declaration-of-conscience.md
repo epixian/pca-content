@@ -2,7 +2,7 @@
 title: Potomac Presbytery overtures a Declaration of Conscience to the President on homosexuality
 date: 1993-02-13?
 actors: [potomac-presbytery]
-issues: [spirituality-of-the-church]
+issues: [sexuality, spirituality-of-the-church]
 status: draft
 visibility: public
 citations:

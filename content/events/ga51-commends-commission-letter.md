@@ -3,7 +3,7 @@ title: "51st General Assembly commends a letter petitioning the government on ge
 date: 2024-06
 place: Richmond, VA
 actors: [pca-ga, calvary-presbytery]
-issues: [spirituality-of-the-church]
+issues: [sexuality, spirituality-of-the-church]
 responds_to: [ga50-orders-petition-on-gender-reassignment]
 part_of: ga51
 status: draft

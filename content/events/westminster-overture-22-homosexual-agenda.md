@@ -2,7 +2,7 @@
 title: Westminster Presbytery overtures the 27th General Assembly to warn churches about the "homosexual agenda" in schools
 date: 1999-04-10
 actors: [westminster-presbytery]
-issues: [sexuality-and-ordination]
+issues: [sexuality]
 status: draft
 visibility: public
 citations:

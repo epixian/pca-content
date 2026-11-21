@@ -2,7 +2,7 @@
 title: North Georgia Presbytery overtures to declare liberty of opinion on the Westminster divines' intent on creation
 date: 2001-04-17
 actors: [north-georgia-presbytery]
-issues: [ordination-exceptions]
+issues: [creation, ordination-exceptions]
 status: draft
 visibility: public
 citations:

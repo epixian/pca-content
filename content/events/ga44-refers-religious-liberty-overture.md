@@ -4,7 +4,7 @@ date: 2016-06-23
 place: Mobile, AL
 actors: [pca-ga, oc, ac]
 subjects: [grace-presbytery]
-issues: [spirituality-of-the-church, civil-magistrate]
+issues: [sexuality, spirituality-of-the-church, civil-magistrate]
 part_of: ga44
 status: draft
 visibility: public

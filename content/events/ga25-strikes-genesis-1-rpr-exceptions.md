@@ -3,7 +3,7 @@ title: 25th General Assembly strikes presbytery-records exceptions on views of G
 date: 1997-06-13
 place: Colorado Springs, CO
 actors: [pca-ga, rpr, james-river-presbytery, new-jersey-presbytery]
-issues: [ordination-exceptions]
+issues: [creation, ordination-exceptions]
 part_of: ga25
 status: draft
 visibility: public

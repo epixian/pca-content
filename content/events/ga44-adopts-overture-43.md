@@ -5,7 +5,7 @@ place: Mobile, AL
 actors: [pca-ga, oc, potomac-presbytery]
 subjects: [mississippi-valley-presbytery]
 issues: [race-and-reconciliation, corporate-repentance]
-responds_to: [potomac-overture-43, ga43-refers-civil-rights-resolution, north-florida-overture-spirituality-of-the-church, mississippi-valley-overture-55, heartland-overture-1-racial-reconciliation, missouri-overture-4-civil-rights-confession, calvary-westminster-overtures-repentance-reconciliation, northwest-georgia-overture-53-repentance-first]
+responds_to: [potomac-overture-43, ga43-refers-civil-rights-resolution, north-florida-overture-spirituality-of-the-church, mississippi-valley-overture-55, presbyteries-overture-ga44-racial-reconciliation]
 part_of: ga44
 status: draft
 visibility: public
