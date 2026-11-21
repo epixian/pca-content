@@ -6,7 +6,7 @@ actors: [grace-presbytery, pca-ga]
 issues: [women-deacons, diaconal-assistants, deaconess-title]
 responds_to: [ga45-adopts-women-study-report]
 part_of: ga46
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m46ga

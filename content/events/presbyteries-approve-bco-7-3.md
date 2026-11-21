@@ -4,7 +4,7 @@ date: 2023-06/2024-06
 actors: [pca]
 issues: [titles-of-office, deaconess-title]
 responds_to: [nwgp-overture-titles]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m51ga
