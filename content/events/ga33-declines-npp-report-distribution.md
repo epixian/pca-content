@@ -4,7 +4,7 @@ date: 2005-06
 place: Chattanooga, TN
 actors: [pca-ga]
 subjects: [mississippi-valley-presbytery]
-issues: [federal-vision]
+issues: [federal-vision, new-perspective-on-paul]
 part_of: ga33
 status: draft
 visibility: public

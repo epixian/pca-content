@@ -3,7 +3,7 @@ title: "Siouxlands Presbytery adopts affirmations and denials on the New Perspec
 date: 2007-01-27
 actors: [siouxlands-presbytery]
 subjects: [greg-lawrence, good-shepherd-minnetonka]
-issues: [federal-vision]
+issues: [federal-vision, new-perspective-on-paul]
 status: draft
 visibility: public
 citations:

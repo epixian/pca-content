@@ -4,7 +4,7 @@ date: 2007-06-13
 place: Memphis, TN
 actors: [pca-ga]
 subjects: [fv-study-committee]
-issues: [federal-vision]
+issues: [federal-vision, new-perspective-on-paul]
 responds_to: [fv-committee-nine-declarations]
 part_of: ga35
 status: draft

@@ -4,7 +4,7 @@ date: 2006-06-22
 place: Atlanta, GA
 actors: [pca-ga, rocky-mountain-presbytery]
 subjects: [fv-study-committee, paul-fowler, missouri-presbytery]
-issues: [federal-vision]
+issues: [federal-vision, new-perspective-on-paul]
 responds_to: [ga33-declines-npp-report-distribution]
 part_of: ga34
 status: draft

@@ -2,7 +2,7 @@
 title: "Missouri Presbytery adopts its study report on Federal Vision theology"
 date: 2006-01-18
 actors: [missouri-presbytery]
-issues: [federal-vision]
+issues: [federal-vision, new-perspective-on-paul]
 status: draft
 visibility: public
 citations:
