@@ -5,7 +5,7 @@ place: Dallas, TX
 actors: [pca-ga, grace-presbytery]
 issues: [women-in-ministry, complementarianism]
 part_of: ga29
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m29ga
