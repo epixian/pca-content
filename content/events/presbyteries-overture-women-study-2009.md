@@ -3,7 +3,7 @@ title: James River and Susquehanna Valley presbyteries overture the 37th General
 date: 2009-01-17/2009-02-21
 actors: [james-river-presbytery, susquehanna-valley-presbytery]
 issues: [women-in-ministry]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m37ga

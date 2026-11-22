@@ -4,7 +4,7 @@ date: 2007-06-12
 actors: [crc]
 issues: [complementarianism, women-in-ministry]
 responds_to: [crc-synod-classis-option-women-office]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: crc-acts-2007
