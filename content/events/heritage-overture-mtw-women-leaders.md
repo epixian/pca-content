@@ -5,7 +5,7 @@ actors: [heritage-presbytery]
 subjects: [mtw]
 issues: [women-in-ministry]
 responds_to: [ga45-women-roles-recommendations, ga46-declines-women-on-boards]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m47ga
