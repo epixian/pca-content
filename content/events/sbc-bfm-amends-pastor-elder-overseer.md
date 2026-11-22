@@ -5,7 +5,7 @@ place: New Orleans, LA
 actors: [sbc]
 issues: [complementarianism, titles-of-office]
 responds_to: [sbc-bfm-2000-pastor-men]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: sbc-bfm2000
