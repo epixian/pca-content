@@ -5,7 +5,7 @@ actors: [presbyterian-churchmen-united]
 subjects: [pcus]
 issues: [pcus-separation, doctrine-and-subscription, ecumenical-relations]
 responds_to: [pcus-1969-assembly-union-talks-new-confession]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: pcu-declaration-1969
