@@ -7,7 +7,7 @@ subjects: [crc, irc]
 issues: [complementarianism, ecumenical-relations, women-in-ministry]
 responds_to: [ga25-ends-crc-fellowship]
 part_of: ga26
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m26ga
@@ -22,5 +22,11 @@ citations:
   - source: m26ga
     pages: "94"
     quote: "The Hermeneutics and Theological Method of the CRC Position On Women's Ordination"
+  - source: m26ga
+    pages: "94"
+    quote: "we urge you to vote against the suspension of the CRCNA as a member-denomination of NAPARC"
+  - source: m26ga
+    pages: "96"
+    quote: "a good case can be made both for the prohibition of the ordination of women and for the permissibility of the ordination of women"
 ---
-The CRC sent the PCA a paper by Dr. John Cooper of Calvin Theological Seminary on the hermeneutics of the CRC's position on women's ordination and asked it to reconsider. The 26th General Assembly adopted a reply to the CRC that it did not find the paper persuasive. The reply stated that no biblically based case can be made for women in the authoritative offices of the church, and it asked the CRC to re-evaluate its position at its 2000 Synod.
+The CRC's Interchurch Relations Committee asked the PCA to vote against the suspension of the CRC from NAPARC. With its letter it sent a paper by Dr. John Cooper of Calvin Theological Seminary, "The Hermeneutics and Theological Method of the CRC Position On Women's Ordination", which was prepared for the CRC's discussions with the OPC. The Minutes print the letter and Cooper's outline in full (pp. 93-98). The outline concludes that "a good case can be made both for the prohibition of the ordination of women and for the permissibility of the ordination of women". The 26th General Assembly adopted a reply to the CRC that it did not find the paper persuasive. The reply stated that no biblically based case can be made for women in the authoritative offices of the church, and it asked the CRC to re-evaluate its position at its 2000 Synod.
