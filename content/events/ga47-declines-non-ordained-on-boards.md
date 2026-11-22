@@ -7,7 +7,7 @@ subjects: [southern-new-england-presbytery, rocky-mountain-presbytery, nashville
 issues: [women-in-ministry]
 responds_to: [ga46-declines-women-on-boards, ga45-women-roles-recommendations]
 part_of: ga47
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m47ga
