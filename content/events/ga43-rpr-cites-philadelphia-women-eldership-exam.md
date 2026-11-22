@@ -7,7 +7,7 @@ subjects: [philadelphia-presbytery]
 issues: [ordination-exceptions, women-in-ministry]
 responds_to: [philadelphia-overture-22-third-vow]
 part_of: ga43
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m43ga
@@ -22,5 +22,8 @@ citations:
   - source: m44ga
     pages: "433"
     quote: "in the future will not approve of a candidate who expresses doubts about the universal prohibition on women elders"
+  - source: m44ga
+    pages: "433"
+    quote: "The candidate (now TE) who expressed this view has since transferred to another denomination."
 ---
-The Committee on Review of Presbytery Records voted 26-25 to cite Philadelphia Presbytery with an exception of substance. The presbytery, at a meeting on February 27, 2014, had ordained a man who was unsure that the New Testament "itself teaches a universal prohibition of women eldership". A minority report asked the 43rd General Assembly to strike the exception, but the Assembly defeated it 258-554-42 and adopted the committee's recommendation. In its response to the 44th General Assembly (2016), Philadelphia Presbytery agreed with the exception and said that in the future it "will not approve of a candidate who expresses doubts about the universal prohibition on women elders".
+The Committee on Review of Presbytery Records voted 26-25 to cite Philadelphia Presbytery with an exception of substance. The presbytery, at a meeting on February 27, 2014, had ordained a man who was unsure that the New Testament "itself teaches a universal prohibition of women eldership". A minority report asked the 43rd General Assembly to strike the exception, but the Assembly defeated it 258-554-42 and adopted the committee's recommendation. In its response to the 44th General Assembly (2016), Philadelphia Presbytery agreed with the exception and said that in the future it "will not approve of a candidate who expresses doubts about the universal prohibition on women elders", and that the candidate (now a TE) had since transferred to another denomination.
