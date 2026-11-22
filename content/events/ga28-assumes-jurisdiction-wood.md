@@ -7,7 +7,7 @@ subjects: [cedar-springs-presbyterian-church, tennessee-valley-presbytery, weste
 issues: [women-in-ministry, judicial-process, original-jurisdiction]
 responds_to: [tvp-clears-cedar-springs-session]
 part_of: ga28
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m28ga
