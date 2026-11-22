@@ -5,7 +5,7 @@ actors: [ascension-presbytery]
 subjects: [sjc, john-wood]
 issues: [original-jurisdiction, judicial-process, women-in-ministry]
 responds_to: [ga28-assumes-jurisdiction-wood, sjc-no-process-against-wood]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m29ga
