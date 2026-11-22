@@ -6,7 +6,7 @@ actors: [pca-ga, oc]
 subjects: [northwest-georgia-presbytery]
 issues: [women-in-ministry, complementarianism]
 part_of: ga38
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m38ga
