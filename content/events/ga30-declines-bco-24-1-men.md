@@ -5,7 +5,7 @@ place: Birmingham, AL
 actors: [pca-ga, rocky-mountain-presbytery]
 issues: [women-in-ministry, complementarianism]
 part_of: ga30
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m30ga
