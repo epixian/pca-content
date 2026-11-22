@@ -6,7 +6,7 @@ actors: [pca-ga, potomac-presbytery]
 issues: [women-in-ministry, complementarianism]
 responds_to: [ga27-declines-women-preaching-overture]
 part_of: ga28
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m28ga
