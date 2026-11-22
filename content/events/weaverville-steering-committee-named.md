@@ -7,7 +7,7 @@ subjects: [pcus]
 associated: [cpc-steering-committee, continuing-presbyterian-church, w-jack-williamson]
 issues: [pcus-separation]
 responds_to: [pcus-1971-assembly-restructures-synods]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: ct-weaverville-1971

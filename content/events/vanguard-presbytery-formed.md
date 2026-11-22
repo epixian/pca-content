@@ -6,7 +6,7 @@ actors: [vanguard-presbytery]
 subjects: [pcus]
 associated: [cpc-steering-committee, l-nelson-bell]
 issues: [pcus-separation]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: ct-vanguard-1972

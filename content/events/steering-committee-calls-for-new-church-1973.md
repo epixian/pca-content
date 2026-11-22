@@ -6,7 +6,7 @@ subjects: [pcus]
 associated: [continuing-presbyterian-church]
 issues: [pcus-separation]
 responds_to: [weaverville-steering-committee-named]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: ct-convocation-1973
