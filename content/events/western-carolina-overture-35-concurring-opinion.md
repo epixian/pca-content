@@ -3,7 +3,7 @@ title: Western Carolina Presbytery overtures the 29th General Assembly to remove
 date: 2001-05-08
 actors: [western-carolina-presbytery]
 subjects: [sjc, john-wood]
-issues: [judicial-process, women-in-ministry]
+issues: [judicial-process, women-in-ministry, cedar-springs-and-wood-case]
 responds_to: [sjc-no-process-against-wood]
 status: reviewed
 visibility: public

@@ -4,7 +4,7 @@ date: 2001-06-21
 place: Dallas, TX
 actors: [pca-ga]
 subjects: [ascension-presbytery, sjc]
-issues: [original-jurisdiction, judicial-process, women-in-ministry]
+issues: [original-jurisdiction, judicial-process, women-in-ministry, cedar-springs-and-wood-case]
 responds_to: [ascension-overture-19-wood-panel]
 part_of: ga29
 status: reviewed

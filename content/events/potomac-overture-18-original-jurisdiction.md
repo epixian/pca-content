@@ -3,7 +3,7 @@ title: Potomac Presbytery overtures the 30th General Assembly to require greater
 date: ../2002-06-18
 actors: [potomac-presbytery]
 subjects: [pca-ga]
-issues: [original-jurisdiction]
+issues: [original-jurisdiction, cedar-springs-and-wood-case]
 responds_to: [ga28-assumes-jurisdiction-wood]
 status: draft
 visibility: public

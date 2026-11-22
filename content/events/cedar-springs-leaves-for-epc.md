@@ -3,7 +3,7 @@ title: Cedar Springs Presbyterian Church leaves the PCA for the Evangelical Pres
 date: 2001
 actors: [cedar-springs-presbyterian-church]
 subjects: [tennessee-valley-presbytery, epc]
-issues: [ecumenical-relations]
+issues: [ecumenical-relations, cedar-springs-and-wood-case]
 status: draft
 visibility: public
 citations:

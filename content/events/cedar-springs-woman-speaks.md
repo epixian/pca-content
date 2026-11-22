@@ -3,7 +3,7 @@ title: A woman staff member speaks at two Cedar Springs evening services
 date: 1998-08-16/1998-08-23
 place: Knoxville, TN
 actors: [cedar-springs-presbyterian-church]
-issues: [women-in-ministry]
+issues: [women-in-ministry, cedar-springs-and-wood-case]
 status: draft
 visibility: public
 citations:

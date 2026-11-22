@@ -3,7 +3,7 @@ title: Louisiana Presbytery overtures the 28th General Assembly to discipline Te
 date: 2000-04-15
 actors: [louisiana-presbytery]
 subjects: [tennessee-valley-presbytery, pca-ga]
-issues: [original-jurisdiction, women-in-ministry]
+issues: [original-jurisdiction, women-in-ministry, cedar-springs-and-wood-case]
 responds_to: [tvp-clears-cedar-springs-session]
 status: reviewed
 visibility: public

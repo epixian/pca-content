@@ -3,7 +3,7 @@ title: Evangel Presbytery overtures the 29th General Assembly to set procedures 
 date: 2001-01-23
 actors: [evangel-presbytery]
 subjects: [pca-ga, sjc]
-issues: [original-jurisdiction]
+issues: [original-jurisdiction, cedar-springs-and-wood-case]
 responds_to: [ga28-assumes-jurisdiction-wood]
 status: draft
 visibility: public

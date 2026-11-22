@@ -3,7 +3,7 @@ title: Ascension Presbytery overtures the 29th General Assembly to have the CCB 
 date: 2001-01-27
 actors: [ascension-presbytery]
 subjects: [sjc, john-wood]
-issues: [original-jurisdiction, judicial-process, women-in-ministry]
+issues: [original-jurisdiction, judicial-process, women-in-ministry, cedar-springs-and-wood-case]
 responds_to: [ga28-assumes-jurisdiction-wood, sjc-no-process-against-wood]
 status: reviewed
 visibility: public

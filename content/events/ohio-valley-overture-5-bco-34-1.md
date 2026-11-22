@@ -3,7 +3,7 @@ title: Ohio Valley Presbytery and nineteen other presbyteries overture the 30th 
 date: ../2002-06-18
 actors: [ohio-valley-presbytery]
 subjects: [pca-ga]
-issues: [original-jurisdiction]
+issues: [original-jurisdiction, cedar-springs-and-wood-case]
 responds_to: [ga28-assumes-jurisdiction-wood]
 status: draft
 visibility: public

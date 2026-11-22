@@ -4,7 +4,7 @@ date: 2001-06-21
 place: Dallas, TX
 actors: [pca-ga]
 subjects: [western-carolina-presbytery, sjc]
-issues: [judicial-process, women-in-ministry]
+issues: [judicial-process, women-in-ministry, cedar-springs-and-wood-case]
 responds_to: [western-carolina-overture-35-concurring-opinion]
 part_of: ga29
 status: reviewed

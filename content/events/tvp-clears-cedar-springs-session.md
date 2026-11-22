@@ -3,7 +3,7 @@ title: Tennessee Valley Presbytery finds the Cedar Springs session in conformity
 date: 1999-10-12
 actors: [tennessee-valley-presbytery]
 subjects: [cedar-springs-presbyterian-church, western-carolina-presbytery, calvary-presbytery, ascension-presbytery, john-wood]
-issues: [women-in-ministry, judicial-process]
+issues: [women-in-ministry, judicial-process, cedar-springs-and-wood-case]
 responds_to: [cedar-springs-woman-speaks]
 status: reviewed
 visibility: public

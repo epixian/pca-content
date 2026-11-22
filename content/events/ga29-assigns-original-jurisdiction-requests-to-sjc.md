@@ -3,7 +3,7 @@ title: 29th General Assembly assigns requests to assume original jurisdiction to
 date: 2001-06-20
 place: Dallas, TX
 actors: [pca-ga, sjc]
-issues: [original-jurisdiction]
+issues: [original-jurisdiction, cedar-springs-and-wood-case]
 responds_to: [ga28-assumes-jurisdiction-wood]
 part_of: ga29
 status: draft
