@@ -7,7 +7,7 @@ subjects: [epc]
 responds_to: [epc-women-ordination-position-paper]
 issues: [ecumenical-relations, women-in-ministry]
 part_of: ga17
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m17ga
