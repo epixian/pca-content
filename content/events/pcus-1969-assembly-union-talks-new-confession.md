@@ -4,7 +4,7 @@ date: 1969-04-24/1969-04-29
 place: Mobile, AL
 actors: [pcus]
 issues: [pcus-separation, ecumenical-relations, doctrine-and-subscription]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: ct-pcus-1969
