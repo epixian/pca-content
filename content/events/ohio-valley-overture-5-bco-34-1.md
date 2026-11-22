@@ -5,7 +5,7 @@ actors: [ohio-valley-presbytery]
 subjects: [pca-ga]
 issues: [original-jurisdiction, cedar-springs-and-wood-case]
 responds_to: [ga28-assumes-jurisdiction-wood]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m30ga
