@@ -7,9 +7,15 @@ subjects: [westminster-presbytery]
 issues: [women-in-ministry]
 responds_to: [westminster-overture-women-committee]
 part_of: ga45
-status: draft
+status: reviewed
 visibility: public
 citations:
+  - source: m45ga
+    pages: "648"
+    quote: "OVERTURE 3 from Westminster Presbytery"
+  - source: m45ga
+    pages: "649"
+    quote: "dismiss the Ad Interim Committee with apology"
   - source: m45ga
     pages: "50"
     quote: "Overture 3 was referred by Stated Clerk to Ad Interim Committee on Role of Women."
