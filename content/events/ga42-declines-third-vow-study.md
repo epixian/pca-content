@@ -7,7 +7,7 @@ subjects: [philadelphia-presbytery]
 issues: [ordination-exceptions, women-in-ministry]
 responds_to: [philadelphia-overture-22-third-vow]
 part_of: ga42
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m42ga
