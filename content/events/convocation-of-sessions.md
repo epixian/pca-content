@@ -7,7 +7,7 @@ subjects: [pcus]
 associated: [cpc-steering-committee]
 issues: [pcus-separation]
 responds_to: [steering-committee-calls-for-new-church-1973]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: advisory-convention-1973
