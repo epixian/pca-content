@@ -6,7 +6,7 @@ actors: [pca-ga, sjc]
 issues: [original-jurisdiction, cedar-springs-and-wood-case]
 responds_to: [ga28-assumes-jurisdiction-wood]
 part_of: ga29
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m29ga

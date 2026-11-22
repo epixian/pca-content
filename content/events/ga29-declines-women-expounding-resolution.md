@@ -7,7 +7,7 @@ subjects: [mna]
 issues: [women-in-ministry]
 responds_to: [ga28-adopts-mna-seminar-guidelines]
 part_of: ga29
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m29ga
