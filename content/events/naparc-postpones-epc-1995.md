@@ -6,7 +6,7 @@ actors: [naparc]
 subjects: [epc]
 responds_to: [epc-women-ordination-position-paper]
 issues: [ecumenical-relations, women-in-ministry]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m24ga
