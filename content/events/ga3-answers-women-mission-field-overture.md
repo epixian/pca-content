@@ -6,7 +6,7 @@ actors: [pca-ga, mtw]
 issues: [women-in-ministry]
 responds_to: [westminster-overture-11-women-mission-field]
 part_of: ga3
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m3ga
