@@ -5,7 +5,7 @@ place: Colorado Springs, CO
 actors: [pca-ga]
 issues: [women-in-ministry]
 part_of: ga25
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m25ga
