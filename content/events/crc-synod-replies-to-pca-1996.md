@@ -5,7 +5,7 @@ actors: [crc]
 subjects: [pca-ga]
 issues: [ecumenical-relations, women-in-ministry]
 responds_to: [ga23-crc-remove-from-naparc]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m25ga
