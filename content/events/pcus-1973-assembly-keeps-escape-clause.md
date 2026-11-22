@@ -6,7 +6,7 @@ actors: [pcus]
 subjects: [continuing-presbyterian-church, pef]
 issues: [pcus-separation, ecumenical-relations]
 responds_to: [convocation-of-sessions]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: ct-pcus-1973
