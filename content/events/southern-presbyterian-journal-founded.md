@@ -4,7 +4,7 @@ date: 1942-05
 actors: [presbyterian-journal, l-nelson-bell]
 subjects: [pcus]
 issues: [pcus-separation]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: pcahc-journal-records
