@@ -5,7 +5,7 @@ place: Mobile, AL
 actors: [pcus]
 subjects: [concerned-presbyterians, presbyterian-journal]
 issues: [pcus-separation]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: ct-pcus-1969
