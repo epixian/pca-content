@@ -5,7 +5,7 @@ place: Massanetta Springs, VA
 actors: [pcus]
 issues: [pcus-separation, ecumenical-relations]
 responds_to: [pcus-1969-assembly-union-talks-new-confession]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: ct-pcus-1971
