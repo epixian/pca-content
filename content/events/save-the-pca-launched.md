@@ -4,7 +4,7 @@ date: ../2025-10-04
 actors: [save-the-pca, michael-foster]
 subjects: [pca]
 issues: [complementarianism, women-in-ministry]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: stp-about

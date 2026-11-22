@@ -3,7 +3,7 @@ title: Garris criticizes "shepherdesses" in PCA churches
 date: 2025-10-09
 actors: [zachary-garris, american-reformer]
 issues: [women-in-ministry, titles-of-office]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: amreformer-garris-2025
