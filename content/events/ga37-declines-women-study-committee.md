@@ -7,7 +7,7 @@ subjects: [james-river-presbytery, susquehanna-valley-presbytery]
 issues: [women-in-ministry]
 responds_to: [presbyteries-overture-women-study-2009]
 part_of: ga37
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m37ga
