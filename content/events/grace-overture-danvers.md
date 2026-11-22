@@ -5,7 +5,7 @@ actors: [grace-presbytery]
 subjects: [cbmw]
 issues: [complementarianism, headship-in-marriage, women-in-ministry]
 responds_to: [ga36-acts-on-study-overtures, danvers-statement-published]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m37ga
