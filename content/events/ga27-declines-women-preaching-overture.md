@@ -4,6 +4,7 @@ date: 1999-06-17
 place: Louisville, KY
 actors: [pca-ga, western-carolina-presbytery]
 issues: [women-in-ministry, complementarianism]
+responds_to: [western-carolina-overture-women-preaching]
 part_of: ga27
 status: reviewed
 visibility: public

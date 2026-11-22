@@ -6,7 +6,7 @@ actors: [pca-ga, mna]
 issues: [women-in-ministry]
 responds_to: [ga25-declines-mna-women-seminars-overture]
 part_of: ga27
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m27ga
