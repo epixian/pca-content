@@ -7,7 +7,7 @@ subjects: [ascension-presbytery, sjc]
 issues: [original-jurisdiction, judicial-process, women-in-ministry]
 responds_to: [ascension-overture-19-wood-panel]
 part_of: ga29
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m29ga
