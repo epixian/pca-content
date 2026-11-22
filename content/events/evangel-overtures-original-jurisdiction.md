@@ -5,7 +5,7 @@ actors: [evangel-presbytery]
 subjects: [pca-ga, sjc]
 issues: [original-jurisdiction, cedar-springs-and-wood-case]
 responds_to: [ga28-assumes-jurisdiction-wood]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m29ga
