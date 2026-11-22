@@ -7,7 +7,7 @@ subjects: [crc, irc, naparc]
 issues: [ecumenical-relations, women-in-ministry]
 responds_to: [crc-synod-replies-to-pca-1996, ga23-crc-remove-from-naparc]
 part_of: ga25
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m25ga
