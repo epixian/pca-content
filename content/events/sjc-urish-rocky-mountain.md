@@ -3,8 +3,9 @@ title: Standing Judicial Commission upholds Rocky Mountain Presbytery on a candi
 date: 2009-10-15/2010-03-05
 actors: [sjc]
 subjects: [rocky-mountain-presbytery]
+responds_to: [rocky-mountain-sustains-breed-exam]
 issues: [women-in-ministry, judicial-process, ordination-exceptions]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m38ga
