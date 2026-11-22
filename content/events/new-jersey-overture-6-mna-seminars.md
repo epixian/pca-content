@@ -4,7 +4,7 @@ date: ../1997-06-10
 actors: [new-jersey-presbytery]
 subjects: [mna]
 issues: [women-in-ministry]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m25ga
