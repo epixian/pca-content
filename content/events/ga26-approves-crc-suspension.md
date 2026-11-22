@@ -7,7 +7,7 @@ subjects: [crc, naparc, irc]
 issues: [complementarianism, ecumenical-relations]
 responds_to: [naparc-votes-to-suspend-crc, ga25-ends-crc-fellowship]
 part_of: ga26
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m26ga
