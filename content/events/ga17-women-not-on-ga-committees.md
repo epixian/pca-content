@@ -5,7 +5,7 @@ place: La Mirada, CA
 actors: [pca-ga, tennessee-valley-presbytery]
 issues: [women-in-ministry]
 part_of: ga17
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m17ga
