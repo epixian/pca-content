@@ -7,7 +7,7 @@ subjects: [pcus]
 associated: [continuing-presbyterian-church, cpc-steering-committee, w-jack-williamson]
 issues: [pcus-separation]
 responds_to: [convocation-of-sessions]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: advisory-convention-1973
