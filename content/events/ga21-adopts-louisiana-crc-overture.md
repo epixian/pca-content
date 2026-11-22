@@ -7,7 +7,7 @@ subjects: [crc]
 issues: [ecumenical-relations, women-in-ministry]
 responds_to: [ga21-thanks-crc-synod-1992]
 part_of: ga21
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m21ga

@@ -7,7 +7,7 @@ subjects: [covenant-seminary]
 issues: [women-in-ministry]
 responds_to: [heartland-overture-women-mdiv]
 part_of: ga18
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m18ga

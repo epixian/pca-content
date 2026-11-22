@@ -5,7 +5,7 @@ place: Grand Rapids, MI
 actors: [naparc]
 subjects: [crc]
 issues: [ecumenical-relations, women-in-ministry]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m22ga

@@ -4,7 +4,7 @@ date: 1990-03-16/1990-03-17
 actors: [heartland-presbytery]
 subjects: [covenant-seminary]
 issues: [women-in-ministry]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m18ga
