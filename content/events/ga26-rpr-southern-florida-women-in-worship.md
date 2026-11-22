@@ -6,7 +6,7 @@ actors: [pca-ga, rpr]
 subjects: [southern-florida-presbytery]
 issues: [women-in-ministry]
 part_of: ga26
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m26ga
