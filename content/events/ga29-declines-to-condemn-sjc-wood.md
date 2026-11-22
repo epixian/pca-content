@@ -7,7 +7,7 @@ subjects: [sjc, john-wood]
 issues: [women-in-ministry, judicial-process, original-jurisdiction]
 responds_to: [sjc-no-process-against-wood]
 part_of: ga29
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m29ga
