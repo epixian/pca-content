@@ -5,7 +5,7 @@ actors: [louisiana-presbytery]
 subjects: [tennessee-valley-presbytery, pca-ga]
 issues: [original-jurisdiction, women-in-ministry]
 responds_to: [tvp-clears-cedar-springs-session]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m28ga
