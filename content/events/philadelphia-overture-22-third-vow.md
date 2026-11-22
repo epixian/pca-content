@@ -3,7 +3,7 @@ title: Philadelphia Presbytery overtures the 42nd General Assembly for a study c
 date: 2014-02-27
 actors: [philadelphia-presbytery]
 issues: [ordination-exceptions, women-in-ministry]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m42ga
