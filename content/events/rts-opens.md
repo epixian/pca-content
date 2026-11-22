@@ -5,7 +5,7 @@ place: Jackson, MS
 actors: [rts]
 subjects: [pcus]
 issues: [pcus-separation, doctrine-and-subscription]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: ct-rts-1966-01
