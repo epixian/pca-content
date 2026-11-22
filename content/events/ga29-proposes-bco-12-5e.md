@@ -6,7 +6,7 @@ actors: [pca-ga, philadelphia-presbytery]
 issues: [women-in-ministry, complementarianism]
 responds_to: [presbyteries-reject-bco-12-5d]
 part_of: ga29
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m29ga
