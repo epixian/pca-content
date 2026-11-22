@@ -6,7 +6,7 @@ actors: [pca-ga, oc, pee-dee-presbytery]
 issues: [women-in-ministry]
 responds_to: [pee-dee-overture-bco-53-preaching]
 part_of: ga51
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m51ga
