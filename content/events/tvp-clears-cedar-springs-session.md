@@ -5,7 +5,7 @@ actors: [tennessee-valley-presbytery]
 subjects: [cedar-springs-presbyterian-church, western-carolina-presbytery, calvary-presbytery, ascension-presbytery, john-wood]
 issues: [women-in-ministry, judicial-process]
 responds_to: [cedar-springs-woman-speaks]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m28ga
