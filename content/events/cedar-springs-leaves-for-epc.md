@@ -4,7 +4,7 @@ date: 2001
 actors: [cedar-springs-presbyterian-church]
 subjects: [tennessee-valley-presbytery, epc]
 issues: [ecumenical-relations, cedar-springs-and-wood-case]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m29ga
