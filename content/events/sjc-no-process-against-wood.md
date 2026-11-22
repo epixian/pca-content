@@ -5,7 +5,7 @@ actors: [sjc]
 subjects: [cedar-springs-presbyterian-church, john-wood]
 issues: [women-in-ministry, judicial-process, original-jurisdiction]
 responds_to: [ga28-assumes-jurisdiction-wood]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m29ga
