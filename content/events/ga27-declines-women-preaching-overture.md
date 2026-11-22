@@ -5,7 +5,7 @@ place: Louisville, KY
 actors: [pca-ga, western-carolina-presbytery]
 issues: [women-in-ministry, complementarianism]
 part_of: ga27
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m27ga
