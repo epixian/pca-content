@@ -4,7 +4,7 @@ date: 1998-08-16/1998-08-23
 place: Knoxville, TN
 actors: [cedar-springs-presbyterian-church]
 issues: [women-in-ministry, cedar-springs-and-wood-case]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m29ga
