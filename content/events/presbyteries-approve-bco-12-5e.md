@@ -4,7 +4,7 @@ date: 2001-06/2002-06-19
 actors: [pca]
 issues: [women-in-ministry, complementarianism]
 responds_to: [ga29-proposes-bco-12-5e]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m30ga
