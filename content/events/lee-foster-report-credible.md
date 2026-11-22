@@ -5,7 +5,7 @@ actors: [matthew-lee, aquila-report]
 subjects: [save-the-pca, michael-foster]
 issues: [women-in-ministry, titles-of-office]
 responds_to: [stp-ffo-report-published, lee-carr-deaconess-survey]
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: aquila-lee-2025
