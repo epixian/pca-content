@@ -7,7 +7,7 @@ subjects: [new-jersey-presbytery]
 issues: [women-in-ministry]
 responds_to: [new-jersey-overture-6-mna-seminars]
 part_of: ga25
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m25ga
