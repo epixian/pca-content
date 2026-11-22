@@ -6,7 +6,7 @@ actors: [pca-ga]
 issues: [women-in-ministry]
 responds_to: [ga26-rpr-southern-florida-women-in-worship]
 part_of: ga27
-status: draft
+status: reviewed
 visibility: public
 citations:
   - source: m27ga
